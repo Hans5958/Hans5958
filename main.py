@@ -103,6 +103,6 @@ for line in events[:5]:
 addline("")
 addline("</details>")
 addline("")
-addline(f"*Last updated: {time.strftime('%m/%d/%Y, %H:%M:%S UTC', time.localtime())}*")
+addline(f"*Last updated: {time.strftime('%d/%m/%Y, %H:%M:%S UTC', time.localtime())}*")
 
 print("\n".join(lines))
