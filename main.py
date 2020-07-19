@@ -30,7 +30,7 @@ def addline(x):
 addline('<div align="center">')
 addline("<h1>Welcome to my GitHub profile!</h1>")
 addline("")
-addline("[Website](https://hans5958.me) :black_medium_square: [YouTube](https://youtube.com/Hans5958) :black_medium_square: [Twitter](https://twitter.com/Hans5958) :black_medium_square: [Keybase](https://keybase.io/hans5958)")
+addline("[Website](https://hans5958.me) - [YouTube](https://youtube.com/Hans5958) - [Twitter](https://twitter.com/Hans5958) - [Keybase](https://keybase.io/hans5958)")
 addline("")
 addline(f"FYI: It is **{h24}:xx** (**{h12}**) in Jakarta. {emoji}  ")
 if gmt_07 < 7:

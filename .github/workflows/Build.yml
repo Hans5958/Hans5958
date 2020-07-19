@@ -2,6 +2,8 @@ name: Build
 
 on: 
   push:
+    branches:
+      - master
   schedule:
     - cron: "0 * * * *"
 
@@ -30,4 +32,4 @@ jobs:
           force: true
           message: Update README.md (${{env.TIMESTAMP}})
         env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Leave this line unchanged
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
