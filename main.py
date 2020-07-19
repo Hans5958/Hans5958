@@ -78,7 +78,7 @@ for event in response:
 		# events.append(f'Pushed commits on {repo_link_md} ({timestamp})')
 		for commit in event["payload"]["commits"]:
 			hash = commit['sha']
-			commits.append(f"[`{hash[:6]}`]({repo_link}/commit/{hash}) {commit['message'].splitlines()[0]}")
+			commits.append(f"[`{hash[:7]}`]({repo_link}/commit/{hash}) {commit['message'].splitlines()[0]}")
 	elif event["type"] == "IssuesEvent":
 		issue_number = event["payload"]["issue"]["number"]
 		events.append(f'{event["payload"]["action"].capitalize()} issue [#{issue_number}]({repo_link}/issues/{issue_number}) on {repo_link_md} ({timestamp})')
