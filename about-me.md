@@ -10,4 +10,6 @@ Outside programming, I also like to write things about anything that I interest,
 
 I also like to chat with my friends, try to be the best on my school, and having a great time with my family, if you ask.
 
-You may contact me through email, or contact me through [one of my social media accounts](https://hans5958.me/accounts).
+You may contact me through email or through [one of my social media accounts](https://hans5958.me/accounts).
+
+You want other stuff than tech? Go check out [my YouTube channel](https://youtube.com/Hans5958), [my Twitter account](https://twitter.com/Hans5958), and [my blog](https://pixwp.wordpress.org). I also publish some random texts on [my Gists](https://gist.github.com/Hans5958).
