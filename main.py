@@ -113,6 +113,6 @@ for line in events[:5]:
 addline("")
 addline("</details>")
 addline("")
-addline(f"*Last updated: {time.strftime('%d/%m/%Y, %H:%M:%S UTC', time.localtime())}*")
+addline(f"*Last updated: {time.strftime('%d/%m/%Y, %H:%M:%S UTC', time.localtime())}* <a href='https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild'><img src='https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build' align='right'></a>")
 
 print("\n".join(lines))
