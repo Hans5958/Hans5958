@@ -87,13 +87,13 @@ for event in response:
 		pr_number = event["payload"]["pull_request"]["number"]
 		events.append(f'{event["payload"]["action"].capitalize()} pull request [#{pr_number}]({repo_link}/issues/{pr_number}) on {repo_link_md} ({timestamp})')
 	elif event["type"] == "IssueCommentEvent":
+		issue_number = event["payload"]["issue"]["number"]
 		events.append(f'{event["payload"]["action"].capitalize()} comment on issue/PR [#{issue_number}]({repo_link}/issues/{issue_number}) on {repo_link_md} ({timestamp})')
 	elif event["type"] == "ReleaseEvent":
 		events.append(f'{event["payload"]["action"].capitalize()} version ({event["payload"]["release"]["tag_name"]}) on {repo_link_md} ({timestamp})')
-	elif event["type"] == "PullRequestReviewEvent":
-		events.append(f'{event["payload"]["action"].capitalize()} review on PR [#{issue_number}]({repo_link}/issues/{issue_number}) on {repo_link_md} ({timestamp})')
 	elif event["type"] == "PullRequestReviewCommentEvent":
-		events.append(f'{event["payload"]["action"].capitalize()} comment on a review on PR [#{issue_number}]({repo_link}/issues/{issue_number}) on {repo_link_md} ({timestamp})')
+		pr_number = event["payload"]["pull_request"]["number"]
+		events.append(f'{event["payload"]["action"].capitalize()} comment on a review on PR [#{pr_number}]({repo_link}/issues/{pr_number}) on {repo_link_md} ({timestamp})')
 	else:
 		events.append(f'{event["type"]} on {repo_link_md} ({timestamp})')
 
