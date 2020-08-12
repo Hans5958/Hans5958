@@ -10,10 +10,12 @@ def add_line(x):
 	lines.append(x)
 
 def flush_lines():
-	lines = []
+	lines.clear()
 
 def print_lines():
-	return "\n".join(lines)
+	temp_lines = lines.copy()
+	flush_lines()
+	return "\n".join(temp_lines)
 
 # Time
 
@@ -98,18 +100,12 @@ with open('base.md', 'r') as f:
 	else:
 		replace("{{status-from-time}}", "*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*")
 
-	flush_lines()
-
-	for line in commits[:5]:
+	for line in commits[:10]:
 		add_line(f"- {line}")
-
 	replace("{{last-commits}}", print_lines())
 
-	flush_lines()
-
-	for line in events[:5]:
+	for line in events[:10]:
 		add_line(f"- {line}")
-
 	replace("{{last-events}}", print_lines())
 
 	replace("{{last-updated}}", time.strftime('%d/%m/%Y, %H:%M:%S UTC', time.localtime()))

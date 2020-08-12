@@ -33,11 +33,11 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ## Recent activity
 
-### Last five commits
+### Last ten commits
 
 {{last-commits}}
 
-### Last five events
+### Last ten events
 
 {{last-events}}
 
