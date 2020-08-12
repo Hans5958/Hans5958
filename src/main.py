@@ -22,10 +22,12 @@ def print_lines():
 gmt_00 = time.gmtime().tm_hour
 gmt_07 = gmt_00 + 7
 
-if gmt_07 < 12: h12 = f"{gmt_07}am"
-else: h12 = f"{gmt_07-12}pm"
-
 if gmt_07 > 23: gmt_07 -= 24
+
+if gmt_07 == 0: "12am"
+elif gmt_07 < 12: h12 = f"{gmt_07}am"
+elif gmt_07 == 12: h12 = "12pm"
+else: h12 = f"{gmt_07-12}pm"
 
 if len(str(gmt_07)) == 1: h24 = f"0{gmt_07}"
 else: h24 = gmt_07
