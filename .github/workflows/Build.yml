@@ -21,11 +21,13 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r src/requirements.txt
       - name: Set date
         run: Write-Host "::set-env name=TIMESTAMP::$(Get-Date -Format o)"
       - name: Build README.md
-        run: python main.py > README.md
+        run: |
+          cd src
+          python main.py
       - name: Commit changes
         uses: EndBug/add-and-commit@v4 
         with:
