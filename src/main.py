@@ -24,7 +24,7 @@ gmt_07 = gmt_00 + 7
 
 if gmt_07 > 23: gmt_07 -= 24
 
-if gmt_07 == 0: "12am"
+if gmt_07 == 0: h12 = "12am"
 elif gmt_07 < 12: h12 = f"{gmt_07}am"
 elif gmt_07 == 12: h12 = "12pm"
 else: h12 = f"{gmt_07-12}pm"
@@ -51,8 +51,9 @@ for event in response:
 		# events.append(f'Pushed commits on {repo_link_md} ({timestamp})')
 		branch = event["payload"]["ref"][11:]
 		for commit in event["payload"]["commits"]:
-			hash = commit['sha']
-			commits.append(f"[`{hash[:7]}`]({repo_link}/commit/{hash}) {commit['message'].splitlines()[0]} ({repo_link_md}, [{branch}]({repo_link}/tree/{branch}))")
+			if commit["author"]["name"] == "Hans5958":
+				hash = commit['sha']
+				commits.append(f"[`{hash[:7]}`]({repo_link}/commit/{hash}) {commit['message'].splitlines()[0]} ({repo_link_md}, [{branch}]({repo_link}/tree/{branch}))")
 	elif event["type"] == "IssuesEvent":
 		issue_number = event["payload"]["issue"]["number"]
 		events.append(f'{event["payload"]["action"].capitalize()} issue [#{issue_number}]({repo_link}/issues/{issue_number}) on {repo_link_md} ({timestamp})')
