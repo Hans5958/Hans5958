@@ -46,30 +46,58 @@ response = responseReq.json()
 for event in response:
 	repo_link = f'https://github.com/{event["repo"]["name"]}'
 	repo_link_md = f'[{event["repo"]["name"]}]({repo_link})'
+	payload = event["payload"]
+	type = event["type"]
+	
 	timestamp = event["created_at"]
-	if event["type"] == "PushEvent":
+	
+	if type == "CreateEvent":
+		events.append(f'Created {payload["ref_type"]} `{payload["ref"]}` on {repo_link_md} ({timestamp})')
+	
+	elif type == "DeleteEvent":
+		events.append(f'Deleted {payload["ref_type"]} `{payload["ref"]}` on {repo_link_md} ({timestamp})')
+		
+	elif type == "ForkEvent":
+		events.append(f'Made fork of {repo_link_md} on [{payload["forkee"]["full_name"]}](https://github.com/{payload["forkee"]["full_name"]}) ({timestamp})')
+	
+	elif type == "GollumEvent":
+		events.append(f'Updated wiki on {repo_link_md} ({timestamp})')
+	
+	elif type == "IssueCommentEvent":
+		issue_number = payload["issue"]["number"]
+		events.append(f'{payload["action"].capitalize()} comment on issue/PR [#{issue_number}]({repo_link}/issues/{issue_number}) on {repo_link_md} ({timestamp})')
+	
+	elif type == "IssuesEvent":
+		issue_number = payload["issue"]["number"]
+		events.append(f'{payload["action"].capitalize()} issue [#{issue_number}]({repo_link}/issues/{issue_number}) on {repo_link_md} ({timestamp})')
+
+	elif type == "PullRequestEvent":
+		pr_number = payload["pull_request"]["number"]
+		events.append(f'{payload["action"].capitalize()} pull request [#{pr_number}]({repo_link}/issues/{pr_number}) on {repo_link_md} ({timestamp})')
+	
+	elif type == "PullRequestReviewCommentEvent":
+		pr_number = payload["pull_request"]["number"]
+		events.append(f'{payload["action"].capitalize()} comment on a review on PR [#{pr_number}]({repo_link}/issues/{pr_number}) on {repo_link_md} ({timestamp})')
+	
+	elif type == "PublicEvent":
+		events.append(f'Made repo {repo_link_md} public ({timestamp})')
+	
+	elif type == "PushEvent":
 		# events.append(f'Pushed commits on {repo_link_md} ({timestamp})')
-		branch = event["payload"]["ref"][11:]
-		for commit in event["payload"]["commits"]:
+		branch = payload["ref"][11:]
+		for commit in payload["commits"]:
 			if commit["author"]["name"] == "Hans5958":
 				hash = commit['sha']
 				commits.append(f"[`{hash[:7]}`]({repo_link}/commit/{hash}) {commit['message'].splitlines()[0]} ({repo_link_md}, [{branch}]({repo_link}/tree/{branch}))")
-	elif event["type"] == "IssuesEvent":
-		issue_number = event["payload"]["issue"]["number"]
-		events.append(f'{event["payload"]["action"].capitalize()} issue [#{issue_number}]({repo_link}/issues/{issue_number}) on {repo_link_md} ({timestamp})')
-	elif event["type"] == "PullRequestEvent":
-		pr_number = event["payload"]["pull_request"]["number"]
-		events.append(f'{event["payload"]["action"].capitalize()} pull request [#{pr_number}]({repo_link}/issues/{pr_number}) on {repo_link_md} ({timestamp})')
-	elif event["type"] == "IssueCommentEvent":
-		issue_number = event["payload"]["issue"]["number"]
-		events.append(f'{event["payload"]["action"].capitalize()} comment on issue/PR [#{issue_number}]({repo_link}/issues/{issue_number}) on {repo_link_md} ({timestamp})')
-	elif event["type"] == "ReleaseEvent":
-		events.append(f'{event["payload"]["action"].capitalize()} version ({event["payload"]["release"]["tag_name"]}) on {repo_link_md} ({timestamp})')
-	elif event["type"] == "PullRequestReviewCommentEvent":
-		pr_number = event["payload"]["pull_request"]["number"]
-		events.append(f'{event["payload"]["action"].capitalize()} comment on a review on PR [#{pr_number}]({repo_link}/issues/{pr_number}) on {repo_link_md} ({timestamp})')
-	else:
-		events.append(f'{event["type"]} on {repo_link_md} ({timestamp})')
+	
+	elif type == "ReleaseEvent":
+		events.append(f'{payload["action"].capitalize()} version ({payload["release"]["tag_name"]}) on {repo_link_md} ({timestamp})')
+	
+	elif type == "WatchEvent":
+		events.append(f'{payload["action"].capitalize()} {repo_link_md} ({timestamp})')
+	
+	else: # MemberEvent and SponsorEvent not supported
+		events.append(f'{type} on {repo_link_md} ({timestamp})')
 
 # Get last dev commit
 
@@ -122,8 +150,8 @@ with open('../README.md', 'w') as f:
 # add_line("### Last five commits")
 # add_line("")
 
-for line in commits[:5]:
-	add_line(f"- {line}")
+# for line in commits[:5]:
+#	add_line(f"- {line}")
 	
 # add_line("")
 # add_line("### Last five events")
