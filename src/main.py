@@ -142,7 +142,7 @@ with open('base.md', 'r') as f:
 	replace("{{last-updated}}", time.strftime('%d/%m/%Y, %H:%M:%S UTC', time.localtime()))
 	replace("{{commit-hash}}", f"[`{last_dev_commit[:7]}`](https://github.com/Hans5958/Hans5958/commit/{last_dev_commit})")
 
-with open('../README.md', 'w') as f:
+with open("../README.md", "w", encoding="utf-8") as f:
 
 	f.write(file)
 
