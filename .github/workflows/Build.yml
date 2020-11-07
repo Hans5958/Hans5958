@@ -10,36 +10,31 @@ on:
 jobs:
   build:
     name: Build
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
         with:
-          python-version: 3.x
+          node-version: '14.x'
       - name: Cache dependencies
         uses: actions/cache@v2
         with:
-            path: ~\AppData\Local\pip\Cache
-            key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-            restore-keys: |
-              ${{ runner.os }}-pip-
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r src/requirements.txt
-      - name: Set date
-        run: Write-Host "::set-env name=TIMESTAMP::$(Get-Date -Format o)"
+        run: npm install
       - name: Build README.md
-        run: |
-          cd src
-          python main.py
+        id: build
+        run: npm run build
       - name: Commit changes
         uses: EndBug/add-and-commit@v4 
         with:
           force: true
-          message: Update README.md (${{env.TIMESTAMP}})
+          message: Update README.md (${{steps.build.outputs.TIMESTAMP}})
           author_name: Auto5958
           author_email: 69833949+Auto5958@users.noreply.github.com
         env:
