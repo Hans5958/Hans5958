@@ -1,31 +1,27 @@
 {
-  "name": "hans5958-github-profile-readme",
-  "version": "1.0.0",
-  "description": "",
-  "main": "src/index.js",
-  "scripts": {
-
-    "test": "node src/index.js",
-
-    "run": "node src/index.js",
-    "start": "node src/index.js",
-    "debug": "node src/index.js",
-    "build": "node src/build.js",
-
-    "build-file": "node src/build.js",
-
-    "build-readme": "node src/build.js",
-    "generate": "node src/build.js",
-    "generate-file": "node src/build.js",
-    "generate-readme": "node src/build.js",
-    "readme": "node src/build.js",
-    "publish": "node src/build.js"
-
-  },
-  "author": "Hans5958",
-  "license": "MIT",
-  "dependencies": {
-    "axios": "^0.21.0",
-    "dayjs": "^1.9.5"
-  }
+    "name": "hans5958-github-profile-readme",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "node src/index.js",
+        "run": "node src/index.js",
+        "start": "node src/index.js",
+        "debug": "node src/index.js",
+        "build": "node src/build.js",
+        "build-file": "node src/build.js",
+        "build-readme": "node src/build.js",
+        "generate": "node src/build.js",
+        "generate-file": "node src/build.js",
+        "generate-readme": "node src/build.js",
+        "readme": "node src/build.js",
+        "publish": "node src/build.js"
+    },
+    "author": "Hans5958",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.21.0",
+        "child-process-promise": "^2.2.1",
+        "dayjs": "^1.9.5"
+    }
 }

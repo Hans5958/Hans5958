@@ -37,5 +37,6 @@ jobs:
           message: Update README.md (${{steps.build.outputs.TIMESTAMP}})
           author_name: Auto5958
           author_email: 69833949+Auto5958@users.noreply.github.com
+          add: README.md last-dev-commit.txt
         env:
           GITHUB_TOKEN: ${{secrets.GH_PAT}}
