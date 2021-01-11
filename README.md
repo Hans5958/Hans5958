@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`12e87f0`](https://github.com/ScratchAddons/scratchaddons.github.io/commit/12e87f0d4be84704cbd0d3fb613f6864ed346fe8) Simplify code ([ScratchAddons/scratchaddons.github.io](https://github.com/ScratchAddons/scratchaddons.github.io), [master](https://github.com/ScratchAddons/scratchaddons.github.io/tree/master))
+- [`1eecb76`](https://github.com/ScratchAddons/scratchaddons.github.io/commit/1eecb7610f9b0c738689fc0eeb7c4301a5573e69) Merge pull request #4 from RedGuy12/patch-1 ([ScratchAddons/scratchaddons.github.io](https://github.com/ScratchAddons/scratchaddons.github.io), [master](https://github.com/ScratchAddons/scratchaddons.github.io/tree/master))
+- [`12e87f0`](https://github.com/RedGuy12/scratchaddons.github.io/commit/12e87f0d4be84704cbd0d3fb613f6864ed346fe8) Simplify code ([RedGuy12/scratchaddons.github.io](https://github.com/RedGuy12/scratchaddons.github.io), [patch-1](https://github.com/RedGuy12/scratchaddons.github.io/tree/patch-1))
 - [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a) Update dependencies ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [master](https://github.com/Hans5958/Hans5958/tree/master))
 - [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a) Update dependencies ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
 - [`6d17dd1`](https://github.com/ScratchAddons/contributors/commit/6d17dd11664a41a46874aaccddefe5b62af3cab4) docs: add robloaks as a contributor (#70) ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [master](https://github.com/ScratchAddons/contributors/tree/master))
@@ -42,10 +45,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`5050081`](https://github.com/ScratchAddons/contributors/commit/50500816419777ed6477186b4c8f5623a501cc57) Merge branch 'master' into all-contributors/add-maDU59 ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [all-contributors/add-maDU59](https://github.com/ScratchAddons/contributors/tree/all-contributors/add-maDU59))
 - [`52ed2c0`](https://github.com/ScratchAddons/contributors/commit/52ed2c0674280c476819608d8b0002792952b79c) Merge branch 'master' into all-contributors/add-oof-le-oof ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [all-contributors/add-oof-le-oof](https://github.com/ScratchAddons/contributors/tree/all-contributors/add-oof-le-oof))
 - [`78e3474`](https://github.com/ScratchAddons/contributors/commit/78e347402458696e8efc2ef37f13463b503cc2cf) Merge branch 'master' into all-contributors/add-Curiousg2 ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [all-contributors/add-Curiousg2](https://github.com/ScratchAddons/contributors/tree/all-contributors/add-Curiousg2))
-- [`a60edd6`](https://github.com/ScratchAddons/contributors/commit/a60edd63e42bd8a0e85258812b033794dead103d) Merge branch 'master' into all-contributors/add-Secret-chest ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [all-contributors/add-Secret-chest](https://github.com/ScratchAddons/contributors/tree/all-contributors/add-Secret-chest))
 
 ### Last ten events
 
+- Closed pull request [#4](https://github.com/ScratchAddons/scratchaddons.github.io/issues/4) on [ScratchAddons/scratchaddons.github.io](https://github.com/ScratchAddons/scratchaddons.github.io) (2021-01-11T09:36:49Z)
 - Closed issue [#12](https://github.com/ScratchAddons/contributors/issues/12) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-11T02:18:03Z)
 - Created comment on issue/PR [#12](https://github.com/ScratchAddons/contributors/issues/12) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-11T02:16:47Z)
 - Opened issue [#71](https://github.com/ScratchAddons/contributors/issues/71) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-11T02:14:43Z)
@@ -55,11 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Deleted branch `all-contributors/add-maDU59` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-11T02:11:13Z)
 - Created comment on issue/PR [#69](https://github.com/ScratchAddons/contributors/issues/69) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-11T02:11:06Z)
 - Closed pull request [#68](https://github.com/ScratchAddons/contributors/issues/68) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-11T02:09:16Z)
-- Created comment on issue/PR [#68](https://github.com/ScratchAddons/contributors/issues/68) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-11T02:09:16Z)
 
 </details>
 
-*Last updated: 11/01/2021, 09:26:18 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 11/01/2021, 09:37:04 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
