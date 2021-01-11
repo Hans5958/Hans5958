@@ -20,8 +20,8 @@
     "author": "Hans5958",
     "license": "MIT",
     "dependencies": {
-        "axios": "^0.21.0",
+        "axios": "^0.21.1",
         "child-process-promise": "^2.2.1",
-        "dayjs": "^1.9.5"
+        "dayjs": "^1.10.3"
     }
 }
