@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  
 *I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
@@ -35,6 +35,9 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`6364514`](https://github.com/ScratchAddons/website/commit/63645142727bd7175a72f82a62c0b31926b0517e) Fix typo on FAQ ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
+- [`71b6625`](https://github.com/ScratchAddons/website/commit/71b662564d929bc8fe9c46ddf18c94519372a677) Simplify easter egg console log ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
+- [`03ce489`](https://github.com/ScratchAddons/website/commit/03ce48958d1785b5d7a3e517312128b92a57b7aa) Fix Gemfile again ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
 - [`13d4278`](https://github.com/ScratchAddons/website/commit/13d4278114de55b2c235f2ed6be82df802a866f1) Update Gemfile and copyright year ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
 - [`1c8a0ce`](https://github.com/ScratchAddons/website/commit/1c8a0ce8b9955beef2a7b57a5d12f0f21f8adef7) Update Gemfile and copyright year ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
 - [`b676ede`](https://github.com/ScratchAddons/website/commit/b676ededc46deae70f65bf3db16fb1dca6d246ec) Update Gemfile and copyright year ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
@@ -42,12 +45,11 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`a2fee83`](https://github.com/ScratchAddons/ScratchAddons/commit/a2fee830e50d6591ae25e71960e20ff70f0ff942) Update CHANGELOG.md ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [changelog-detailed](https://github.com/ScratchAddons/ScratchAddons/tree/changelog-detailed))
 - [`afd384c`](https://github.com/ScratchAddons/ScratchAddons/commit/afd384ccc8e52f212a9af9a61648af8878475ef7) Update 1.7.0 and add 1.7.1 ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [changelog-detailed](https://github.com/ScratchAddons/ScratchAddons/tree/changelog-detailed))
 - [`db51124`](https://github.com/ScratchAddons/ScratchAddons/commit/db5112411a7b40a00be1f6748331d926c9bd0a62) Add 1.7.0 ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [changelog-detailed](https://github.com/ScratchAddons/ScratchAddons/tree/changelog-detailed))
-- [`0648a60`](https://github.com/ScratchAddons/website/commit/0648a60758b6232bf7493ced3c8261788db1c13d) Add maximouse's images (second wave) ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
-- [`00d994a`](https://github.com/ScratchAddons/website/commit/00d994aa62dc77678371c3bb9e75512848bf233a) Add link to addons page on index page ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
-- [`d8b16ac`](https://github.com/ScratchAddons/website/commit/d8b16acb21adde86cce50262f3422814cc8fc604) Use "profile" link from all-contributors instead of GH link ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
 
 ### Last ten events
 
+- Created comment on issue/PR [#970](https://github.com/ScratchAddons/ScratchAddons/issues/970) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T16:11:53Z)
+- Created comment on issue/PR [#1256](https://github.com/ScratchAddons/ScratchAddons/issues/1256) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T16:03:29Z)
 - Created comment on issue/PR [#970](https://github.com/ScratchAddons/ScratchAddons/issues/970) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T15:16:32Z)
 - Created comment on issue/PR [#970](https://github.com/ScratchAddons/ScratchAddons/issues/970) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T15:11:47Z)
 - Created comment on issue/PR [#1256](https://github.com/ScratchAddons/ScratchAddons/issues/1256) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T15:08:28Z)
@@ -56,12 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Closed issue [#1284](https://github.com/ScratchAddons/ScratchAddons/issues/1284) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T15:04:13Z)
 - Created comment on issue/PR [#1284](https://github.com/ScratchAddons/ScratchAddons/issues/1284) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T15:04:12Z)
 - Created comment on issue/PR [#494](https://github.com/ScratchAddons/ScratchAddons/issues/494) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T15:03:51Z)
-- Created comment on issue/PR [#1286](https://github.com/ScratchAddons/ScratchAddons/issues/1286) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T02:14:37Z)
-- Updated wiki on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-11T15:55:34Z)
 
 </details>
 
-*Last updated: 12/01/2021, 15:25:59 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 12/01/2021, 16:48:49 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
