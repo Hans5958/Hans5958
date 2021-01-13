@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  
+FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -44,10 +44,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`5c09ef7`](https://github.com/ScratchAddons/ScratchAddons/commit/5c09ef70d41adbe96e5608c98019efd593460071) Forgot to sort added addons ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [changelog-detailed](https://github.com/ScratchAddons/ScratchAddons/tree/changelog-detailed))
 - [`a2fee83`](https://github.com/ScratchAddons/ScratchAddons/commit/a2fee830e50d6591ae25e71960e20ff70f0ff942) Update CHANGELOG.md ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [changelog-detailed](https://github.com/ScratchAddons/ScratchAddons/tree/changelog-detailed))
 - [`afd384c`](https://github.com/ScratchAddons/ScratchAddons/commit/afd384ccc8e52f212a9af9a61648af8878475ef7) Update 1.7.0 and add 1.7.1 ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [changelog-detailed](https://github.com/ScratchAddons/ScratchAddons/tree/changelog-detailed))
-- [`db51124`](https://github.com/ScratchAddons/ScratchAddons/commit/db5112411a7b40a00be1f6748331d926c9bd0a62) Add 1.7.0 ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [changelog-detailed](https://github.com/ScratchAddons/ScratchAddons/tree/changelog-detailed))
 
 ### Last ten events
 
+- Updated wiki on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T03:04:16Z)
 - Closed issue [#13](https://github.com/ScratchAddons/manifest-schema/issues/13) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:46:04Z)
 - Created comment on issue/PR [#13](https://github.com/ScratchAddons/manifest-schema/issues/13) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:46:03Z)
 - Opened issue [#24](https://github.com/ScratchAddons/manifest-schema/issues/24) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:45:36Z)
@@ -57,11 +57,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on issue/PR [#1232](https://github.com/ScratchAddons/ScratchAddons/issues/1232) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-13T00:35:43Z)
 - Deleted branch `all-contributors/add-RustingRobot` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-13T00:25:59Z)
 - Closed pull request [#72](https://github.com/ScratchAddons/contributors/issues/72) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-13T00:25:58Z)
-- Created comment on issue/PR [#970](https://github.com/ScratchAddons/ScratchAddons/issues/970) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T16:11:53Z)
 
 </details>
 
-*Last updated: 13/01/2021, 03:04:15 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 13/01/2021, 04:45:14 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
