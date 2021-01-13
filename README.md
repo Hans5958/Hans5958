@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  
+FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,33 +35,30 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
-- [`dd9bff8`](https://github.com/Hans5958/validate-json-action/commit/dd9bff874ae42e540f98723c00aa8fe1eb75d36e) Use action glob instead of your ol' glob ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`a585aab`](https://github.com/Hans5958/validate-json-action/commit/a585aab7bab509ef8745f3eec219d5a064f96091) oh wow ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`4132a64`](https://github.com/Hans5958/ScratchAddons/commit/4132a648462dcc6770e5775fa8a995e8edc86638) nevermind ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [master](https://github.com/Hans5958/ScratchAddons/tree/master))
-- [`9f493ed`](https://github.com/Hans5958/validate-json-action/commit/9f493ed40eae0020329d65b0048fae8522977e7f) y u no work ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`2a2875e`](https://github.com/Hans5958/ScratchAddons/commit/2a2875e1d1f78d0203bc5cb320ac4680d4b02e08) Use specific commit ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [master](https://github.com/Hans5958/ScratchAddons/tree/master))
-- [`970841e`](https://github.com/Hans5958/ScratchAddons/commit/970841e0411dc55bfb27ad53829a29e6640164d7) Workflow dispatch not working? ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [master](https://github.com/Hans5958/ScratchAddons/tree/master))
-- [`0a0a57c`](https://github.com/Hans5958/validate-json-action/commit/0a0a57cf749381b087a8788f03b1b0e89a2f3c0b) somehow not updating ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`ac14907`](https://github.com/Hans5958/validate-json-action/commit/ac14907f55180d98e1a39ceb19013af5ed9e3604) Shouldn't have used root ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`3980fe5`](https://github.com/Hans5958/ScratchAddons/commit/3980fe5092b351df6b8f10bb7b2c9cec2112b6b5) More links: Add waitForElement for project pages (#433) ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [master](https://github.com/Hans5958/ScratchAddons/tree/master))
-- [`4ab4418`](https://github.com/Hans5958/ScratchAddons/commit/4ab4418374cfc12c4c69cf4a42f99855af5b4876) Workflow dispatch not working? ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
+- [`d56f949`](https://github.com/Hans5958/validate-json-action/commit/d56f94945d6d0a076157d77b4865b81bd1104af4) Revert updates except axios ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
+- [`970841e`](https://github.com/Hans5958/ScratchAddons/commit/970841e0411dc55bfb27ad53829a29e6640164d7) Workflow dispatch not working? ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
+- [`2a2875e`](https://github.com/Hans5958/ScratchAddons/commit/2a2875e1d1f78d0203bc5cb320ac4680d4b02e08) Use specific commit ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
+- [`4132a64`](https://github.com/Hans5958/ScratchAddons/commit/4132a648462dcc6770e5775fa8a995e8edc86638) nevermind ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
+- [`959f269`](https://github.com/Hans5958/ScratchAddons/commit/959f26997dc5ce7cd6c2d8db6698b247a0c298ae) Dummy addon.json update ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
+- [`3971a4c`](https://github.com/Hans5958/ScratchAddons/commit/3971a4c72fab1e376c792d10007edc2091e0ee17) Merge branch 'master' into schema-ci ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
+- [`959f269`](https://github.com/Hans5958/ScratchAddons/commit/959f26997dc5ce7cd6c2d8db6698b247a0c298ae) Dummy addon.json update ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [master](https://github.com/Hans5958/ScratchAddons/tree/master))
+- [`2c03c7d`](https://github.com/Hans5958/validate-json-action/commit/2c03c7dd2d89ad0899f32d5aea0505cd809103de) Just realised I need to pack ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
+- [`87e3a21`](https://github.com/Hans5958/validate-json-action/commit/87e3a211bd961f31514623b4a3cc6c04a19d7617) a ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
+- [`ae32aaf`](https://github.com/Hans5958/validate-json-action/commit/ae32aaf4f24768da14a6f2fa6ec0068ed2976fab) a ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
 
 ### Last ten events
 
+- Created comment on issue/PR [#61](https://github.com/ScratchAddons/website/issues/61) on [ScratchAddons/website](https://github.com/ScratchAddons/website) (2021-01-13T13:24:23Z)
 - Created branch `schema-ci` on [Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons) (2021-01-13T09:28:04Z)
 - Created branch `glob` on [Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action) (2021-01-13T08:51:55Z)
 - Updated wiki on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T03:04:16Z)
 - Closed issue [#13](https://github.com/ScratchAddons/manifest-schema/issues/13) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:46:04Z)
 - Created comment on issue/PR [#13](https://github.com/ScratchAddons/manifest-schema/issues/13) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:46:03Z)
 - Opened issue [#24](https://github.com/ScratchAddons/manifest-schema/issues/24) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:45:36Z)
-- Deleted branch `popup` on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:41:47Z)
-- Closed pull request [#18](https://github.com/ScratchAddons/manifest-schema/issues/18) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:41:46Z)
-- Created comment on issue/PR [#18](https://github.com/ScratchAddons/manifest-schema/issues/18) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:41:34Z)
-- Created comment on issue/PR [#1232](https://github.com/ScratchAddons/ScratchAddons/issues/1232) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-13T00:35:43Z)
 
 </details>
 
-*Last updated: 13/01/2021, 12:41:19 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 13/01/2021, 13:51:39 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
