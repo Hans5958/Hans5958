@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  
+FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,15 +35,16 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`970841e`](https://github.com/Hans5958/ScratchAddons/commit/970841e0411dc55bfb27ad53829a29e6640164d7) Workflow dispatch not working? ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [master](https://github.com/Hans5958/ScratchAddons/tree/master))
+- [`0a0a57c`](https://github.com/Hans5958/validate-json-action/commit/0a0a57cf749381b087a8788f03b1b0e89a2f3c0b) somehow not updating ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
+- [`ac14907`](https://github.com/Hans5958/validate-json-action/commit/ac14907f55180d98e1a39ceb19013af5ed9e3604) Shouldn't have used root ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
+- [`3980fe5`](https://github.com/Hans5958/ScratchAddons/commit/3980fe5092b351df6b8f10bb7b2c9cec2112b6b5) More links: Add waitForElement for project pages (#433) ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [master](https://github.com/Hans5958/ScratchAddons/tree/master))
+- [`4ab4418`](https://github.com/Hans5958/ScratchAddons/commit/4ab4418374cfc12c4c69cf4a42f99855af5b4876) Workflow dispatch not working? ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
+- [`16cde99`](https://github.com/Hans5958/ScratchAddons/commit/16cde99824e62f1b1e8b81a6a253ba2e68eeee25) The wrong quote? ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
+- [`9ae54d6`](https://github.com/Hans5958/ScratchAddons/commit/9ae54d651eb39761e61cbba5c47949da6ae4c007) Forgot quotes ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
 - [`0f5cf8d`](https://github.com/Hans5958/ScratchAddons/commit/0f5cf8dd33b7bf2f9da76cd5ff05b55baa0fa309) First updates ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
 - [`f16f04c`](https://github.com/Hans5958/ScratchAddons/commit/f16f04cbb39d0834e957896d374caa0fee094fdf) Dummy addon.json update ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
 - [`3776e32`](https://github.com/Hans5958/validate-json-action/commit/3776e32e329792c9de1b6bbe2a3a0a34e3993352) First updates ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`6364514`](https://github.com/ScratchAddons/website/commit/63645142727bd7175a72f82a62c0b31926b0517e) Fix typo on FAQ ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
-- [`71b6625`](https://github.com/ScratchAddons/website/commit/71b662564d929bc8fe9c46ddf18c94519372a677) Simplify easter egg console log ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
-- [`03ce489`](https://github.com/ScratchAddons/website/commit/03ce48958d1785b5d7a3e517312128b92a57b7aa) Fix Gemfile again ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
-- [`13d4278`](https://github.com/ScratchAddons/website/commit/13d4278114de55b2c235f2ed6be82df802a866f1) Update Gemfile and copyright year ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
-- [`1c8a0ce`](https://github.com/ScratchAddons/website/commit/1c8a0ce8b9955beef2a7b57a5d12f0f21f8adef7) Update Gemfile and copyright year ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
-- [`b676ede`](https://github.com/ScratchAddons/website/commit/b676ededc46deae70f65bf3db16fb1dca6d246ec) Update Gemfile and copyright year ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
 
 ### Last ten events
 
@@ -60,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 13/01/2021, 09:46:19 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 13/01/2021, 10:48:22 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
