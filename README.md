@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  
-*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.*
+FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  
+*I will will be online in a few hours or so.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -48,20 +48,20 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten events
 
+- Closed issue [#13](https://github.com/ScratchAddons/manifest-schema/issues/13) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:46:04Z)
+- Created comment on issue/PR [#13](https://github.com/ScratchAddons/manifest-schema/issues/13) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:46:03Z)
+- Opened issue [#24](https://github.com/ScratchAddons/manifest-schema/issues/24) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:45:36Z)
+- Deleted branch `popup` on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:41:47Z)
+- Closed pull request [#18](https://github.com/ScratchAddons/manifest-schema/issues/18) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:41:46Z)
+- Created comment on issue/PR [#18](https://github.com/ScratchAddons/manifest-schema/issues/18) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-13T00:41:34Z)
+- Created comment on issue/PR [#1232](https://github.com/ScratchAddons/ScratchAddons/issues/1232) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-13T00:35:43Z)
+- Deleted branch `all-contributors/add-RustingRobot` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-13T00:25:59Z)
+- Closed pull request [#72](https://github.com/ScratchAddons/contributors/issues/72) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-13T00:25:58Z)
 - Created comment on issue/PR [#970](https://github.com/ScratchAddons/ScratchAddons/issues/970) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T16:11:53Z)
-- Created comment on issue/PR [#1256](https://github.com/ScratchAddons/ScratchAddons/issues/1256) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T16:03:29Z)
-- Created comment on issue/PR [#970](https://github.com/ScratchAddons/ScratchAddons/issues/970) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T15:16:32Z)
-- Created comment on issue/PR [#970](https://github.com/ScratchAddons/ScratchAddons/issues/970) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T15:11:47Z)
-- Created comment on issue/PR [#1256](https://github.com/ScratchAddons/ScratchAddons/issues/1256) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T15:08:28Z)
-- Reopened issue [#1284](https://github.com/ScratchAddons/ScratchAddons/issues/1284) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T15:05:19Z)
-- Created comment on issue/PR [#1284](https://github.com/ScratchAddons/ScratchAddons/issues/1284) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T15:05:16Z)
-- Closed issue [#1284](https://github.com/ScratchAddons/ScratchAddons/issues/1284) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T15:04:13Z)
-- Created comment on issue/PR [#1284](https://github.com/ScratchAddons/ScratchAddons/issues/1284) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T15:04:12Z)
-- Created comment on issue/PR [#494](https://github.com/ScratchAddons/ScratchAddons/issues/494) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-12T15:03:51Z)
 
 </details>
 
-*Last updated: 12/01/2021, 23:40:28 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 13/01/2021, 01:09:52 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
