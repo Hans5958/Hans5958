@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  
+FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,16 +35,16 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`a585aab`](https://github.com/Hans5958/validate-json-action/commit/a585aab7bab509ef8745f3eec219d5a064f96091) oh wow ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
+- [`4132a64`](https://github.com/Hans5958/ScratchAddons/commit/4132a648462dcc6770e5775fa8a995e8edc86638) nevermind ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [master](https://github.com/Hans5958/ScratchAddons/tree/master))
+- [`9f493ed`](https://github.com/Hans5958/validate-json-action/commit/9f493ed40eae0020329d65b0048fae8522977e7f) y u no work ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
+- [`2a2875e`](https://github.com/Hans5958/ScratchAddons/commit/2a2875e1d1f78d0203bc5cb320ac4680d4b02e08) Use specific commit ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [master](https://github.com/Hans5958/ScratchAddons/tree/master))
 - [`970841e`](https://github.com/Hans5958/ScratchAddons/commit/970841e0411dc55bfb27ad53829a29e6640164d7) Workflow dispatch not working? ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [master](https://github.com/Hans5958/ScratchAddons/tree/master))
 - [`0a0a57c`](https://github.com/Hans5958/validate-json-action/commit/0a0a57cf749381b087a8788f03b1b0e89a2f3c0b) somehow not updating ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
 - [`ac14907`](https://github.com/Hans5958/validate-json-action/commit/ac14907f55180d98e1a39ceb19013af5ed9e3604) Shouldn't have used root ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
 - [`3980fe5`](https://github.com/Hans5958/ScratchAddons/commit/3980fe5092b351df6b8f10bb7b2c9cec2112b6b5) More links: Add waitForElement for project pages (#433) ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [master](https://github.com/Hans5958/ScratchAddons/tree/master))
 - [`4ab4418`](https://github.com/Hans5958/ScratchAddons/commit/4ab4418374cfc12c4c69cf4a42f99855af5b4876) Workflow dispatch not working? ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
 - [`16cde99`](https://github.com/Hans5958/ScratchAddons/commit/16cde99824e62f1b1e8b81a6a253ba2e68eeee25) The wrong quote? ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
-- [`9ae54d6`](https://github.com/Hans5958/ScratchAddons/commit/9ae54d651eb39761e61cbba5c47949da6ae4c007) Forgot quotes ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
-- [`0f5cf8d`](https://github.com/Hans5958/ScratchAddons/commit/0f5cf8dd33b7bf2f9da76cd5ff05b55baa0fa309) First updates ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
-- [`f16f04c`](https://github.com/Hans5958/ScratchAddons/commit/f16f04cbb39d0834e957896d374caa0fee094fdf) Dummy addon.json update ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
-- [`3776e32`](https://github.com/Hans5958/validate-json-action/commit/3776e32e329792c9de1b6bbe2a3a0a34e3993352) First updates ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
 
 ### Last ten events
 
@@ -61,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 13/01/2021, 10:48:22 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 13/01/2021, 11:43:39 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
