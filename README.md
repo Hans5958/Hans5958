@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  
 *I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
@@ -35,6 +35,8 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`2f5af03`](https://github.com/Hans5958/ScratchAddons/commit/2f5af032a1ba7365da09c3fd442dd9a573723623) Updates on schema validation workflow ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
+- [`e01e7d6`](https://github.com/Hans5958/ScratchAddons/commit/e01e7d608236e7eef3e3b2652f2ca4a7e4f1e39f) Updates on schema validation workflow ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
 - [`73a92cf`](https://github.com/ScratchAddons/manifest-schema/commit/73a92cfda6d525ad54a0b2c849d4e1f7babe2b0c) Add dist. branch update workflow ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [master](https://github.com/ScratchAddons/manifest-schema/tree/master))
 - [`4d088aa`](https://github.com/Hans5958/validate-json-action/commit/4d088aad9752ccb0323551f4973b86c3ea118060) Final changes again 3 ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
 - [`12c2b54`](https://github.com/Hans5958/validate-json-action/commit/12c2b54d02829b86a91eef29341b375ce9538a69) Final changes again 2 ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
@@ -43,11 +45,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`dc4c81d`](https://github.com/Hans5958/validate-json-action/commit/dc4c81d19efb6174209699a48112898d8704fa68) Final changes hopefully ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
 - [`bd8e055`](https://github.com/Hans5958/validate-json-action/commit/bd8e0555ebce8d3a4cee3944a66ddf13fe4a4504) The paths are confusing ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
 - [`049dafe`](https://github.com/Hans5958/validate-json-action/commit/049dafea0108d03c435045ab7f9a45cd1dc2aa2b) check for errors ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`33134c3`](https://github.com/Hans5958/validate-json-action/commit/33134c3285868067a0eef9c8daaa945f31d89fff) check for errors ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`8032523`](https://github.com/Hans5958/validate-json-action/commit/803252343aff1deba062b7c5e18bd6a3d8c3696f) a ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
 
 ### Last ten events
 
+- Created branch `schema-ci` on [Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons) (2021-01-14T15:32:50Z)
 - Created branch `master` on [ScratchAddons/schema-dist-updater](https://github.com/ScratchAddons/schema-dist-updater) (2021-01-14T13:22:33Z)
 - Created repository `null` on [ScratchAddons/schema-dist-updater](https://github.com/ScratchAddons/schema-dist-updater) (2021-01-14T13:17:12Z)
 - Deleted branch `schema-ci` on [Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons) (2021-01-14T09:01:12Z)
@@ -57,11 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on issue/PR [#2](https://github.com/Hans5958/ScratchAddons-Website-Hugo/issues/2) on [Hans5958/ScratchAddons-Website-Hugo](https://github.com/Hans5958/ScratchAddons-Website-Hugo) (2021-01-14T00:33:26Z)
 - Closed pull request [#1](https://github.com/Hans5958/ScratchAddons-Website-Hugo/issues/1) on [Hans5958/ScratchAddons-Website-Hugo](https://github.com/Hans5958/ScratchAddons-Website-Hugo) (2021-01-14T00:30:42Z)
 - Created comment on issue/PR [#1](https://github.com/Hans5958/ScratchAddons-Website-Hugo/issues/1) on [Hans5958/ScratchAddons-Website-Hugo](https://github.com/Hans5958/ScratchAddons-Website-Hugo) (2021-01-14T00:30:42Z)
-- Created comment on issue/PR [#61](https://github.com/ScratchAddons/website/issues/61) on [ScratchAddons/website](https://github.com/ScratchAddons/website) (2021-01-13T13:24:23Z)
 
 </details>
 
-*Last updated: 14/01/2021, 15:31:23 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 14/01/2021, 16:54:14 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
