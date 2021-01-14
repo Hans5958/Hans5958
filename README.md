@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  
+FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`73a92cf`](https://github.com/ScratchAddons/manifest-schema/commit/73a92cfda6d525ad54a0b2c849d4e1f7babe2b0c) Add dist. branch update workflow ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [master](https://github.com/ScratchAddons/manifest-schema/tree/master))
 - [`4d088aa`](https://github.com/Hans5958/validate-json-action/commit/4d088aad9752ccb0323551f4973b86c3ea118060) Final changes again 3 ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
 - [`12c2b54`](https://github.com/Hans5958/validate-json-action/commit/12c2b54d02829b86a91eef29341b375ce9538a69) Final changes again 2 ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
 - [`caa7a93`](https://github.com/Hans5958/validate-json-action/commit/caa7a93acb2fc36e527f3f538129664c4719395f) Final changes again ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
@@ -44,10 +45,11 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`049dafe`](https://github.com/Hans5958/validate-json-action/commit/049dafea0108d03c435045ab7f9a45cd1dc2aa2b) check for errors ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
 - [`33134c3`](https://github.com/Hans5958/validate-json-action/commit/33134c3285868067a0eef9c8daaa945f31d89fff) check for errors ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
 - [`8032523`](https://github.com/Hans5958/validate-json-action/commit/803252343aff1deba062b7c5e18bd6a3d8c3696f) a ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`d56f949`](https://github.com/Hans5958/validate-json-action/commit/d56f94945d6d0a076157d77b4865b81bd1104af4) Revert updates except axios ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
 
 ### Last ten events
 
+- Created branch `master` on [ScratchAddons/schema-dist-updater](https://github.com/ScratchAddons/schema-dist-updater) (2021-01-14T13:22:33Z)
+- Created repository `null` on [ScratchAddons/schema-dist-updater](https://github.com/ScratchAddons/schema-dist-updater) (2021-01-14T13:17:12Z)
 - Deleted branch `schema-ci` on [Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons) (2021-01-14T09:01:12Z)
 - Updated wiki on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-14T02:14:37Z)
 - Created comment on issue/PR [#464](https://github.com/ScratchAddons/ScratchAddons/issues/464) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-14T01:08:14Z)
@@ -59,7 +61,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 14/01/2021, 12:41:29 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 14/01/2021, 13:52:37 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
