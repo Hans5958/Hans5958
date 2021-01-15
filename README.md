@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  
-*I will will be online in a few hours or so.*
+FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  
+*I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,33 +35,33 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
-- [`2f5af03`](https://github.com/Hans5958/ScratchAddons/commit/2f5af032a1ba7365da09c3fd442dd9a573723623) Updates on schema validation workflow ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
-- [`e01e7d6`](https://github.com/Hans5958/ScratchAddons/commit/e01e7d608236e7eef3e3b2652f2ca4a7e4f1e39f) Updates on schema validation workflow ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [schema-ci](https://github.com/Hans5958/ScratchAddons/tree/schema-ci))
-- [`73a92cf`](https://github.com/ScratchAddons/manifest-schema/commit/73a92cfda6d525ad54a0b2c849d4e1f7babe2b0c) Add dist. branch update workflow ([ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema), [master](https://github.com/ScratchAddons/manifest-schema/tree/master))
-- [`4d088aa`](https://github.com/Hans5958/validate-json-action/commit/4d088aad9752ccb0323551f4973b86c3ea118060) Final changes again 3 ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`12c2b54`](https://github.com/Hans5958/validate-json-action/commit/12c2b54d02829b86a91eef29341b375ce9538a69) Final changes again 2 ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`caa7a93`](https://github.com/Hans5958/validate-json-action/commit/caa7a93acb2fc36e527f3f538129664c4719395f) Final changes again ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`c1b01ad`](https://github.com/Hans5958/validate-json-action/commit/c1b01ad535da0838384fd8d231cd922e8c98ae3f) Final changes hopefully ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`dc4c81d`](https://github.com/Hans5958/validate-json-action/commit/dc4c81d19efb6174209699a48112898d8704fa68) Final changes hopefully ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`bd8e055`](https://github.com/Hans5958/validate-json-action/commit/bd8e0555ebce8d3a4cee3944a66ddf13fe4a4504) The paths are confusing ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
-- [`049dafe`](https://github.com/Hans5958/validate-json-action/commit/049dafea0108d03c435045ab7f9a45cd1dc2aa2b) check for errors ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [glob](https://github.com/Hans5958/validate-json-action/tree/glob))
+- [`3776e32`](https://github.com/Hans5958/validate-json-action/commit/3776e32e329792c9de1b6bbe2a3a0a34e3993352) First updates ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [master](https://github.com/Hans5958/validate-json-action/tree/master))
+- [`ac14907`](https://github.com/Hans5958/validate-json-action/commit/ac14907f55180d98e1a39ceb19013af5ed9e3604) Shouldn't have used root ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [master](https://github.com/Hans5958/validate-json-action/tree/master))
+- [`0a0a57c`](https://github.com/Hans5958/validate-json-action/commit/0a0a57cf749381b087a8788f03b1b0e89a2f3c0b) somehow not updating ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [master](https://github.com/Hans5958/validate-json-action/tree/master))
+- [`9f493ed`](https://github.com/Hans5958/validate-json-action/commit/9f493ed40eae0020329d65b0048fae8522977e7f) y u no work ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [master](https://github.com/Hans5958/validate-json-action/tree/master))
+- [`a585aab`](https://github.com/Hans5958/validate-json-action/commit/a585aab7bab509ef8745f3eec219d5a064f96091) oh wow ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [master](https://github.com/Hans5958/validate-json-action/tree/master))
+- [`dd9bff8`](https://github.com/Hans5958/validate-json-action/commit/dd9bff874ae42e540f98723c00aa8fe1eb75d36e) Use action glob instead of your ol' glob ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [master](https://github.com/Hans5958/validate-json-action/tree/master))
+- [`3fff315`](https://github.com/Hans5958/validate-json-action/commit/3fff31509eb8104f39ed2c3baef3a7696924199a) a ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [master](https://github.com/Hans5958/validate-json-action/tree/master))
+- [`7acfd3e`](https://github.com/Hans5958/validate-json-action/commit/7acfd3e52a085b45433384b8a24f12403f063d1a) a ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [master](https://github.com/Hans5958/validate-json-action/tree/master))
+- [`87e3a21`](https://github.com/Hans5958/validate-json-action/commit/87e3a211bd961f31514623b4a3cc6c04a19d7617) a ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [master](https://github.com/Hans5958/validate-json-action/tree/master))
+- [`2c03c7d`](https://github.com/Hans5958/validate-json-action/commit/2c03c7dd2d89ad0899f32d5aea0505cd809103de) Just realised I need to pack ([Hans5958/validate-json-action](https://github.com/Hans5958/validate-json-action), [master](https://github.com/Hans5958/validate-json-action/tree/master))
 
 ### Last ten events
 
+- CommitCommentEvent on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-15T01:53:48Z)
+- Closed pull request [#1324](https://github.com/ScratchAddons/ScratchAddons/issues/1324) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-15T01:52:15Z)
+- Opened pull request [#1324](https://github.com/ScratchAddons/ScratchAddons/issues/1324) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-15T01:51:09Z)
+- Deleted branch `gh-pages` on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2021-01-15T01:49:04Z)
 - Created branch `schema-ci` on [Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons) (2021-01-14T15:32:50Z)
 - Created branch `master` on [ScratchAddons/schema-dist-updater](https://github.com/ScratchAddons/schema-dist-updater) (2021-01-14T13:22:33Z)
 - Created repository `null` on [ScratchAddons/schema-dist-updater](https://github.com/ScratchAddons/schema-dist-updater) (2021-01-14T13:17:12Z)
 - Deleted branch `schema-ci` on [Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons) (2021-01-14T09:01:12Z)
 - Updated wiki on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-14T02:14:37Z)
 - Created comment on issue/PR [#464](https://github.com/ScratchAddons/ScratchAddons/issues/464) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-14T01:08:14Z)
-- Closed issue [#2](https://github.com/Hans5958/ScratchAddons-Website-Hugo/issues/2) on [Hans5958/ScratchAddons-Website-Hugo](https://github.com/Hans5958/ScratchAddons-Website-Hugo) (2021-01-14T00:34:22Z)
-- Created comment on issue/PR [#2](https://github.com/Hans5958/ScratchAddons-Website-Hugo/issues/2) on [Hans5958/ScratchAddons-Website-Hugo](https://github.com/Hans5958/ScratchAddons-Website-Hugo) (2021-01-14T00:33:26Z)
-- Closed pull request [#1](https://github.com/Hans5958/ScratchAddons-Website-Hugo/issues/1) on [Hans5958/ScratchAddons-Website-Hugo](https://github.com/Hans5958/ScratchAddons-Website-Hugo) (2021-01-14T00:30:42Z)
-- Created comment on issue/PR [#1](https://github.com/Hans5958/ScratchAddons-Website-Hugo/issues/1) on [Hans5958/ScratchAddons-Website-Hugo](https://github.com/Hans5958/ScratchAddons-Website-Hugo) (2021-01-14T00:30:42Z)
 
 </details>
 
-*Last updated: 15/01/2021, 01:15:12 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 15/01/2021, 03:08:37 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
