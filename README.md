@@ -4,8 +4,8 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  
-*I'm online, doing stuff, and is able to respond to inquiries.*
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*
 </div>
 
 <details><summary>Read about me:</summary>
@@ -35,6 +35,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`576a03d`](https://github.com/ScratchAddons/contributors/commit/576a03d125bbc758d85d253f8879e595bbeae97e) Rename wgyt735yt to wgyt ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [master](https://github.com/ScratchAddons/contributors/tree/master))
 - [`a9d6923`](https://github.com/ScratchAddons/ScratchAddons/commit/a9d692324cdf9e6a38e3342ef80ab25fff2f8f44) Remove enhancement branch from blank template ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [master](https://github.com/ScratchAddons/ScratchAddons/tree/master))
 - [`10a6564`](https://github.com/ScratchAddons/ScratchAddons/commit/10a6564fa125f7efb0664e2b0b99b0e3048e5386) (Absolute) Blank issue not disabled yet ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [master](https://github.com/ScratchAddons/ScratchAddons/tree/master))
 - [`138045b`](https://github.com/ScratchAddons/ScratchAddons/commit/138045bfd1af179c0fd0e9345972f0299e68bf65) Changes for label revamp (#1326) ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [master](https://github.com/ScratchAddons/ScratchAddons/tree/master))
@@ -44,24 +45,23 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`0b62f94`](https://github.com/ScratchAddons/ScratchAddons/commit/0b62f94609c9d31e2ec71ca2b4f2c9d4fa49faca) Update labeler.yml ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [label-revamp](https://github.com/ScratchAddons/ScratchAddons/tree/label-revamp))
 - [`5572ea5`](https://github.com/ScratchAddons/ScratchAddons/commit/5572ea57f32360a659326bdc7d0d12db0586cad6) Create labeler.yml ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [label-revamp](https://github.com/ScratchAddons/ScratchAddons/tree/label-revamp))
 - [`71f4bd4`](https://github.com/ScratchAddons/ScratchAddons/commit/71f4bd4d8b883c7bfd9dc0230f34e84d95907171) Create labeler.yml ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [label-revamp](https://github.com/ScratchAddons/ScratchAddons/tree/label-revamp))
-- [`b57cacc`](https://github.com/ScratchAddons/ScratchAddons/commit/b57cacc5ca0243548fb6aa83df3a9655bed1ae4e) Create blank issue ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [label-revamp](https://github.com/ScratchAddons/ScratchAddons/tree/label-revamp))
 
 ### Last ten events
 
+- Deleted branch `all-contributors/add-CoolScratcher` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-15T15:05:10Z)
+- Deleted branch `all-contributors/add-Cool` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-15T15:05:10Z)
+- Deleted branch `all-contributors/add-SparkScratch-P` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-15T15:05:09Z)
+- Deleted branch `hans5958/name-change-from-wgyt-74` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-15T15:05:09Z)
+- Closed issue [#74](https://github.com/ScratchAddons/contributors/issues/74) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-15T15:04:16Z)
+- Created branch `hans5958/name-change-from-wgyt-74` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-15T14:57:37Z)
+- Created comment on issue/PR [#74](https://github.com/ScratchAddons/contributors/issues/74) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-15T14:49:46Z)
 - Created comment on issue/PR [#61](https://github.com/ScratchAddons/website/issues/61) on [ScratchAddons/website](https://github.com/ScratchAddons/website) (2021-01-15T13:40:40Z)
 - Created comment on issue/PR [#61](https://github.com/ScratchAddons/website/issues/61) on [ScratchAddons/website](https://github.com/ScratchAddons/website) (2021-01-15T13:38:19Z)
 - Created comment on issue/PR [#61](https://github.com/ScratchAddons/website/issues/61) on [ScratchAddons/website](https://github.com/ScratchAddons/website) (2021-01-15T13:32:36Z)
-- Closed issue [#970](https://github.com/ScratchAddons/ScratchAddons/issues/970) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-15T09:26:05Z)
-- Created comment on issue/PR [#970](https://github.com/ScratchAddons/ScratchAddons/issues/970) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-15T09:26:05Z)
-- Opened issue [#1330](https://github.com/ScratchAddons/ScratchAddons/issues/1330) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-15T09:23:41Z)
-- Deleted branch `label-revamp` on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-15T06:34:36Z)
-- Closed pull request [#1326](https://github.com/ScratchAddons/ScratchAddons/issues/1326) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-15T06:34:35Z)
-- Started [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind) (2021-01-15T05:23:42Z
-- Opened pull request [#1326](https://github.com/ScratchAddons/ScratchAddons/issues/1326) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-15T04:29:29Z)
 
 </details>
 
-*Last updated: 15/01/2021, 14:39:40 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 15/01/2021, 15:29:53 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
