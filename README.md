@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  
+FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -39,27 +39,23 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - [`a9d6923`](https://github.com/ScratchAddons/ScratchAddons/commit/a9d692324cdf9e6a38e3342ef80ab25fff2f8f44) Remove enhancement branch from blank template ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [master](https://github.com/ScratchAddons/ScratchAddons/tree/master))
 - [`10a6564`](https://github.com/ScratchAddons/ScratchAddons/commit/10a6564fa125f7efb0664e2b0b99b0e3048e5386) (Absolute) Blank issue not disabled yet ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [master](https://github.com/ScratchAddons/ScratchAddons/tree/master))
 - [`138045b`](https://github.com/ScratchAddons/ScratchAddons/commit/138045bfd1af179c0fd0e9345972f0299e68bf65) Changes for label revamp (#1326) ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [master](https://github.com/ScratchAddons/ScratchAddons/tree/master))
-- [`b644285`](https://github.com/ScratchAddons/ScratchAddons/commit/b644285e79d5842b283d914565590f469d883a9c) Fix Prettier warnings ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [label-revamp](https://github.com/ScratchAddons/ScratchAddons/tree/label-revamp))
-- [`26d839b`](https://github.com/ScratchAddons/ScratchAddons/commit/26d839bfbd3d5d8398d264bae266818efb361845) a ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [label-revamp](https://github.com/ScratchAddons/ScratchAddons/tree/label-revamp))
-- [`9b82437`](https://github.com/ScratchAddons/ScratchAddons/commit/9b8243764addb6eaa20f9803e5502afde984169f) Update labeler.yml ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [label-revamp](https://github.com/ScratchAddons/ScratchAddons/tree/label-revamp))
-- [`0b62f94`](https://github.com/ScratchAddons/ScratchAddons/commit/0b62f94609c9d31e2ec71ca2b4f2c9d4fa49faca) Update labeler.yml ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [label-revamp](https://github.com/ScratchAddons/ScratchAddons/tree/label-revamp))
 
 ### Last ten events
 
+- Opened issue [#1340](https://github.com/ScratchAddons/ScratchAddons/issues/1340) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T14:29:30Z)
+- Created comment on issue/PR [#1339](https://github.com/ScratchAddons/ScratchAddons/issues/1339) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T14:28:16Z)
+- Created comment on issue/PR [#1330](https://github.com/ScratchAddons/ScratchAddons/issues/1330) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T14:18:57Z)
+- Created comment on issue/PR [#1330](https://github.com/ScratchAddons/ScratchAddons/issues/1330) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T14:14:48Z)
 - Created comment on issue/PR [#1330](https://github.com/ScratchAddons/ScratchAddons/issues/1330) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T07:34:47Z)
 - Created comment on issue/PR [#1330](https://github.com/ScratchAddons/ScratchAddons/issues/1330) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T07:26:19Z)
 - Created comment on issue/PR [#1337](https://github.com/ScratchAddons/ScratchAddons/issues/1337) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T07:20:24Z)
 - Created comment on issue/PR [#1304](https://github.com/ScratchAddons/ScratchAddons/issues/1304) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T04:58:56Z)
 - Deleted branch `all-contributors/add-superscratch444tre` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-16T04:56:37Z)
 - Closed pull request [#75](https://github.com/ScratchAddons/contributors/issues/75) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-16T04:56:36Z)
-- Deleted branch `all-contributors/add-CoolScratcher` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-15T15:05:10Z)
-- Deleted branch `all-contributors/add-Cool` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-15T15:05:10Z)
-- Deleted branch `all-contributors/add-SparkScratch-P` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-15T15:05:09Z)
-- Deleted branch `hans5958/name-change-from-wgyt-74` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2021-01-15T15:05:09Z)
 
 </details>
 
-*Last updated: 16/01/2021, 13:49:43 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 16/01/2021, 14:37:23 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
