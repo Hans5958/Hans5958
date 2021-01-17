@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  
+FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,10 +35,11 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`8287b2a`](https://github.com/Hans5958/ScratchAddons/commit/8287b2adc6432d01e9f10f40e85369f20587a904) Add text about third-party libs ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [readme](https://github.com/Hans5958/ScratchAddons/tree/readme))
+- [`02dc3cb`](https://github.com/ScratchAddons/website/commit/02dc3cbe50ea1f5ce52e32810ba4b6a840d010f2) Delete lock-fixer.yml ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
 - [`576a03d`](https://github.com/ScratchAddons/contributors/commit/576a03d125bbc758d85d253f8879e595bbeae97e) Rename wgyt735yt to wgyt ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [master](https://github.com/ScratchAddons/contributors/tree/master))
 - [`a9d6923`](https://github.com/ScratchAddons/ScratchAddons/commit/a9d692324cdf9e6a38e3342ef80ab25fff2f8f44) Remove enhancement branch from blank template ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [master](https://github.com/ScratchAddons/ScratchAddons/tree/master))
 - [`10a6564`](https://github.com/ScratchAddons/ScratchAddons/commit/10a6564fa125f7efb0664e2b0b99b0e3048e5386) (Absolute) Blank issue not disabled yet ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [master](https://github.com/ScratchAddons/ScratchAddons/tree/master))
-- [`138045b`](https://github.com/ScratchAddons/ScratchAddons/commit/138045bfd1af179c0fd0e9345972f0299e68bf65) Changes for label revamp (#1326) ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [master](https://github.com/ScratchAddons/ScratchAddons/tree/master))
 
 ### Last ten events
 
@@ -55,7 +56,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 </details>
 
-*Last updated: 17/01/2021, 09:44:07 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 17/01/2021, 10:46:30 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
