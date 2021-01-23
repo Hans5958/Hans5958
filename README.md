@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  
+FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -42,6 +42,8 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten events
 
+- Started [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) (2021-01-23T03:43:26Z
+- Created comment on issue/PR [#2](https://github.com/ScratchAddons/addons-data-updater/issues/2) on [ScratchAddons/addons-data-updater](https://github.com/ScratchAddons/addons-data-updater) (2021-01-23T03:31:17Z)
 - Closed pull request [#99](https://github.com/ScratchAddons/website/issues/99) on [ScratchAddons/website](https://github.com/ScratchAddons/website) (2021-01-21T08:54:44Z)
 - Created comment on issue/PR [#99](https://github.com/ScratchAddons/website/issues/99) on [ScratchAddons/website](https://github.com/ScratchAddons/website) (2021-01-21T08:54:43Z)
 - Closed issue [#1330](https://github.com/ScratchAddons/ScratchAddons/issues/1330) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-20T12:27:05Z)
@@ -50,12 +52,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on issue/PR [#1330](https://github.com/ScratchAddons/ScratchAddons/issues/1330) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T15:17:01Z)
 - Opened issue [#1340](https://github.com/ScratchAddons/ScratchAddons/issues/1340) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T14:29:30Z)
 - Created comment on issue/PR [#1339](https://github.com/ScratchAddons/ScratchAddons/issues/1339) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T14:28:16Z)
-- Created comment on issue/PR [#1330](https://github.com/ScratchAddons/ScratchAddons/issues/1330) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T14:18:57Z)
-- Created comment on issue/PR [#1330](https://github.com/ScratchAddons/ScratchAddons/issues/1330) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T14:14:48Z)
 
 </details>
 
-*Last updated: 23/01/2021, 03:11:26 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 23/01/2021, 04:45:48 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
