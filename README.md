@@ -4,7 +4,7 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  
+FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  
 *I'm online, doing stuff, and is able to respond to inquiries.*
 </div>
 
@@ -35,13 +35,15 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Last ten commits
 
+- [`db38cf7`](https://github.com/ScratchAddons/ScratchAddons/commit/db38cf7a77fd7772f97d87fa67220696e5e4a45b) Update CHANGELOG.md ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [changelog](https://github.com/ScratchAddons/ScratchAddons/tree/changelog))
 - [`8588625`](https://github.com/Hans5958/ScratchAddons/commit/8588625b7ea444746e97e17eb3c001715fddd237) Update on library licenses ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [readme](https://github.com/Hans5958/ScratchAddons/tree/readme))
 - [`8287b2a`](https://github.com/Hans5958/ScratchAddons/commit/8287b2adc6432d01e9f10f40e85369f20587a904) Add text about third-party libs ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [readme](https://github.com/Hans5958/ScratchAddons/tree/readme))
 - [`02dc3cb`](https://github.com/ScratchAddons/website/commit/02dc3cbe50ea1f5ce52e32810ba4b6a840d010f2) Delete lock-fixer.yml ([ScratchAddons/website](https://github.com/ScratchAddons/website), [master](https://github.com/ScratchAddons/website/tree/master))
-- [`576a03d`](https://github.com/ScratchAddons/contributors/commit/576a03d125bbc758d85d253f8879e595bbeae97e) Rename wgyt735yt to wgyt ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [master](https://github.com/ScratchAddons/contributors/tree/master))
 
 ### Last ten events
 
+- Deleted branch `create-pull-request/changelog` on [ScratchAddons/website](https://github.com/ScratchAddons/website) (2021-01-25T05:43:54Z)
+- Closed pull request [#103](https://github.com/ScratchAddons/website/issues/103) on [ScratchAddons/website](https://github.com/ScratchAddons/website) (2021-01-25T05:43:53Z)
 - Started [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) (2021-01-23T03:43:26Z
 - Created comment on issue/PR [#2](https://github.com/ScratchAddons/addons-data-updater/issues/2) on [ScratchAddons/addons-data-updater](https://github.com/ScratchAddons/addons-data-updater) (2021-01-23T03:31:17Z)
 - Closed pull request [#99](https://github.com/ScratchAddons/website/issues/99) on [ScratchAddons/website](https://github.com/ScratchAddons/website) (2021-01-21T08:54:44Z)
@@ -50,12 +52,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 - Created comment on issue/PR [#1364](https://github.com/ScratchAddons/ScratchAddons/issues/1364) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-20T12:23:37Z)
 - Opened pull request [#1344](https://github.com/ScratchAddons/ScratchAddons/issues/1344) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-17T11:23:45Z)
 - Created comment on issue/PR [#1330](https://github.com/ScratchAddons/ScratchAddons/issues/1330) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T15:17:01Z)
-- Opened issue [#1340](https://github.com/ScratchAddons/ScratchAddons/issues/1340) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T14:29:30Z)
-- Created comment on issue/PR [#1339](https://github.com/ScratchAddons/ScratchAddons/issues/1339) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2021-01-16T14:28:16Z)
 
 </details>
 
-*Last updated: 25/01/2021, 04:46:30 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
+*Last updated: 25/01/2021, 05:49:35 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
 *Commit hash:* [`951f9b9`](https://github.com/Hans5958/Hans5958/commit/951f9b9ddba90b5f3e9c5ee65df4fdb54ca97d9a
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Hans5958/Hans5958/Build?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
