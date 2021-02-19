@@ -56,10 +56,14 @@ module.exports = async () => {
 
 			switch (type) {
 				case "CreateEvent":
-					events.push(`Created ${payload.ref_type} \`${payload.ref}\` on ${repoLinkMarkdown} (${timestamp})`)
+					if (payload.ref_type === "repository") events.push(`Created ${payload.ref_type} ${repoLinkMarkdown} (${timestamp})`)
+					else if (payload.ref === null) events.push(`Created ${payload.ref_type} on ${repoLinkMarkdown} (${timestamp})`)
+					else events.push(`Created ${payload.ref_type} \`${payload.ref}\` on ${repoLinkMarkdown} (${timestamp})`)
 					break;
 				case "DeleteEvent":
-					events.push(`Deleted ${payload.ref_type} \`${payload.ref}\` on ${repoLinkMarkdown} (${timestamp})`)
+					if (payload.ref_type === "repository") events.push(`Deleted ${payload.ref_type} ${repoLinkMarkdown} (${timestamp})`)
+					else if (payload.ref === null) events.push(`Deleted ${payload.ref_type} on ${repoLinkMarkdown} (${timestamp})`)
+					else events.push(`Deleted ${payload.ref_type} \`${payload.ref}\` on ${repoLinkMarkdown} (${timestamp})`)
 					break;
 				case "ForkEvent":
 					events.push(`Made fork of ${repoLinkMarkdown} on [${payload.forkee.full_name}](https://github.com/${payload.forkee.full_name}) (${timestamp})`)
@@ -96,7 +100,7 @@ module.exports = async () => {
 					})
 					break;
 				case "ReleaseEvent":
-					events.push(`${capitalizeFirstLetter(payload.action)} version (${payload.release.tag_name}) on ${repoLinkMarkdown} (${timestamp})`)
+					events.push(`${capitalizeFirstLetter(payload.action)} version \`${payload.release.tag_name}\` on ${repoLinkMarkdown} (${timestamp})`)
 					break;
 				case "WatchEvent":
 					events.push(`${capitalizeFirstLetter(payload.action)} ${repoLinkMarkdown} (${timestamp}`)
