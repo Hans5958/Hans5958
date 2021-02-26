@@ -20,13 +20,13 @@ I can call myself proficient in front-end stuff. That is with HTML5, JS, and CSS
 
 I don't have a certain large project that is in focus. I only do small projects here and there. But, hey, it's "honest work". If you ask about something that I can proud of, go check my [Mini HTMLs](https://hans5958.github.io/mini-htmls).
 
-Outside programming, I also like to write things about anything that I interest, from translation, collecting text, editing Wikipedia articles, or just writing normal articles. You can search through my repos for that, or go read [my blog](https://pixwp.wordpress.org), but it's quite dead.
+Outside programming, I also like to write things about anything that I interest, from translation, collecting text, editing Wikipedia articles, or just writing normal articles. You can search through my repos for that, or go to [my blog](https://hans5958.github.io/blog).
 
 I also like to chat with my friends, try to be the best on my school, and having a great time with my family, if you ask.
 
 You may contact me through email or through [one of my social media accounts](https://hans5958.github.io/accounts).
 
-You want other stuff than tech? Go check out [my YouTube channel](https://youtube.com/Hans5958), [my Twitter account](https://twitter.com/Hans5958), and [my blog](https://pixwp.wordpress.org). I also publish some random texts on [my Gists](https://gist.github.com/Hans5958).
+You want other stuff than tech? Go check out [my YouTube channel](https://youtube.com/Hans5958), [my Twitter account](https://twitter.com/Hans5958), and [my blog](https://hans5958.github.io/blog). I also publish some random texts on [my Gists](https://gist.github.com/Hans5958).
 </details>
 
 <details><summary>Recent activity:</summary>
