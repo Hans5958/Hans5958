@@ -87,6 +87,10 @@ module.exports = async () => {
 					prNumber = payload.pull_request.number
 					events.push(`${capitalizeFirstLetter(payload.action)} comment on a review on PR [#${prNumber}](${repoLink}/issues/${prNumber}) on ${repoLinkMarkdown} (${timestamp})`)
 					break;
+				case "PullRequestReviewEvent":
+					prNumber = payload.pull_request.number
+					events.push(`${capitalizeFirstLetter(payload.action)} review on PR [#${prNumber}](${repoLink}/issues/${prNumber}) on ${repoLinkMarkdown} (${timestamp})`)
+					break;
 				case "PublicEvent":
 					events.push(`Made repo ${repoLinkMarkdown} public (${timestamp})`)
 					break;
