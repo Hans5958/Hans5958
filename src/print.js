@@ -145,7 +145,7 @@ module.exports = async () => {
 		replace("{{time-emoji}}", emoji)
 
 		if (gmt07 < 7) replace("{{status-from-time}}", "*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.*")
-		else if (gmt07 < 9) replace("{{status-from-time}}", "*I will will be online in a few hours or so.*")
+		else if (gmt07 < 9) replace("{{status-from-time}}", "*I will be online in a few hours or so.*")
 		else if (gmt07 < 22) replace("{{status-from-time}}", "*I'm online, doing stuff, and is able to respond to inquiries.*")
 		else replace("{{status-from-time}}", "*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.*")
 
