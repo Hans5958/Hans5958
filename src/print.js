@@ -96,7 +96,7 @@ module.exports = async () => {
 					break;
 				case "PushEvent":
 					const branch = payload.ref.slice(11)
-					payload.commits.sort(() => 1).forEach(commit => {
+					payload.commits.reverse().forEach(commit => {
 						if (commit.author.name === "Hans5958") {
 							const hash = commit.sha
 							commits.push(`[\`${hash.substr(0, 7)}\`](${repoLink}/commit/${hash}) ${commit['message'].split("\n")[0]} (${repoLinkMarkdown}, [${branch}](${repoLink}/tree/${branch}))`)
