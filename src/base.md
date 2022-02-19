@@ -44,6 +44,8 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 ### Activity graph (beta)
 
+*Only last 100 events are shown.*
+
 ```
 {{activity-graph}}
 ```
