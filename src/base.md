@@ -4,9 +4,10 @@
 [![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
 
-FYI: It is **{{hour-24}}:xx** (**{{hour-12}}**) in Jakarta. {{time-emoji}}  
-{{status-from-time}}
 </div>
+
+FYI: It is **{{hour-24}}:xx** (**{{hour-12}}**) in Jakarta. {{time-emoji}}  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+{{status-from-time}} <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary>Read about me:</summary>
 
@@ -41,6 +42,12 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 
 {{last-events}}
 
+### Activity graph (beta)
+
+```
+{{activity-graph}}
+```
+
 </details>
 
 *Last updated: {{last-updated}}* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
@@ -56,3 +63,5 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 [dev.to: hans5958]: https://img.shields.io/badge/-Hans5958-0A0A0A?logo=dev.to&logoColor=white&style=flat-square
 [Keybase: hans5958]: https://img.shields.io/badge/-hans5958-33A0FF?logo=keybase&logoColor=white&style=flat-square
 [Email: go to GitHub]: https://img.shields.io/badge/-go%20to%20GitHub-D14836?logo=gmail&logoColor=white&style=flat-square
+[Current time]: https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square
+[Current date]: https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square

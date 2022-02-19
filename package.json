@@ -20,7 +20,7 @@
     "author": "Hans5958",
     "license": "MIT",
     "dependencies": {
-        "axios": "^0.21.1",
+        "@octokit/rest": "^18.12.0",
         "child-process-promise": "^2.2.1",
         "dayjs": "^1.10.3"
     }
