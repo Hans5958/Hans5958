@@ -107,14 +107,14 @@ module.exports = async () => {
 		}
 	})
 
-	for (let i = 0; i < 80; i++) {
+	for (let i = 0; i < 81; i++) {
 		timelineSimplified[i] = 0
 	}
 
 	timeline.forEach(time => {
-		timelineSimplified[Math.round(time*79)]++
-		if (timelineSimplified[Math.round(time*79)] > mostEvents)
-			mostEvents = timelineSimplified[Math.round(time*79)]
+		timelineSimplified[Math.round(time*80)]++
+		if (timelineSimplified[Math.round(time*80)] > mostEvents)
+			mostEvents = timelineSimplified[Math.round(time*80)]
 	})
 
 	console.log(mostEvents)
@@ -123,10 +123,9 @@ module.exports = async () => {
 
 	const dateScales = [
 		dayjs(lastDate),
-		dayjs(lastDate + (currentDate - lastDate) * 0.2),
-		dayjs(lastDate + (currentDate - lastDate) * 0.4),
-		dayjs(lastDate + (currentDate - lastDate) * 0.6),
-		dayjs(lastDate + (currentDate - lastDate) * 0.8),
+		dayjs(lastDate + (currentDate - lastDate) * 0.25),
+		dayjs(lastDate + (currentDate - lastDate) * 0.50),
+		dayjs(lastDate + (currentDate - lastDate) * 0.75),
 	]
 
 	for (let i = Math.ceil(mostEvents*scale/8); i > -1; i--) {
@@ -143,7 +142,7 @@ module.exports = async () => {
 		}).join('')
 		activityGraphLines.push(line)
 	}
-	// console.log('▔'.repeat(80))
+	activityGraphLines.push('├' + '─'.repeat(19) + '┼' + '─'.repeat(19) + '┼' + '─'.repeat(19) + '┼' + '─'.repeat(19) + '┤')
 	activityGraphLines.push([...dateScales].map(date => date.format('DD/MM/YYYY          ')).join('') + 'Now')
 	activityGraphLines.push([...dateScales].map(date => date.format('HH:MM               ')).join(''))
 	// console.log(timelineSimplified)
