@@ -1,8 +1,16 @@
 <div align="center">
 <h1>Welcome to my GitHub profile!</h1>
 
-[![Website: hans5958.github.io]](https://hans5958.github.io) [![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
-[![YouTube: Hans5958]](https://youtube.com/Hans5958) [![Twitter: hans5958]](https://twitter.com/Hans5958) ![Discord: Hans5958#0969] [![GitHub: hans5958]](https://github.com/Hans5958) [![GitLab: hans5958]](https://gitlab.com/Hans5958) [![dev.to: Hans5958]](https://dev.to/hans5958) [![Keybase: hans5958]](https://keybase.io/hans5958)  [![Email: go to GitHub]](https://github.com/hans5958)
+[![Website: hans5958.github.io]](https://hans5958.github.io)
+[![Blog: hans5958.github.io/blog]](https://hans5958.github.io/blog)  
+[![YouTube: Hans5958]](https://youtube.com/Hans5958)
+[![Twitter: hans5958]](https://twitter.com/Hans5958)
+![Discord: Hans5958#0969] 
+[![GitHub: hans5958]](https://github.com/Hans5958) 
+[![GitLab: hans5958]](https://gitlab.com/Hans5958) 
+[![dev.to: Hans5958]](https://dev.to/hans5958) 
+[![Keybase: hans5958]](https://keybase.io/hans5958)  
+[![Email: go to GitHub]](https://github.com/hans5958)
 
 </div>
 
