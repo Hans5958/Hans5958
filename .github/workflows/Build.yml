@@ -13,13 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Set up Node.js
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
           node-version: '16.x'
       - name: Cache dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
@@ -31,12 +31,11 @@ jobs:
         id: build
         run: npm run build
       - name: Commit changes
-        uses: EndBug/add-and-commit@v4 
+        uses: EndBug/add-and-commit@v9
         with:
-          force: true
           message: Update README.md (${{steps.build.outputs.TIMESTAMP}})
           author_name: Auto5958
           author_email: 69833949+Auto5958@users.noreply.github.com
-          add: README.md last-dev-commit.txt
+          add: README.md last-dev-commit.txt --force
         env:
           GITHUB_TOKEN: ${{secrets.GH_PAT}}
