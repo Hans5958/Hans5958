@@ -17,5 +17,6 @@ jobs:
           ref: master
       - name: Reset master to dev
         run: |
+          git fetch origin dev
           git reset --hard origin/dev
           git push --force origin
