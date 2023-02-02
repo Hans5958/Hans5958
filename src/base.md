@@ -8,7 +8,7 @@
 [![Twitter: Hans5958]](https://twitter.com/Hans5958)
 [![Mastodon: Hans5958@mastodon.social]](https://mastodon.social/@Hans5958)
 [![YouTube: Hans5958]](https://youtube.com/Hans5958) 
-[![Reddit: Hans5958_]](https://reddit.com/u/Hans5958)  
+[![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_)  
 ![Discord: Hans5958#0969] 
 [![Email: go to GitHub]](https://github.com/hans5958)
 
@@ -71,9 +71,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 [Discord: Hans5958#0969]: https://img.shields.io/badge/-Hans5958%230969-7289DA?logo=discord&logoColor=white&style=flat-square
 [GitHub: hans5958]: https://img.shields.io/badge/-Hans5958-181717?logo=github&logoColor=white&style=flat-square
 [GitLab: hans5958]: https://img.shields.io/badge/-Hans5958-292961?logo=gitlab&logoColor=white&style=flat-square
-[dev.to: hans5958]: https://img.shields.io/badge/-Hans5958-0A0A0A?logo=dev.to&logoColor=white&style=flat-square
-[Keybase: hans5958]: https://img.shields.io/badge/-hans5958-33A0FF?logo=keybase&logoColor=white&style=flat-square
-[Reddit: Hans5958_]: https://img.shields.io/badge/-Hans5958_-FF4500?logo=reddit&logoColor=white&style=flat-square
+[Reddit: Hans5958_]: https://img.shields.io/badge/-Hans5958__-FF4500?logo=reddit&logoColor=white&style=flat-square
 [Email: go to GitHub]: https://img.shields.io/badge/-go%20to%20GitHub-D14836?logo=gmail&logoColor=white&style=flat-square
 [Current time]: https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square
 [Current date]: https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square
