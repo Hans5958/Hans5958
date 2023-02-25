@@ -8,7 +8,9 @@ dayjs.extend(require('dayjs/plugin/timezone'))
 
 
 module.exports = async () => {
-	const octokit = new Octokit()
+	const octokit = new Octokit({
+		auth: process.env.GITHUB_TOKEN
+	})
 
 	const commits = []
 	const events = []
