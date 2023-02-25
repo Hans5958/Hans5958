@@ -58,6 +58,10 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 {{activity-graph}}
 ```
 
+### lowlighter/metrics (beta)
+
+![Output from lowlighter/metrics](github-metrics.svg)
+
 </details>
 
 *Last updated: {{last-updated}}* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Hans5958&style=flat-square" align="right">  
