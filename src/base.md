@@ -7,10 +7,11 @@
 [![GitLab: hans5958]](https://gitlab.com/Hans5958) 
 [![Twitter: Hans5958]](https://twitter.com/Hans5958)
 [![Mastodon: Hans5958@mastodon.social]](https://mastodon.social/@Hans5958)
-[![YouTube: Hans5958]](https://youtube.com/Hans5958) 
-[![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_)  
+[![YouTube: Hans5958]](https://youtube.com/Hans5958)  
+[![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
+[![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 ![Discord: Hans5958#0969] 
-[![Email: go to GitHub]](https://github.com/hans5958)
+[![Email: on GitHub]](https://github.com/hans5958)
 
 </div>
 
@@ -29,7 +30,7 @@ I can call myself proficient in front-end stuff. That is with HTML5, JS, and CSS
 
 I don't have a certain large project that is in focus. I only do small projects here and there. But, hey, it's "honest work". If you ask about something that I can proud of, go check my [Mini HTMLs](https://hans5958.github.io/mini-htmls).
 
-Outside programming, I also like to write things about anything that I interest, from translation, collecting text, editing Wikipedia articles, or just writing normal articles. You can search through my repos for that, or go to [my blog](https://hans5958.github.io/blog).
+Outside programming, I also like to write things about anything that I interest, from translation, collecting text, editing Wikipedia articles, or just writing normal articles. You can search through my repos for that, or on [my blog](https://hans5958.github.io/blog).
 
 I also like to chat with my friends, try to be the best on my school, and having a great time with my family, if you ask.
 
@@ -76,6 +77,7 @@ You want other stuff than tech? Go check out [my YouTube channel](https://youtub
 [GitHub: hans5958]: https://img.shields.io/badge/-Hans5958-181717?logo=github&logoColor=white&style=flat-square
 [GitLab: hans5958]: https://img.shields.io/badge/-Hans5958-292961?logo=gitlab&logoColor=white&style=flat-square
 [Reddit: Hans5958_]: https://img.shields.io/badge/-Hans5958__-FF4500?logo=reddit&logoColor=white&style=flat-square
-[Email: go to GitHub]: https://img.shields.io/badge/-go%20to%20GitHub-D14836?logo=gmail&logoColor=white&style=flat-square
+[Lemmy: Hans5958@lemmy.world]: https://img.shields.io/badge/-Hans5958@lemmy.world-000000?logo=lemmy&logoColor=white&style=flat-square
+[Email: on GitHub]: https://img.shields.io/badge/-on%20GitHub-D14836?logo=gmail&logoColor=white&style=flat-square
 [Current time]: https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square
 [Current date]: https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square
