@@ -23,6 +23,6 @@
         "@actions/core": "^1.10.0",
         "@octokit/rest": "^20.0.1",
         "child-process-promise": "^2.2.1",
-        "dayjs": "^1.11.9"
+        "dayjs": "^1.11.10"
     }
 }
