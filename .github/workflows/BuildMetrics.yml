@@ -84,7 +84,7 @@ jobs:
           plugin_music_user: Hans5958
           plugin_music_mode: recent
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Move
         run: |
           sudo mv /metrics_renders/* ./
