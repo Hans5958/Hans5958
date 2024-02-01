@@ -57,28 +57,35 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-                                                                             ▄   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                            ▄█   
-                                                                            ██   
-                                                                            ██   
-                                                                            ██   
-                                                                            ██   
-                                                           ▄                ██   
-                                                ▄          █                ███  
-      █ ▄                                       █          █                ███ ▄
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                           ▄                █    
+                                                ▄          █                █ █  
+      █ ▄                                       █          █                █ █ ▄
 ▄     █ █ ▄ █          ▄  ▄      █    █         █       █  █  █ ▄         █ ███▄█
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 13/01/2024          17/01/2024          22/01/2024          27/01/2024          Now
-02:01               23:01               19:01               15:01               
+02:01               23:01               19:01               16:01               
 ```
 
 ### lowlighter/metrics (beta)
@@ -87,7 +94,7 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 01/02/2024, 12:03:04 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 01/02/2024, 12:24:01 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`8354cbe`](https://github.com/Hans5958/Hans5958/commit/8354cbe77ff1784d5a0e55266bf64e1d51a9bac5
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
