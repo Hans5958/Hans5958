@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,8 @@ FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`5ef0c5e`](https://github.com/ScratchAddons/website-v2/commit/5ef0c5edce10ad6e57cc009d585ddf4145904a9f) Update Node.js to 20.x ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`b2661fd`](https://github.com/ScratchAddons/website-i18n/commit/b2661fd7e785291f63312ea19bd4fec91212454f) Update Node.js to 20.x ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
 - [`a77015d`](https://github.com/ScratchAddons/website-v2-script/commit/a77015d592a6cf72cd6744e163cfb4fb3cf6a317) Revert "Bump globby from 13.2.2 to 14.0.0" ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`8354cbe`](https://github.com/Hans5958/Hans5958/commit/8354cbe77ff1784d5a0e55266bf64e1d51a9bac5) Use `npm ci` ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
 - [`a254b11`](https://github.com/ScratchAddons/website-i18n/commit/a254b11c0bbf56d0322a1c9adb69a01e2b816530) Update dependencies ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
@@ -35,11 +37,10 @@ FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`ccd2cf3`](https://github.com/ScratchAddons/l10n-script/commit/ccd2cf33fa0610fbaaac5d2d4b228e40c0f01c10) Add `scope: l10n` label ([ScratchAddons/l10n-script](https://github.com/ScratchAddons/l10n-script), [main](https://github.com/ScratchAddons/l10n-script/tree/main))
 - [`14dd20e`](https://github.com/ScratchAddons/l10n-script/commit/14dd20e198598cc5b69cbd5718c56679899c5c0f) Use only one branch for translations ([ScratchAddons/l10n-script](https://github.com/ScratchAddons/l10n-script), [main](https://github.com/ScratchAddons/l10n-script/tree/main))
 - [`e4f39bc`](https://github.com/Hans5958/blog/commit/e4f39bc6a6442270a17895245682e5f1f33f9785) Forgot to count Article only ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
-- [`0d9c032`](https://github.com/Hans5958/blog/commit/0d9c032e62350b3004ab59c2a14ae85d691c6543) Update dependencies and config ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
-- [`6be6cd2`](https://github.com/Hans5958/hyper-flexible-timer/commit/6be6cd2466a5bf629533dfd6d18e379b3d0799fa) Bump version to 3.0.12 ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
 
 ### Last ten events
 
+- Closed pull request [#117](https://github.com/ScratchAddons/website-v2-script/issues/117) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-03T10:29:58Z)
 - Created comment on issue/PR [#113](https://github.com/ScratchAddons/website-v2-script/issues/113) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:34:27Z)
 - Deleted branch `revert-113-dependabot/npm_and_yarn/globby-14.0.0` on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:27:09Z)
 - Closed pull request [#119](https://github.com/ScratchAddons/website-v2-script/issues/119) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:26:37Z)
@@ -49,7 +50,6 @@ FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - Closed pull request [#116](https://github.com/ScratchAddons/website-v2-script/issues/116) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:21:27Z)
 - Closed pull request [#118](https://github.com/ScratchAddons/website-v2-script/issues/118) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:21:02Z)
 - Closed pull request [#38](https://github.com/Hans5958/Black-MIDI-Meta/issues/38) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2024-02-01T15:37:25Z)
-- Closed pull request [#35](https://github.com/Hans5958/HKBP-Guidebook/issues/35) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-02-01T15:37:18Z)
 
 ### Activity graph (beta)
 
@@ -57,27 +57,27 @@ FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-                                                         █                       
-                                                         █                       
-                                                         █                       
-                                                         █                       
-                                                         █                       
-                                                         █                       
-                                                         █                       
-                                                         █                       
-                                                         █                       
-                                                        ▄█                       
-                                                        ██                       
-                                                        ██                       
-                                                        ██           █           
-                                                        ██           █           
-                       ▄                                ██       █   █           
-                       █                                ██   █   █   █           
-                       █                                ██   █  ▄█   █           
-█                █     █    █   ▄                   █   ██▄  █ ▄██   █           
+                                                █                                
+                                                █                                
+                                                █                                
+                                                █                                
+                                                █                                
+                                                █                                
+                                                █                                
+                                                █                                
+                                                █                                
+                                                █                                
+                                                █                                
+                                                █                                
+                                                █               █                
+                                               ▄█               █                
+▄                                             ███          █    █                
+█                                             ███    █     █    █                
+█                                             ███    █   ▄ █    █               █
+█      █    ▄                            █    ███▄   █  ▄█ █    █               █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-24/01/2024          27/01/2024          29/01/2024          31/01/2024          Now
-16:01               02:01               13:01               23:01               
+27/01/2024          29/01/2024          30/01/2024          01/02/2024          Now
+11:01               05:01               23:01               17:02               
 ```
 
 ### lowlighter/metrics (beta)
@@ -86,7 +86,7 @@ FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 03/02/2024, 10:12:23 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 03/02/2024, 11:10:23 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`8354cbe`](https://github.com/Hans5958/Hans5958/commit/8354cbe77ff1784d5a0e55266bf64e1d51a9bac5
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
