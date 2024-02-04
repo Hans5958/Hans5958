@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -40,6 +40,7 @@ FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten events
 
+- Opened issue [#18](https://github.com/Hans5958/mini-htmls/issues/18) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2024-02-04T11:31:30Z)
 - Closed pull request [#117](https://github.com/ScratchAddons/website-v2-script/issues/117) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-03T10:29:58Z)
 - Created comment on issue/PR [#113](https://github.com/ScratchAddons/website-v2-script/issues/113) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:34:27Z)
 - Deleted branch `revert-113-dependabot/npm_and_yarn/globby-14.0.0` on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:27:09Z)
@@ -49,7 +50,6 @@ FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - Closed pull request [#113](https://github.com/ScratchAddons/website-v2-script/issues/113) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:21:43Z)
 - Closed pull request [#116](https://github.com/ScratchAddons/website-v2-script/issues/116) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:21:27Z)
 - Closed pull request [#118](https://github.com/ScratchAddons/website-v2-script/issues/118) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:21:02Z)
-- Closed pull request [#38](https://github.com/Hans5958/Black-MIDI-Meta/issues/38) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2024-02-01T15:37:25Z)
 
 ### Activity graph (beta)
 
@@ -67,18 +67,18 @@ FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shield
                                           █                                      
                                           █                                      
                                           █                                      
-                                         ▄█                                      
-                                         ██                                      
-                                         ██                                      
-                                         ██             █                        
-                                         ██             █                        
-▄                                        ██         █   █                        
-█                                        ██         █   █                        
-█                                        ██    █  ▄ █   █             █          
-█     █   ▄                        ▄▄    ██   ██ ▄█ █   █             █          
+                                        ▄ █                                      
+                                        █ █                                      
+                                        █ █                                      
+                                        █ █            ▄                         
+                                        █ █            █                         
+                                        █ █        █   █                         
+█                                       █ █   █    █   █                         
+█                                       █ █   █   ▄█   █             █           
+█     █   ▄                        ▄▄   █ █   █ ▄ ██   █▄            █          ▄
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 27/01/2024          29/01/2024          31/01/2024          02/02/2024          Now
-11:01               11:01               11:01               11:02               
+12:01               12:01               12:01               12:02               
 ```
 
 ### lowlighter/metrics (beta)
@@ -87,7 +87,7 @@ FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 04/02/2024, 11:09:57 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 04/02/2024, 12:22:16 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`8354cbe`](https://github.com/Hans5958/Hans5958/commit/8354cbe77ff1784d5a0e55266bf64e1d51a9bac5
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
