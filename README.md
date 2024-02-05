@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,8 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten commits
 
+- [`fbd4299`](https://github.com/Hans5958/ScratchAddons/commit/fbd42992dfa6d76cd0c31ab8d57f8b66ce6d53d2) Transifex workflow: Add and update names ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
+- [`93203c8`](https://github.com/Hans5958/ScratchAddons/commit/93203c895ac09ec276a14815ba1a1307f09b0976) Transifex workflow: Add and update names ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
 - [`8f71e06`](https://github.com/ScratchAddons/validate-json-action/commit/8f71e0683221310e32661c1b1634399858bde75f) Use `npm ci` ([ScratchAddons/validate-json-action](https://github.com/ScratchAddons/validate-json-action), [master](https://github.com/ScratchAddons/validate-json-action/tree/master))
 - [`f45e8f6`](https://github.com/ScratchAddons/prettier_action/commit/f45e8f64f4c6aa81eefb5ff55c7aa6c8f93f0ca6) Do global install instead ([ScratchAddons/prettier_action](https://github.com/ScratchAddons/prettier_action), [master](https://github.com/ScratchAddons/prettier_action/tree/master))
 - [`46b4c15`](https://github.com/ScratchAddons/prettier_action/commit/46b4c1532703e827598537b9895ab92eb146fda0) Do not silent output ([ScratchAddons/prettier_action](https://github.com/ScratchAddons/prettier_action), [master](https://github.com/ScratchAddons/prettier_action/tree/master))
@@ -35,11 +37,10 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 - [`8de9da6`](https://github.com/Hans5958/ScratchAddons/commit/8de9da6346d643af26fbbe6a657c9a6f239b1c24) Prettier workflow: Fix typo ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
 - [`9da503e`](https://github.com/Hans5958/ScratchAddons/commit/9da503e3b6eccc99d8f62824f16a9a859a720c5d) Prettier workflow: Bump Prettier to 3.2.5 ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
 - [`99f975f`](https://github.com/Hans5958/ScratchAddons/commit/99f975f179b69a9ccfdfce1ac18abc6803ca3af4) Fix typo ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
-- [`c98fb0a`](https://github.com/Hans5958/ScratchAddons/commit/c98fb0ab90a52ffb01f95755c7dab854340913e1) Bump Prettier to 3.2.5 ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
-- [`37141db`](https://github.com/Hans5958/ScratchAddons/commit/37141dbf9b6e60633b3fee90a5bc1296f8c1da4b) Prettier workflow: Use usual format ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
 
 ### Last ten events
 
+- Created comment on issue/PR [#7134](https://github.com/ScratchAddons/ScratchAddons/issues/7134) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-02-05T04:44:45Z)
 - Opened pull request [#7134](https://github.com/ScratchAddons/ScratchAddons/issues/7134) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-02-05T03:39:39Z)
 - Created branch `workflows` on [Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons) (2024-02-05T03:37:23Z)
 - Opened issue [#18](https://github.com/Hans5958/mini-htmls/issues/18) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2024-02-04T11:31:30Z)
@@ -49,7 +50,6 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 - Closed pull request [#119](https://github.com/ScratchAddons/website-v2-script/issues/119) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:26:37Z)
 - Opened pull request [#119](https://github.com/ScratchAddons/website-v2-script/issues/119) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:26:11Z)
 - Created branch `revert-113-dependabot/npm_and_yarn/globby-14.0.0` on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:26:05Z)
-- Closed pull request [#113](https://github.com/ScratchAddons/website-v2-script/issues/113) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:21:43Z)
 
 ### Activity graph (beta)
 
@@ -57,27 +57,27 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ```
                                                                                  
-                                   ▄                                             
-                                   █                                             
-                                   █                                             
-                                   █                                             
-                                   █                                             
-                                   █                                             
-                                   █                                             
-                                   █                                             
-                                   █                                             
-                                  ▄█                                             
-                                  ██                                             
-                                  ██                                             
-                                  ██             █                               
-                                  ██             █                               
-                                  ██         █   █                              ▄
-                                  ██    █    █   █                              █
-                                  ██    █   ▄█   █             █                █
-▄   ▄                        ▄▄   ███   █ ▄ ██   █             █         ▄      █
+         █                                                                       
+         █                                                                       
+         █                                                                       
+         █                                                                       
+         █                                                                       
+         █                                                                       
+         █                                                                       
+         █                                                                       
+         █                                                                       
+         █                                                                       
+         █                                                                       
+       █ █                                                                       
+       █ █                     █                                                 
+       █ █                     █                                                 
+       █ █               █     █                                               ▄ 
+       █ █      ▄        █     █                                               █ 
+       █▄█      █     ▄  █     █                    █                          █▄
+▄      ███▄     █▄  ▄ █  █     █                    █                ▄         ██
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-28/01/2024          30/01/2024          01/02/2024          03/02/2024          Now
-01:01               02:01               03:02               03:02               
+31/01/2024          01/02/2024          02/02/2024          03/02/2024          Now
+01:01               08:02               15:02               22:02               
 ```
 
 ### lowlighter/metrics (beta)
@@ -86,7 +86,7 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 05/02/2024, 04:17:17 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 05/02/2024, 05:13:55 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`8354cbe`](https://github.com/Hans5958/Hans5958/commit/8354cbe77ff1784d5a0e55266bf64e1d51a9bac5
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
