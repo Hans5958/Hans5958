@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,19 +27,21 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten commits
 
-- [`5ef0c5e`](https://github.com/ScratchAddons/website-v2/commit/5ef0c5edce10ad6e57cc009d585ddf4145904a9f) Update Node.js to 20.x ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`b2661fd`](https://github.com/ScratchAddons/website-i18n/commit/b2661fd7e785291f63312ea19bd4fec91212454f) Update Node.js to 20.x ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
-- [`a77015d`](https://github.com/ScratchAddons/website-v2-script/commit/a77015d592a6cf72cd6744e163cfb4fb3cf6a317) Revert "Bump globby from 13.2.2 to 14.0.0" ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`8354cbe`](https://github.com/Hans5958/Hans5958/commit/8354cbe77ff1784d5a0e55266bf64e1d51a9bac5) Use `npm ci` ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
-- [`a254b11`](https://github.com/ScratchAddons/website-i18n/commit/a254b11c0bbf56d0322a1c9adb69a01e2b816530) Update dependencies ([ScratchAddons/website-i18n](https://github.com/ScratchAddons/website-i18n), [master](https://github.com/ScratchAddons/website-i18n/tree/master))
-- [`340c946`](https://github.com/ScratchAddons/l10n-script/commit/340c9464b7f5204eae56b427ae17b2f80121ac37) Add `scope: l10n` label 2 ([ScratchAddons/l10n-script](https://github.com/ScratchAddons/l10n-script), [main](https://github.com/ScratchAddons/l10n-script/tree/main))
-- [`f66bea4`](https://github.com/Hans5958/hans5958.github.io/commit/f66bea4a349706be2f48df4a9266b4d6225eaffc) Update Accounts page ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
-- [`ccd2cf3`](https://github.com/ScratchAddons/l10n-script/commit/ccd2cf33fa0610fbaaac5d2d4b228e40c0f01c10) Add `scope: l10n` label ([ScratchAddons/l10n-script](https://github.com/ScratchAddons/l10n-script), [main](https://github.com/ScratchAddons/l10n-script/tree/main))
-- [`14dd20e`](https://github.com/ScratchAddons/l10n-script/commit/14dd20e198598cc5b69cbd5718c56679899c5c0f) Use only one branch for translations ([ScratchAddons/l10n-script](https://github.com/ScratchAddons/l10n-script), [main](https://github.com/ScratchAddons/l10n-script/tree/main))
-- [`e4f39bc`](https://github.com/Hans5958/blog/commit/e4f39bc6a6442270a17895245682e5f1f33f9785) Forgot to count Article only ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
+- [`8f71e06`](https://github.com/ScratchAddons/validate-json-action/commit/8f71e0683221310e32661c1b1634399858bde75f) Use `npm ci` ([ScratchAddons/validate-json-action](https://github.com/ScratchAddons/validate-json-action), [master](https://github.com/ScratchAddons/validate-json-action/tree/master))
+- [`f45e8f6`](https://github.com/ScratchAddons/prettier_action/commit/f45e8f64f4c6aa81eefb5ff55c7aa6c8f93f0ca6) Do global install instead ([ScratchAddons/prettier_action](https://github.com/ScratchAddons/prettier_action), [master](https://github.com/ScratchAddons/prettier_action/tree/master))
+- [`46b4c15`](https://github.com/ScratchAddons/prettier_action/commit/46b4c1532703e827598537b9895ab92eb146fda0) Do not silent output ([ScratchAddons/prettier_action](https://github.com/ScratchAddons/prettier_action), [master](https://github.com/ScratchAddons/prettier_action/tree/master))
+- [`dfca6bb`](https://github.com/ScratchAddons/prettier_action/commit/dfca6bbcef03d0948e991fe8afa30f0fed55329e) Change prettier_plugins into more general additional_dependencies ([ScratchAddons/prettier_action](https://github.com/ScratchAddons/prettier_action), [master](https://github.com/ScratchAddons/prettier_action/tree/master))
+- [`3651f47`](https://github.com/Hans5958/ScratchAddons/commit/3651f4764d94f7d7789d77c6556dfcf45941089b) ESLint workflow: Also trigger when editing the workflow itself ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
+- [`8de9da6`](https://github.com/Hans5958/ScratchAddons/commit/8de9da6346d643af26fbbe6a657c9a6f239b1c24) Prettier workflow: Fix typo ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
+- [`9da503e`](https://github.com/Hans5958/ScratchAddons/commit/9da503e3b6eccc99d8f62824f16a9a859a720c5d) Prettier workflow: Bump Prettier to 3.2.5 ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
+- [`99f975f`](https://github.com/Hans5958/ScratchAddons/commit/99f975f179b69a9ccfdfce1ac18abc6803ca3af4) Fix typo ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
+- [`c98fb0a`](https://github.com/Hans5958/ScratchAddons/commit/c98fb0ab90a52ffb01f95755c7dab854340913e1) Bump Prettier to 3.2.5 ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
+- [`37141db`](https://github.com/Hans5958/ScratchAddons/commit/37141dbf9b6e60633b3fee90a5bc1296f8c1da4b) Prettier workflow: Use usual format ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
 
 ### Last ten events
 
+- Opened pull request [#7134](https://github.com/ScratchAddons/ScratchAddons/issues/7134) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-02-05T03:39:39Z)
+- Created branch `workflows` on [Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons) (2024-02-05T03:37:23Z)
 - Opened issue [#18](https://github.com/Hans5958/mini-htmls/issues/18) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2024-02-04T11:31:30Z)
 - Closed pull request [#117](https://github.com/ScratchAddons/website-v2-script/issues/117) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-03T10:29:58Z)
 - Created comment on issue/PR [#113](https://github.com/ScratchAddons/website-v2-script/issues/113) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:34:27Z)
@@ -48,8 +50,6 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 - Opened pull request [#119](https://github.com/ScratchAddons/website-v2-script/issues/119) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:26:11Z)
 - Created branch `revert-113-dependabot/npm_and_yarn/globby-14.0.0` on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:26:05Z)
 - Closed pull request [#113](https://github.com/ScratchAddons/website-v2-script/issues/113) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:21:43Z)
-- Closed pull request [#116](https://github.com/ScratchAddons/website-v2-script/issues/116) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:21:27Z)
-- Closed pull request [#118](https://github.com/ScratchAddons/website-v2-script/issues/118) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-02-02T01:21:02Z)
 
 ### Activity graph (beta)
 
@@ -57,28 +57,27 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ```
                                                                                  
-                                       ▄                                         
-                                       █                                         
-                                       █                                         
-                                       █                                         
-                                       █                                         
-                                       █                                         
-                                       █                                         
-                                       █                                         
-                                       █                                         
-                                       █                                         
-                                       █                                         
-                                       █                                         
-                                       █                                         
-                                     █ █           ▄                             
-                                     █ █           █                             
-                                     █ █        █  █                             
-█                                    █▄█   █    █  █                             
-█                                    ███   █  ▄ █  █            █                
-█    █   ▄                       █   ███   █ ▄█ █  █▄           █         ▄      
+                                   ▄                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+                                  ▄█                                             
+                                  ██                                             
+                                  ██                                             
+                                  ██             █                               
+                                  ██             █                               
+                                  ██         █   █                              ▄
+                                  ██    █    █   █                              █
+                                  ██    █   ▄█   █             █                █
+▄   ▄                        ▄▄   ███   █ ▄ ██   █             █         ▄      █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-27/01/2024          29/01/2024          31/01/2024          02/02/2024          Now
-12:01               16:01               19:01               23:02               
+28/01/2024          30/01/2024          01/02/2024          03/02/2024          Now
+01:01               02:01               03:02               03:02               
 ```
 
 ### lowlighter/metrics (beta)
@@ -87,7 +86,7 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 05/02/2024, 03:14:45 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 05/02/2024, 04:17:17 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`8354cbe`](https://github.com/Hans5958/Hans5958/commit/8354cbe77ff1784d5a0e55266bf64e1d51a9bac5
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
