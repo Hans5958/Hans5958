@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,7 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ### Last ten commits
 
+- [`9afea84`](https://github.com/ScratchAddons/website-v2/commit/9afea843cb823bd6f6c8e6fcd01fc74be6c9a03a) Update copyright year to 2024 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`1b18617`](https://github.com/Hans5958/ScratchAddons/commit/1b18617edd01b8740a0a5b521fd614758c1e62b6) ESLint workflow: Update names ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
 - [`78bf2c3`](https://github.com/Hans5958/ScratchAddons/commit/78bf2c3cac178251593feee0b1daeb3f9b93c7a0) Transifex workflow: Add and update names 2 ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
 - [`fbd4299`](https://github.com/Hans5958/ScratchAddons/commit/fbd42992dfa6d76cd0c31ab8d57f8b66ce6d53d2) Transifex workflow: Add and update names ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
@@ -36,7 +37,6 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 - [`46b4c15`](https://github.com/ScratchAddons/prettier_action/commit/46b4c1532703e827598537b9895ab92eb146fda0) Do not silent output ([ScratchAddons/prettier_action](https://github.com/ScratchAddons/prettier_action), [master](https://github.com/ScratchAddons/prettier_action/tree/master))
 - [`dfca6bb`](https://github.com/ScratchAddons/prettier_action/commit/dfca6bbcef03d0948e991fe8afa30f0fed55329e) Change prettier_plugins into more general additional_dependencies ([ScratchAddons/prettier_action](https://github.com/ScratchAddons/prettier_action), [master](https://github.com/ScratchAddons/prettier_action/tree/master))
 - [`3651f47`](https://github.com/Hans5958/ScratchAddons/commit/3651f4764d94f7d7789d77c6556dfcf45941089b) ESLint workflow: Also trigger when editing the workflow itself ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
-- [`8de9da6`](https://github.com/Hans5958/ScratchAddons/commit/8de9da6346d643af26fbbe6a657c9a6f239b1c24) Prettier workflow: Fix typo ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
 
 ### Last ten events
 
@@ -72,13 +72,13 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
  █                                                                               
  █        █                                                                      
  █        █                                                                      
- █     █  █                                                                      
- █  █  █  █                   ▄▄                            █                    
-▄█  █ ▄█  █        █          ██             █              █                    
-██  █▄██  █        █      ▄   ██     █  ▄    █              █               █    
+ █     █  █                   ▄                                                  
+ █  █  █  █                   █                             ▄                    
+ █  █ ▄█  █        █          █▄             █              █                    
+██  █▄██  █        █      ▄   ██     █  ▄    █             ▄█               █   ▄
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 31/01/2024          03/02/2024          06/02/2024          09/02/2024          Now
-13:01               13:02               14:02               14:02               
+13:01               14:02               14:02               15:02               
 ```
 
 ### lowlighter/metrics (beta)
@@ -87,7 +87,7 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 </details>
 
-*Last updated: 12/02/2024, 15:13:27 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 12/02/2024, 16:17:41 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`8354cbe`](https://github.com/Hans5958/Hans5958/commit/8354cbe77ff1784d5a0e55266bf64e1d51a9bac5
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
