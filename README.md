@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I will be online in a few hours or so.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,6 +27,8 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`98e6f26`](https://github.com/ScratchAddons/website-v2-script/commit/98e6f269c784c14bbb2595e03c9879359fb04d95) Use asynchronous functions better 4 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`89d209a`](https://github.com/ScratchAddons/website-v2-script/commit/89d209a818446a9c926d1a9a6d6e9fe3b14956c2) Use asynchronous functions better 3 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`3fd34fb`](https://github.com/ScratchAddons/website-v2-script/commit/3fd34fbca8cb7d0ce2c9f248ac9093af70851438) Use asynchronous functions better 2 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`996e301`](https://github.com/ScratchAddons/website-v2-script/commit/996e3013b3bfe032413d3de1d09e30a6566cc6a6) Use asynchronous functions better ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`f8c7599`](https://github.com/Hans5958/mini-htmls/commit/f8c759984d63cd00087d016bb8cb83196331c40e) Update copyright year ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
@@ -35,8 +37,6 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`e99c234`](https://github.com/Hans5958/ScratchAddons/commit/e99c2347edbc28a5985e521245a19130c8a6a3e2) ESLint workflow: Update names ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
 - [`72be075`](https://github.com/Hans5958/ScratchAddons/commit/72be075f77e69fc53143aadff78eac4eda083c50) Transifex workflow: Add and update names 2 ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
 - [`358654c`](https://github.com/Hans5958/ScratchAddons/commit/358654cbec39e91e5336c189d1ba1e66a2544ae1) Transifex workflow: Add and update names ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
-- [`15ac6ed`](https://github.com/Hans5958/ScratchAddons/commit/15ac6ed2561e7999d51d527cd8545f2a1d808f99) ESLint workflow: Also trigger when editing the workflow itself ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
-- [`f04ec71`](https://github.com/Hans5958/ScratchAddons/commit/f04ec7122b581ad0d13a925207f9431be6c1169f) Prettier workflow: Fix typo ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
 
 ### Last ten events
 
@@ -64,16 +64,15 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 █                                                                                
 █                                                                                
 █                                                                                
-█                                                                                
 █    █                                                                           
 █    █            █                                                              
 █   ██            █                                                              
-█ █ ██            █                █               ▄                             
+█ █ ██            █                █               ▄                            █
 █ ████     █      █       █        █               █                            █
-█ ████     █   ▄  █   █▄  █        █        ▄▄ ▄   █  ▄         ▄    ▄          █
+█ ████     █   ▄  █   █▄  █        █        █  ▄   █  ▄         ▄    ▄          █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 31/01/2024          05/02/2024          10/02/2024          15/02/2024          Now
-15:01               18:02               20:02               23:02               
+15:01               18:02               21:02               23:02               
 ```
 
 ### lowlighter/metrics (beta)
@@ -82,7 +81,7 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 21/02/2024, 01:51:59 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 21/02/2024, 02:18:36 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`8354cbe`](https://github.com/Hans5958/Hans5958/commit/8354cbe77ff1784d5a0e55266bf64e1d51a9bac5
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
