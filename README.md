@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,8 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`6a5e8c7`](https://github.com/ScratchAddons/website-v2-script/commit/6a5e8c79583684fda32485359512d3f2ab9f14e6) Use asynchronous functions better 8 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`5e78048`](https://github.com/ScratchAddons/website-v2-script/commit/5e78048dfbc7da5cac2084bac9e035d0ef014386) Use asynchronous functions better 7 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`01be127`](https://github.com/ScratchAddons/website-v2-script/commit/01be127d25f05080768e130b7ee9c77683e0c799) Use asynchronous functions better 6 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`31bb20d`](https://github.com/ScratchAddons/website-v2-script/commit/31bb20d31cee6be21c9d2d2efa2a166f9a8f3012) Use asynchronous functions better 6 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`bfdf0c7`](https://github.com/ScratchAddons/website-v2-script/commit/bfdf0c78b9b44f8f9bfdeb7f272aa3da3cd11c9e) Use asynchronous functions better 6 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
@@ -35,21 +37,19 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`98e6f26`](https://github.com/ScratchAddons/website-v2-script/commit/98e6f269c784c14bbb2595e03c9879359fb04d95) Use asynchronous functions better 4 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`89d209a`](https://github.com/ScratchAddons/website-v2-script/commit/89d209a818446a9c926d1a9a6d6e9fe3b14956c2) Use asynchronous functions better 3 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`3fd34fb`](https://github.com/ScratchAddons/website-v2-script/commit/3fd34fbca8cb7d0ce2c9f248ac9093af70851438) Use asynchronous functions better 2 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`996e301`](https://github.com/ScratchAddons/website-v2-script/commit/996e3013b3bfe032413d3de1d09e30a6566cc6a6) Use asynchronous functions better ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`f8c7599`](https://github.com/Hans5958/mini-htmls/commit/f8c759984d63cd00087d016bb8cb83196331c40e) Update copyright year ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 
 ### Last ten events
 
+- Created review on PR [#421](https://github.com/ScratchAddons/website-v2/issues/421) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-02-23T07:00:38Z)
+- Created review on PR [#421](https://github.com/ScratchAddons/website-v2/issues/421) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-02-23T07:00:14Z)
+- Created comment on a review on PR [#418](https://github.com/ScratchAddons/website-v2/issues/418) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-02-23T06:52:58Z)
+- Created review on PR [#418](https://github.com/ScratchAddons/website-v2/issues/418) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-02-23T06:52:59Z)
+- Created comment on a review on PR [#418](https://github.com/ScratchAddons/website-v2/issues/418) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-02-23T06:51:12Z)
+- Created review on PR [#418](https://github.com/ScratchAddons/website-v2/issues/418) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-02-23T06:51:13Z)
 - Deleted branch `all-contributors/add-Joeclinton1` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-02-22T12:47:59Z)
 - Closed pull request [#291](https://github.com/ScratchAddons/contributors/issues/291) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-02-22T12:47:58Z)
 - Created review on PR [#291](https://github.com/ScratchAddons/contributors/issues/291) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-02-22T12:47:50Z)
 - Created comment on issue/PR [#7199](https://github.com/ScratchAddons/ScratchAddons/issues/7199) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-02-22T12:43:49Z)
-- Created review on PR [#418](https://github.com/ScratchAddons/website-v2/issues/418) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-02-22T04:04:15Z)
-- Created comment on a review on PR [#418](https://github.com/ScratchAddons/website-v2/issues/418) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-02-22T04:04:07Z)
-- Created review on PR [#418](https://github.com/ScratchAddons/website-v2/issues/418) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-02-22T04:04:15Z)
-- Created comment on a review on PR [#418](https://github.com/ScratchAddons/website-v2/issues/418) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-02-22T04:02:16Z)
-- Created review on PR [#418](https://github.com/ScratchAddons/website-v2/issues/418) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-02-22T04:02:17Z)
-- Created comment on a review on PR [#418](https://github.com/ScratchAddons/website-v2/issues/418) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-02-22T03:59:07Z)
 
 ### Activity graph (beta)
 
@@ -58,15 +58,15 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 ```
                                                                                  
                                                                             ▄    
-   ▄ █                                                                      █    
-   █ █          █                                                           █    
-  ▄█ █          █                                                           █    
-  ██ █          █               ▄             ▄                         █   ██   
-▄ ██ █    █     █       █       █             █                         █   ██▄  
-█ ██ █    █  ▄  █   █▄  █      ▄█       █ ▄   █  ▄        ▄   ▄         █   ███  
+   █                                                                        █    
+   █                                                                        █▄   
+  ██           █                                                            ██  █
+  ██           █              █              ▄                          █   ██  █
+ ███    █      █      █       █              █                          █   ██  █
+▄███    █   ▄ ██  █ ▄ █       █        █  ▄  █  ▄         ▄   ▄         █   ██  █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-31/01/2024          06/02/2024          11/02/2024          17/02/2024          Now
-16:01               07:02               23:02               14:02               
+01/02/2024          06/02/2024          12/02/2024          17/02/2024          Now
+03:02               16:02               05:02               18:02               
 ```
 
 ### lowlighter/metrics (beta)
@@ -75,7 +75,7 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 23/02/2024, 06:17:18 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 23/02/2024, 07:13:25 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`8354cbe`](https://github.com/Hans5958/Hans5958/commit/8354cbe77ff1784d5a0e55266bf64e1d51a9bac5
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
