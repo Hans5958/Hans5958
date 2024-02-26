@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,16 +27,16 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ### Last ten commits
 
+- [`8fa1df0`](https://github.com/ScratchAddons/notification-to-highlights/commit/8fa1df0f620a1d2c46e631104d1cfd8a73891dbe) Fix broken title when looking a language ([ScratchAddons/notification-to-highlights](https://github.com/ScratchAddons/notification-to-highlights), [master](https://github.com/ScratchAddons/notification-to-highlights/tree/master))
+- [`d8c5113`](https://github.com/ScratchAddons/notification-to-highlights/commit/d8c51138bffc36bd92906e33ab82501da51c01e5) Order versions ([ScratchAddons/notification-to-highlights](https://github.com/ScratchAddons/notification-to-highlights), [master](https://github.com/ScratchAddons/notification-to-highlights/tree/master))
+- [`088bfa7`](https://github.com/ScratchAddons/notification-to-highlights/commit/088bfa79893a74bd89b0aa17f86c048c4642f109) Update dependencies ([ScratchAddons/notification-to-highlights](https://github.com/ScratchAddons/notification-to-highlights), [master](https://github.com/ScratchAddons/notification-to-highlights/tree/master))
+- [`ed51f65`](https://github.com/ScratchAddons/notification-to-highlights/commit/ed51f65fa5a39b28b2fa5d50528761110f25621c) Add v1.36.0 ([ScratchAddons/notification-to-highlights](https://github.com/ScratchAddons/notification-to-highlights), [master](https://github.com/ScratchAddons/notification-to-highlights/tree/master))
 - [`dbf114e`](https://github.com/ScratchAddons/website-v2-script/commit/dbf114e10cc7769c54b6c7a7cac7373dae9a37a8) Make order on some files stable 2 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`1367528`](https://github.com/ScratchAddons/website-v2-script/commit/1367528d270aae1709c8ad2a3b13b536d950c026) Make order on some files stable ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`6a5e8c7`](https://github.com/ScratchAddons/website-v2-script/commit/6a5e8c79583684fda32485359512d3f2ab9f14e6) Use asynchronous functions better 8 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`5e78048`](https://github.com/ScratchAddons/website-v2-script/commit/5e78048dfbc7da5cac2084bac9e035d0ef014386) Use asynchronous functions better 7 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`01be127`](https://github.com/ScratchAddons/website-v2-script/commit/01be127d25f05080768e130b7ee9c77683e0c799) Use asynchronous functions better 6 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`31bb20d`](https://github.com/ScratchAddons/website-v2-script/commit/31bb20d31cee6be21c9d2d2efa2a166f9a8f3012) Use asynchronous functions better 6 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`bfdf0c7`](https://github.com/ScratchAddons/website-v2-script/commit/bfdf0c78b9b44f8f9bfdeb7f272aa3da3cd11c9e) Use asynchronous functions better 6 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`6a3b665`](https://github.com/ScratchAddons/website-v2-script/commit/6a3b665d90617b5bca5a68b1ca438f33aa2b394f) Move from chalk-template ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`073ce80`](https://github.com/ScratchAddons/website-v2-script/commit/073ce80b6d6aa49f287b5669b8af6d6ac4179b61) Use asynchronous functions better 5, use nullish coalescing ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
-- [`98e6f26`](https://github.com/ScratchAddons/website-v2-script/commit/98e6f269c784c14bbb2595e03c9879359fb04d95) Use asynchronous functions better 4 ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 
 ### Last ten events
 
@@ -58,15 +58,15 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 ```
                                                                                  
                                                                  ▄               
-▄                                                                █      █        
+                                                                 █      █        
 █         █                                                      █ ▄    █        
 █         █                                                      █ █ █  █        
-█         █              ▄            ▄                       █  █ █ █  █        
-█   █     █      █       █            █                       █  █ █ █  █        
-█   █   ▄ █  █ ▄ █      ▄█      █  ▄  █ ▄        ▄   ▄        █  █ █ █  █     ▄ ▄
+█         █             █             ▄                       █  █ █ █  █        
+█   █     █      █      █             █                       █  █ █ █  █        
+█   █   ▄ █  █ ▄ █      █       █ ▄   █ ▄        ▄   ▄        █  █ █ █  █     ▄ █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 02/02/2024          08/02/2024          14/02/2024          20/02/2024          Now
-01:02               04:02               08:02               11:02               
+01:02               05:02               08:02               12:02               
 ```
 
 ### lowlighter/metrics (beta)
@@ -75,7 +75,7 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 </details>
 
-*Last updated: 26/02/2024, 15:13:52 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 26/02/2024, 16:16:52 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`8354cbe`](https://github.com/Hans5958/Hans5958/commit/8354cbe77ff1784d5a0e55266bf64e1d51a9bac5
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
