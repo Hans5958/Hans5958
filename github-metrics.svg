@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="3515" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="3717" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.category,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.category{align-items:center;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}svg.large .tracklist{flex-direction:row;flex-wrap:wrap}.post{align-items:flex-start}.post .infos{display:flex;margin-bottom:4px}.post .infos .description,.post .infos .title{font-size:14px;white-space:normal;overflow:hidden;text-overflow:ellipsis;max-height:38px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.post .infos .description{margin-top:3px;font-size:12px;max-height:48px;color:#666;-webkit-line-clamp:3}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.licenses{display:flex}.licenses .column{align-items:flex-start;font-size:12px;color:#666;flex-shrink:0}.licenses .column:nth-child(1){margin-left:13px;width:25%}.licenses .column:nth-child(2){width:25%}.licenses .column:nth-child(3){width:50%}.licenses .column svg{height:12px;width:12px}.licenses .column .title{font-weight:600;margin-left:15px}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.number{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.category,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.category{align-items:center;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}svg.large .tracklist{flex-direction:row;flex-wrap:wrap}.post{align-items:flex-start}.post .infos{display:flex;margin-bottom:4px}.post .infos .description,.post .infos .title{font-size:14px;white-space:normal;overflow:hidden;text-overflow:ellipsis;max-height:38px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.post .infos .description{margin-top:3px;font-size:12px;max-height:48px;color:#666;-webkit-line-clamp:3}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.licenses{display:flex}.licenses .column{align-items:flex-start;font-size:12px;color:#666;flex-shrink:0}.licenses .column:nth-child(1){margin-left:13px;width:25%}.licenses .column:nth-child(2){width:25%}.licenses .column:nth-child(3){width:50%}.licenses .column svg{height:12px;width:12px}.licenses .column .title{font-weight:600;margin-left:15px}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.number{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4755 Commits
+                            4756 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    9.97 GB used
+                                    9.98 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    93.2k added, 93.2k removed
+                                    93.3k added, 93.3k removed
                                 </div>
                             </section>
                             <section>
@@ -241,14 +241,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.6207674943566591" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="0.6207674943566591" y="0" width="0.08276899924755456" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="0.7035364936042137" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="0.7035364936042137" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="0.7035364936042137" y="0" width="218.7584650112867" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="219.4620015048909" y="0" width="0.5379984951091046" height="8" fill="#d2a8ff"/>
-                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0.6201841759067844" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="0.6201841759067844" y="0" width="0.08269122345423792" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="0.7028753993610224" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="0.7028753993610224" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0.7028753993610224" y="0" width="218.80097725991357" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="219.5038526592746" y="0" width="0.49614734072542754" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="220.00000000000003" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="220.00000000000003" y="0" width="0" height="8" fill="#c9d1d9"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -269,7 +269,7 @@
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">5299 <small>closed</small></span>
+                                <span class="no-wrap">5304 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -303,7 +303,7 @@
                                     <path fill="#d2a8ff" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#d2a8ff" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">13 <small>closed</small></span>
+                                <span class="no-wrap">12 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -329,11 +329,11 @@
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0.7665505226480837" height="8" fill="#238636"/>
                             <rect mask="url(#issues-bar)" x="0.7665505226480837" y="0" width="1.5331010452961673" height="8" fill="#56d364"/>
                             <rect mask="url(#issues-bar)" x="2.299651567944251" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="1.5331010452961675" y="0" width="0.7665505226480837" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="2.299651567944251" y="0" width="1.5331010452961673" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="3.8327526132404186" y="0" width="134.9128919860627" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="138.74564459930312" y="0" width="3.0662020905923346" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="141.81184668989545" y="0" width="78.18815331010454" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="2.299651567944251" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="2.299651567944251" y="0" width="14.564459930313589" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="16.86411149825784" y="0" width="121.88153310104529" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="138.74564459930315" y="0" width="21.463414634146343" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="160.2090592334495" y="0" width="59.79094076655052" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="field blue fill-width">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -385,20 +385,20 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#d2a8ff" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">102 <small>merged</small></span>
+                                <span class="no-wrap">78 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#c9d1d9" d="M2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5zm9.5 3a2.25 2.25 0 100-4.5 2.25 2.25 0 000 4.5zm0-3a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     <path d="M14 7.5a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0zm0-4.25a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0z"/>
                                 </svg>
-                                <span class="no-wrap">1 <small>draft</small></span>
+                                <span class="no-wrap">0 <small>drafts</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ff7b72" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">176 <small>closed</small></span>
+                                <span class="no-wrap">159 <small>closed</small></span>
                             </div>
                         </div>
                     </section>
@@ -419,14 +419,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.77579161871378" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="204.77579161871378" y="0" width="174.07059370083726" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="378.8463853195511" y="0" width="138.714303199949" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="517.5606885195001" y="0" width="119.17777159913764" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="636.7384601186377" y="0" width="59.3924519698717" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="696.1309120885095" y="0" width="49.318562472895124" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="745.4494745614045" y="0" width="26.063099557836175" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="771.5125741192406" y="0" width="148.48742588075928" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.75657464875968" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="204.75657464875968" y="0" width="174.0542582280619" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="378.81083287682156" y="0" width="138.70128570127045" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="517.512118578092" y="0" width="119.16658748583053" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="636.6787060639225" y="0" width="59.38723808250214" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="696.0659441464247" y="0" width="49.400270661603784" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="745.4662148080284" y="0" width="26.06065369352207" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="771.5268685015506" y="0" width="148.47313149844942" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -565,12 +565,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 21 commits)</small>
+                    <small class="h-details">(computed from last 19 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 246.3 characters per line of code written</li>
+                        <li>Has approximately 264.1 characters per line of code written</li>
                         <li>Mostly pushes code around 08:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -691,12 +691,6 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
-                            </svg>
-                            Current streak 1 day
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 7 days
@@ -717,7 +711,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.23
+                            Average per day at ~1.22
                         </div>
                     </section>
                 </div>
@@ -1710,6 +1704,11 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5 0,2.5 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5 1.7,3.5 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1731,7 +1730,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ReVanced/revanced-website</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌐 Website for ReVanced</div>
@@ -1752,7 +1751,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        242
+                                        244
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1784,7 +1783,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ReVanced/revanced-patches</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧩 Patches for ReVanced</div>
@@ -1805,13 +1804,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        547
+                                        549
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        49
+                                        50
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1824,7 +1823,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        61
+                                        62
                                     </div>
                                 </div>
                             </section>
@@ -1871,7 +1870,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        5.21k
+                                        5.22k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1977,7 +1976,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        169
+                                        171
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2030,7 +2029,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        1.27k
+                                        1.28k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2070,7 +2069,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        312
+                                        313
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2316,7 +2315,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.67898699520876 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.76386036960987 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2712,7 +2711,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 254k out of 105m repositories</span>
+                                    <span class="gh">ranked 254k out of 87.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 146 stars</div>
                             </div>
@@ -2758,7 +2757,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.18m out of 105m repositories</span>
+                                    <span class="gh">ranked 1.18m out of 87.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 9 times</div>
                             </div>
@@ -2908,7 +2907,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">ed51f65f</span>
-                            <span class="code">src/pages/v1.36.0/_locales/zh_CN/messages.json</span>
+                            <span class="code">src/pages/v1.36.0/_locales/nl/messages.json</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -2919,14 +2918,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"extensionName":{"message":"Scratch Addons"},"extensionDescription":{"message":"Scratch Addons 给 scratch.mit.edu 网站和作品编辑器提供可自定义的特性和主题"},"messaging":{"message":"消息"},"games":{"message":"游戏"},"openInNewTab":{"message":"在新标签页里打开"},"changelog":{"message":"查看更新日志"},"notifChangelog":{"message":"查看更新日志"},"15min":{"message":"15 分钟"},"1hour":{"message":"1 小时"},"8hours":{"message":"8 小时"},"24hours":{"message":"24 小时"},"untilEnabled":{"message":"直到我重新启用"},"muteFor":{"message":"请勿打扰"},"unmute":{"message":"关闭请勿打扰"},"recommended":{"message":"建议"},"featured":{"message":"特色"},"beta":{"message":"测试版"},"danger":{"message":"危险"},"dangerWarning":{"message":"你确定要启用“ $1 ”插件吗？"},"forums":{"message":"论坛"},"forEditor":{"message":"编辑器用"},"forWebsite":{"message":"网站用"},"confirmPreset":{"message":"加载此预设并覆写该 Addon 当前的设置？"},"confirmReset":{"message":"你确定要将这个插件还原到默认设置吗？"},"settingsTitle":{"message":"设置 - Scratch Addons"},"settings":{"message":"设置"},"all":{"message":"全部"},"editorFeatures":{"message":"Scratch 编辑器功能"},"costumeEditorFeatures":{"message":"造型编辑器"},"codeEditorFeatures":{"message":"代码编辑器"},"websiteFeatures":{"message":"Scratch 官网功能"},"profilesFeatures":{"message":"个人页面"},"projectPlayerFeatures":{"message":"项目播放器"},"projectPageFeatures":{"message":"项目页"},"others":{"message":"其他"},"themes":{"message":"主题"},"editorThemes":{"message":"编辑器主题"},"websiteThemes":{"message":"网站主题"},"popupFeatures":{"message":"菜单页功能"},"theme":{"message":"主题："},"credits":{"message":"鸣谢"},"review":{"message":"检查"},"feedback":{"message":"发送反馈"},"moreSettings":{"message":"更多设置"},"close":{"message":"关闭"},"filter":{"message":"筛选："},"resetToDefault":{"message":"重置为默认设置"},"creditTo":{"message":"制作人员名单："},"viewLicenses":{"message":"查看使用库的许可证"},"reset":{"message":"重置"},"default":{"message":"默认"},"presets":{"message":"预设"},"preview":{"message":"预览"},"scratchAddonsTheme":{"message":"Scratch Addons 主题"},"scratchAddonsThemeDescription":{"message":"这允许您在这个设置页面切换亮主题和暗主题，以及扩展的弹出窗口。"},"light":{"message":"亮色"},"dark":{"message":"暗色"},"licensesTitle":{"message":"许可证 - Scratch Addons"},"licenses":{"message":"许可证"},"licensesForLibrary":{"message":"库 $1 的许可证"},"libraryCredits":{"message":"查看使用库的许可证"},"recommendedTooltip":{"message":"这是被我们推荐的。试试吧！"},"dangerTooltip":{"message":"谨慎使用。确保在启用之前了解这个插件会做什么。"},"betaTooltip":{"message":"请记住这个插件可能有错误。"},"forumsTooltip":{"message":"这个插件在讨论论坛上应用。"},"reportItHere":{"message":"在这里报告问题"},"forumWarning":{"message":"由 Scratch Addons 扩展添加的消息：确保当包括 Scratch Addons 的所有浏览器扩展都被禁用时，问题仍然存在。如果你认为问题是由 Scratch Addons 引起的，请$1。"},"forumWarningGeneral":{"message":"来自 Scratch Addons 扩展的消息：Scratch 禁止讨论任何浏览器扩展，包括 Scratch Addons。不要为 Scratch Addons 或它的任何功能做广告。如果你发现了一个错误，请$1。"},"search":{"message":"搜索"},"permissionsTitle":{"message":"权限 - Scratch Addons"},"permissions":{"message":"权限"},"enablePermissionsTitle":{"message":"请允许页面访问"},"enablePermissionsDescription":{"message":"Scratch Addons 需要访问网页的权限才能工作。"},"enableButton":{"message":"启用"},"enableButtonDescription":{"message":"请按下按钮启用。"},"permissionsScreenAlt":{"message":"访问网站权限提示框如图所示"},"clickAllowDescription":{"message":"点击“允许”，Scratch Addons 将会重新启动并正常工作"},"permissionsDenied":{"message":"访问网站的权限无法被启用，请再试一次。"},"translate":{"message":"帮助我们翻译"},"extensionUpdate":{"message":"Scratch Addons 拓展更新"},"extensionHasUpdated":{"message":"Scratch Addons 已经更新到 v$1 版本。"},"scratchAddonsSettings":{"message":"Scratch Addons 设置"},"readTheBlogPost":{"message":"阅读 $1 以获取更多信息。","description":"The placeholder is \"blog post\""},"blogPost":{"message":"论坛帖子"},"notAffiliated":{"message":"Scratch Addons 和 Scratch 无直接关联。"},"new":{"message":"新插件","description":"Tag for addons. Singular."},"updated":{"message":"新特性","description":"Tag for addons with new features. Singular."},"updatedWithSettings":{"message":"新的设置","description":"Tag for addons with new settings. Singular."},"newGroup":{"message":"其他新插件和更新","description":"Used as a category name for new addons and updates"},"featuredNew":{"message":"重要的新插件和更新","description":"Used as a category name for featured new addons and updates"},"enabled":{"message":"已启用","description":"Used as a category name for enabled addons"},"exportAndImportSettings":{"message":"导出和导入设置"},"exportAndImportSettingsDescription":{"message":"把设置导出为 JSON 文件以在其他地方使用"},"useBrowserSync":{"message":"你也可以启用浏览器自带的同步设定功能来在不同设备中同步设置。"},"export":{"message":"导出设置"},"import":{"message":"导入设置"},"viewSettings":{"message":"查看设置文件"},"fileNotSelected":{"message":"请选择设置文件"},"importSuccess":{"message":"设置成功导入"},"importFailed":{"message":"设置文件格式错误，请再试一次。"},"confirmImport":{"message":"确定"},"language":{"message":"语言"},"applySettings":{"message":"应用更改"},"quickSettings":{"message":"插件"},"runningOnThisPage":{"message":"当前标签页中的插件"},"recentlyUsed":{"message":"最近使用","description":"Used as a category name for recently used addons"},"settingsPagePermission":{"message":"打开设定页面已启用“$1”插件。 "},"openFullSettings":{"message":"打开设定页面"},"skipOpenFullSettings":{"message":"取消"},"exploreAllAddons":{"message":"浏览$1个插件：","description":"Placeholder is a number. Example: explore all 80+ addons"},"searchNotFound":{"message":"没有找到插件。换一个关键词？"},"searchNotFoundInCategory":{"message":"在“$1”中未找到任何结果。 也许尝试不同的关键字？"},"captureCommentError":{"message":"Scratch Addons 提醒：你的评论提到了浏览器插件。$1意味着 Scratcher 不可以推广浏览器插件，因为 Scratch 团队还没有检查这些插件的安全性，也不可能检查每一个插件的安全性。请遵守这个规则，避免在发送的内容中提到浏览器插件。","description":"The placeholder is \"Browser Extension Policy\""},"captureCommentPolicy":{"message":"浏览器插件规则"},"captureCommentPostAnyway":{"message":"仍然发送"},"captureCommentConfirm":{"message":"发送此评论可能导致你的账号被自动禁言，使你暂时无法评论。持续地被禁言可能导致账号被封禁。你确定要继续发送这条评论吗？"},"extensionStoreDescription1":{"message":"从 100+ 个选项中选择","description:":"Used in the description for the extension stores"},"extensionStoreDescription2":{"message":"• 通过单击扩展图标快速阅读和响应消息。\n• 使用云游戏选项卡进入开放的多人游戏。\n• 美化 Scratch 网站上的每个页面，使用 3.0 样式、夜间模式以及自定义颜色主题选项。\n• 轻松离开工作室、提升或移除策划人，并浏览关注者以进行邀请。\n• 使用“我的资料”搜索栏和取消共享按钮改进项目管理。 \n• 通过暂停按钮、60FPS 和游戏手柄支持增强项目播放器。\n• 使用洋葱皮、精确的颜色挑选和造型搜索更轻松地制作动画。 \n• 通过积木搜索、可搜索的下拉菜单、积木切换、单抓取和复制/粘贴来提高您的编码效率。\n• 使用自动隐藏积木调色板和角色文件夹保持整洁。\n• 直接将项目缩略图设置和冻结为任何图像或 GIF。 \n• 从愚人节版本带来猫积木。\n• 使用日志记录、性能监控和逐步执行来调试项目。\n• 每次更新都有更多内容！","description":"Used in the description for the extension stores"},"extensionStoreDescription3":{"message":"这个插件是开源的，基于GPL v3协议。\n查看或者贡献源代码:\nhttps://github.com/ScratchAddons\n要想了解更多信息，请前往:ScratchAddons.com","description":"Used in the description for the extension stores. Do not translate \"GPL v3\" or the links."},"extensionStoreDescription4":{"message":"这个项目和 Scratch 网站、组织、基金会或者任何相关均没有任何关联、合作、或者任何官方性质的关系。","description":"Used in the description for the extension stores"}}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"extensionName":{"message":"Scratch Addons"},"extensionDescription":{"message":"Scratch Addons biedt je aanpasbare functies en thema's voor de scratch.mit.edu website en projecteditor."},"messaging":{"message":"Berichten"},"games":{"message":"Spelletjes"},"openInNewTab":{"message":"Openen in nieuw tabblad"},"changelog":{"message":"Changelog bekijken"},"notifChangelog":{"message":"Changelog Bekijken"},"15min":{"message":"Voor 15 minuten"},"1hour":{"message":"Voor 1 uur"},"8hours":{"message":"Voor 8 uur"},"24hours":{"message":"Voor 24 uur"},"untilEnabled":{"message":"Totdat ik het weer aanzet"},"muteFor":{"message":"Niet storen"},"unmute":{"message":"Schakel Niet storen uit"},"recommended":{"message":"Aanbevolen"},"featured":{"message":"Uitgelicht"},"beta":{"message":"Bèta"},"danger":{"message":"Gevaarlijk"},"dangerWarning":{"message":"Weet je zeker dat je de \"$1\"-addon wilt inschakelen?"},"forums":{"message":"Forums"},"forEditor":{"message":"Voor editor"},"forWebsite":{"message":"Voor website"},"confirmPreset":{"message":"Wil je deze voorinstelling laden en daarmee ook de huidige instellingen vervangen?"},"confirmReset":{"message":"Weet je zeker dat je deze addon wil resetten naar de standaardinstellingen?"},"settingsTitle":{"message":"Instellingen - Scratch Addons"},"settings":{"message":"Instellingen"},"all":{"message":"Alles"},"editorFeatures":{"message":"Functies voor Scratch Editor"},"costumeEditorFeatures":{"message":"Uiterlijkeditor"},"codeEditorFeatures":{"message":"Code-editor"},"websiteFeatures":{"message":"Functies voor Scratch Website"},"profilesFeatures":{"message":"Profielen"},"projectPlayerFeatures":{"message":"Projectspeler"},"projectPageFeatures":{"message":"Projectpagina's"},"others":{"message":"Overige"},"themes":{"message":"Thema's"},"editorThemes":{"message":"Editorthema's"},"websiteThemes":{"message":"Websitethema's"},"popupFeatures":{"message":"Functies voor Extensiepop-up"},"theme":{"message":"Thema:"},"credits":{"message":"Credits"},"review":{"message":"Recensie"},"feedback":{"message":"Feedback Geven"},"moreSettings":{"message":"Meer Instellingen"},"close":{"message":"Sluiten"},"filter":{"message":"Filter:"},"resetToDefault":{"message":"Resetten naar standaardinstellingen"},"creditTo":{"message":"Dank aan:"},"viewLicenses":{"message":"Bibliotheeklicenties tonen"},"reset":{"message":"Resetten"},"default":{"message":"Standaard"},"presets":{"message":"Voorinstellingen"},"preview":{"message":"Voorbeeld"},"scratchAddonsTheme":{"message":"Scratch Addons-thema"},"scratchAddonsThemeDescription":{"message":"Dit geeft je de mogelijkheid om te kiezen tussen lichte en donkere thema's voor deze pagina en de extensiepop-up."},"light":{"message":"Licht"},"dark":{"message":"Donker"},"licensesTitle":{"message":"Licenties - Scratch Addons"},"licenses":{"message":"Licenties"},"licensesForLibrary":{"message":"Licenties voor bibliotheek $1"},"libraryCredits":{"message":"Toon licenties van gebruikte bibliotheken"},"recommendedTooltip":{"message":"Dit wordt aanbevolen door Scratch Addons. Probeer het!"},"dangerTooltip":{"message":"Wees voorzichtig. Zorg ervoor dat je begrijpt wat deze addon doet voordat je het aanzet."},"betaTooltip":{"message":"Onthoud dat deze addon mogelijk bugs bevat."},"forumsTooltip":{"message":"Deze addon is voor de Discussieforums van Scratch."},"reportItHere":{"message":"meld het hier"},"forumWarning":{"message":"Bericht toegevoegd door de Scratch Addons-extensie: zorg ervoor dat de bug die je gaat melden nog steeds plaatsvindt als alle browserextensies uitgeschakeld zijn, inclusief Scratch Addons. Als je ervan bent overtuigd dat een bug wordt veroorzaakt door Scratch Addons, $1."},"forumWarningGeneral":{"message":"Bericht van Scratch Addons-extensie: het beleid van Scratch verbiedt discussie over browserextensies, inclusief Scratch Addons. Maak geen reclame voor Scratch Addons of zijn functies. Als je een bug hebt gevonden, $1."},"search":{"message":"Zoeken"},"permissionsTitle":{"message":"Rechten - Scratch Addons"},"permissions":{"message":"Rechten"},"enablePermissionsTitle":{"message":"Geef alstublieft sitetoegang."},"enablePermissionsDescription":{"message":"Scratch Addons heeft sitetoegang nodig om te werken."},"enableButton":{"message":"Inschakelen"},"enableButtonDescription":{"message":"Klik op de knop om het in te schakelen."},"permissionsScreenAlt":{"message":"Screenshot van een dialoog om sitetoegang te geven."},"clickAllowDescription":{"message":"Klik op \"Toestaan\". Scratch Addons zal opnieuw laden en de addons zullen weer correct werken"},"permissionsDenied":{"message":"Er kon geen sitetoegang worden gegeven. Probeer het opnieuw."},"translate":{"message":"Help met Vertalen"},"extensionUpdate":{"message":"Scratch Addons-extensie update"},"extensionHasUpdated":{"message":"Scratch Addons is bijgewerkt naar v$1"},"extensionUpdateInfo1_v1_36":{"message":"Nieuwe addon: \"herschikbare ingangen van aangepaste blokken\", het laat je de parameters van aangepaste blokken herschikken in het \"Maak een blok\"-scherm. Ga naar $1 om het in te schakelen.","description":"The placeholder is \"Scratch Addons settings\"."},"scratchAddonsSettings":{"message":"Scratch Addons-instellingen"},"extensionUpdateInfo2_v1_36":{"message":"Andere nieuwe addons van deze update zijn \"aanpasbare menubalk\", \"plaats code van rugzak bij muis\" en \"rechthoekige tekst-invoervelden in blokken\"."},"readTheBlogPost":{"message":"Lees de $1 voor meer informatie.","description":"The placeholder is \"blog post\""},"blogPost":{"message":"blogpost"},"notAffiliated":{"message":"Scratch Addons is niet in samenwerking met Scratch."},"new":{"message":"Nieuw!","description":"Tag for addons. Singular."},"updated":{"message":"Nieuwe functies","description":"Tag for addons with new features. Singular."},"updatedWithSettings":{"message":"Nieuwe instellingen","description":"Tag for addons with new settings. Singular."},"newGroup":{"message":"Andere nieuwe addons en updates","description":"Used as a category name for new addons and updates"},"featuredNew":{"message":"Voorgestelde nieuwe addons en updates","description":"Used as a category name for featured new addons and updates"},"enabled":{"message":"Ingeschakeld","description":"Used as a category name for enabled addons"},"exportAndImportSettings":{"message":"Instellingen exporteren en importeren"},"exportAndImportSettingsDescription":{"message":"Instellingen exporteren als JSON-bestand voor gebruik op andere computers."},"useBrowserSync":{"message":"Je kunt ook de ingebouwde synchronisatieopties van je browser aanzetten om de instellingen automatisch te synchroniseren tussen apparaten."},"export":{"message":"Instellingen exporteren"},"import":{"message":"Instellingen importeren"},"viewSettings":{"message":"Instellingenbestand bekijken"},"fileNotSelected":{"message":"Selecteer een instellingenbestand."},"importSuccess":{"message":"De instellingen zijn succesvol geïmporteerd. Scratch Addons zal nu opnieuw opstarten."},"importFailed":{"message":"Het instellingenbestand is ongeldig. Probeer het opnieuw."},"confirmImport":{"message":"Bevestigen"},"language":{"message":"Taal"},"applySettings":{"message":"Veranderingen toepassen"},"quickSettings":{"message":"Addons"},"runningOnThisPage":{"message":"Addons op dit tabblad"},"recentlyUsed":{"message":"Recent gebruikt","description":"Used as a category name for recently used addons"},"settingsPagePermission":{"message":"Ga naar de instellingenpagina van Scratch Addons om de \"$1\"-addon in te schakelen."},"openFullSettings":{"message":"Instellingenpagina openen"},"skipOpenFullSettings":{"message":"Annuleren"},"exploreAllAddons":{"message":"Ontdek alle $1 addons:","description":"Placeholder is a number. Example: explore all 80+ addons"},"searchNotFound":{"message":"Geen resultaten gevonden. Probeer misschien andere sleutelwoorden?"},"searchNotFoundInCategory":{"message":"Geen resultaten gevonden in \"$1\". Probeer misschien andere sleutelwoorden?"},"captureCommentError":{"message":"Bericht van Scratch Addons: in je opmerking heb je het over een browserextensie. Het $1 vraagt Scratchers om geen reclame te maken voor browserextensies, omdat het voor het Scratch Team onmogelijk is om ze allemaal, één voor één, goed te controleren op veiligheid. Wij vragen je om het eerder genoemd beleid op te volgen door op geen enkele manier te verwijzen naar browserextensies op Scratch.","description":"The placeholder is \"Browser Extension Policy\""},"captureCommentPolicy":{"message":"Beleid voor Browserextensies"},"captureCommentPostAnyway":{"message":"Toch plaatsen"},"captureCommentConfirm":{"message":"Als je deze opmerking plaatst loop je risico op een automatisch opmerkingsverbod, waardoor je tijdelijk geen opmerkingen kunt plaatsen. Aanhoudende overtredingen kunnen ertoe leiden dat je Scratchaccount helemaal geblokkeerd wordt. Weet je zeker dat je deze opmerking wilt plaatsen?"},"extensionStoreDescription1":{"message":"Kies tussen meer dan 100 opties:","description:":"Used in the description for the extension stores"},"extensionStoreDescription2":{"message":"• Lees en reageer snel op je berichten door op het extensiepictogram te klikken.\n• Begin met het spelen van actieve multiplayerspellen met het cloudspellentabblad.\n• Verfraai elke pagina op de Scratch-website met de stijl van 3.0 en opties voor donkere modus of aangepaste kleurenthema's.\n• Verlaat studio's gemakkelijk, promoveer of verwijder beheerders, en browse naar volgers om uit te nodigen.\n• Verbeter projectmanagement met de zoekbalk in Mijn projecten en de stoppen met delen-knop.\n• Breid de projectspeler uit met een pauzeerknop, 60FPS, en gamepadondersteuning.\n• Maak makkelijker animaties met onion skinning, precieze kleurenkiezer, en uiterlijkenzoeker.\n• Maximaliseer je efficiëntie met blokkenzoeker, doorzoekbare dropdowns, blokkenwisselaar, blokken individueel uit scripts slepen, en kopiëren/plakken.\n• Blijf opgeruimd met het automatisch verbergende blokkenpalet en spritemappen.\n• Stel direct thumbnails in en zet ze vast op een afbeelding of GIF naar keuze.\n• Breng de katblokken van 1 april terug.\n• Debug je projecten met een log, een prestatiemonitor, en stap-voor-stap uitvoering.\n• En nog meer met elke update!","description":"Used in the description for the extension stores"},"extensionStoreDescription3":{"message":"Deze extensie is open-bron-software gelicentieerd onder GPL v3.\nOm bij te dragen of om de broncode te checken, ga naar: https://github.com/ScratchAddons\nVoor meer informatie, ga naar: ScratchAddons.com","description":"Used in the description for the extension stores. Do not translate \"GPL v3\" or the links."},"extensionStoreDescription4":{"message":"Dit project is niet in samenwerking met, of hoe dan ook officieel verbonden met de Scratch website of de organisaties die het onderhouden.","description":"Used in the description for the extension stores"}}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Feb 2024, 07:35:19 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Feb 2024, 07:34:32 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
