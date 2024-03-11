@@ -61,12 +61,12 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
                                          █   █                                   
     █                                    █▄  █                                   
     █                                    ███ █                                   
-    █        █        ▄                █ ███ █             ▄                     
+    █        █        ▄                ▄ ███ █             ▄                     
 █   █    █   █        █                █ ███ █             █      █              
-█ ▄ █ █▄ █   █     █▄ █ ▄     ▄ ▄      █ ███ █    ▄█    ▄  █      █              
+█ ▄ █ █▄ █   █     █▄ █ ▄     ▄ ▄     ▄█ ███ █   ▄ █    ▄  █      █              
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 03/02/2024          12/02/2024          21/02/2024          01/03/2024          Now
-10:02               14:02               17:02               21:03               
+10:02               14:02               18:02               22:03               
 ```
 
 ### lowlighter/metrics (beta)
@@ -75,7 +75,7 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 11/03/2024, 01:00:08 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 11/03/2024, 01:52:41 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`8354cbe`](https://github.com/Hans5958/Hans5958/commit/8354cbe77ff1784d5a0e55266bf64e1d51a9bac5
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
