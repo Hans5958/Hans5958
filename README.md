@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,8 @@ FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`79fcc2b`](https://github.com/Hans5958/Hans5958/commit/79fcc2bbcb7bc5bd7d4a5dbfe036812a53ec3203) Use old Twitter logo ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
+- [`9f6392b`](https://github.com/Hans5958/Hans5958/commit/9f6392b005e832219d07ee612a8f14a2f217643f) Revert "Bump @octokit/rest from 20.1.1 to 21.0.0" ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
 - [`a871a4d`](https://github.com/ScratchAddons/website-v2/commit/a871a4d523f6dd525247424141a8d468521fac21) Fix wrong link to addon settings ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`8e08b33`](https://github.com/ScratchAddons/website-v2/commit/8e08b33e88f1e0236dd97d76423579390ab7e976) Add more links of addons on Addons page ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`09c48b6`](https://github.com/placeAtlas/org-website/commit/09c48b64d0bacd4de8e5602f94a47c9ea6fedfda) Add link to u/AnonymousRandPerson ([placeAtlas/org-website](https://github.com/placeAtlas/org-website), [master](https://github.com/placeAtlas/org-website/tree/master))
@@ -35,11 +37,10 @@ FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`5955023`](https://github.com/ScratchAddons/website-v2/commit/59550233dbf043f3afc105db17d0d2de0eef5288) Addon Docs: Remove inner container padding on home page ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`f196218`](https://github.com/ScratchAddons/website-v2/commit/f196218c6c2ab5065ae63d206414d07bd98a4633) Remove unused layout ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`9e900f5`](https://github.com/ScratchAddons/website-v2/commit/9e900f54d1455175bc1493e1dedb82122938e618) Update naming and link to jsDelivr CDN to reflect the changes on the policy ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
-- [`0766861`](https://github.com/ScratchAddons/website-v2/commit/07668611d314d42eaab774b98f7460160d90c9e8) Use jsDeliver as the name of the CDN ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
-- [`757e435`](https://github.com/ScratchAddons/website-v2/commit/757e435e461c60c74b006b1c86a4142a3c3ff980) Remove mention of Skypack since it is no longer used ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 
 ### Last ten events
 
+- Closed pull request [#20](https://github.com/Hans5958/Hans5958/issues/20) on [Hans5958/Hans5958](https://github.com/Hans5958/Hans5958) (2024-07-01T10:38:58Z)
 - Created comment on issue/PR [#463](https://github.com/ScratchAddons/website-v2/issues/463) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-06-29T01:41:07Z)
 - Closed issue [#463](https://github.com/ScratchAddons/website-v2/issues/463) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-06-29T01:38:43Z)
 - Closed issue [#259](https://github.com/ScratchAddons/website-v2/issues/259) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-06-27T02:28:27Z)
@@ -49,7 +50,6 @@ FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - Created comment on issue/PR [#459](https://github.com/ScratchAddons/website-v2/issues/459) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-06-23T11:28:56Z)
 - Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-06-23T08:52:46Z)
 - Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-06-23T08:52:35Z)
-- Opened pull request [#461](https://github.com/ScratchAddons/website-v2/issues/461) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-06-23T07:22:02Z)
 
 ### Activity graph (beta)
 
@@ -57,20 +57,20 @@ FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-                                                                  ▄              
-                                                                  █              
-                                                                  █              
-                                                                  █              
-                                                                  █              
-                                                                 ██              
-                                                              ██ ██              
-                             ▄                                ██ ██              
-                             █                                ██ ██              
-▄                       ▄ █  ██ █ ▄                           ██ ██     ▄   ▄    
-█ ▄   ▄▄  ▄   ▄       ▄ █ █▄ ██ █▄█▄           ▄              ██ ███▄   █   █    
+                                                                 ▄               
+                                                                 █               
+                                                                 █               
+                                                                 █               
+                                                             █   █               
+                                                             █ █ █               
+                                                             █ █ █               
+                         ▄                                   █ █ █               
+                         █                                   ███ █               
+                    ▄ █  ██ ▄  █                             ███ █      ▄  ▄    █
+▄ ▄  ▄   ▄        ▄ █ █▄ ██ ██ █            ▄                ███ ██▄    █  █    █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-16/05/2024          27/05/2024          08/06/2024          19/06/2024          Now
-09:05               21:05               10:06               22:06               
+19/05/2024          30/05/2024          10/06/2024          20/06/2024          Now
+14:05               07:05               01:06               18:06               
 ```
 
 ### lowlighter/metrics (beta)
@@ -79,7 +79,7 @@ FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 01/07/2024, 11:12:39 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 01/07/2024, 12:30:27 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`79fcc2b`](https://github.com/Hans5958/Hans5958/commit/79fcc2bbcb7bc5bd7d4a5dbfe036812a53ec3203
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
