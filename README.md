@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,29 +27,29 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten commits
 
+- [`9aa82e8`](https://github.com/TheYande/contributors/commit/9aa82e85f4e2fe427d1f32a4efffcbd662e6bfe3) Add TheYande as a contributor for mod 2 ([TheYande/contributors](https://github.com/TheYande/contributors), [patch-1](https://github.com/TheYande/contributors/tree/patch-1))
+- [`52e86b7`](https://github.com/TheYande/contributors/commit/52e86b782c6c760fbded9267d1e87f29e1f29b26) Merge remote-tracking branch 'origin/master' into pr/TheYande/301 ([TheYande/contributors](https://github.com/TheYande/contributors), [patch-1](https://github.com/TheYande/contributors/tree/patch-1))
+- [`6168f87`](https://github.com/ScratchAddons/website-v2/commit/6168f87f921a9d585cd13771e928396428b9af22) Remove unused front matter var from Addon Docs page ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`9da0435`](https://github.com/ScratchAddons/website-v2-script/commit/9da04352b0f84e2540166ceb6d5c88c0461df508) Update dependencies ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
+- [`5764c54`](https://github.com/ScratchAddons/website-v2-script/commit/5764c5402977a35a7be5651ae57873d5c09d0933) Fix bug on empty front matter ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`d1072ca`](https://github.com/ScratchAddons/website-v2/commit/d1072ca54c92feaf2cabf027c96e6813b76c8263) Merge pull request #459 from Hexagonl/addons-wiki ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`973c126`](https://github.com/ScratchAddons/notification-to-highlights/commit/973c126b93e432285dda5d8d138998840e752b35) Update dependencies ([ScratchAddons/notification-to-highlights](https://github.com/ScratchAddons/notification-to-highlights), [master](https://github.com/ScratchAddons/notification-to-highlights/tree/master))
 - [`c21906d`](https://github.com/ScratchAddons/notification-to-highlights/commit/c21906d0bd9a9ef5dc37e0bcc66db5c0e97fd194) Add v1.37.0 and v1.38.0 ([ScratchAddons/notification-to-highlights](https://github.com/ScratchAddons/notification-to-highlights), [master](https://github.com/ScratchAddons/notification-to-highlights/tree/master))
 - [`aa447b5`](https://github.com/Hans5958/ScratchAddons/commit/aa447b513905ebd9c3364afd811da045b0d0f9b8) ESLint workflow: Set ES version, install required packages, fix command to run ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
 - [`e14d677`](https://github.com/Hans5958/ScratchAddons/commit/e14d677100423cc25b737097a58a924692866045) ESLint workflow: Convert configuration for ESLint v9.x ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
-- [`fc73d47`](https://github.com/Hans5958/web/commit/fc73d47c7da1579e0cb537600e4bf6bb4cc187e1) Fix Everybody Votes Channel name on en-GB ([Hans5958/web](https://github.com/Hans5958/web), [patch-1](https://github.com/Hans5958/web/tree/patch-1))
-- [`79fcc2b`](https://github.com/Hans5958/Hans5958/commit/79fcc2bbcb7bc5bd7d4a5dbfe036812a53ec3203) Use old Twitter logo ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
-- [`9f6392b`](https://github.com/Hans5958/Hans5958/commit/9f6392b005e832219d07ee612a8f14a2f217643f) Revert "Bump @octokit/rest from 20.1.1 to 21.0.0" ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
-- [`a871a4d`](https://github.com/ScratchAddons/website-v2/commit/a871a4d523f6dd525247424141a8d468521fac21) Fix wrong link to addon settings ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`8e08b33`](https://github.com/ScratchAddons/website-v2/commit/8e08b33e88f1e0236dd97d76423579390ab7e976) Add more links of addons on Addons page ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
-- Created review on PR [#7699](https://github.com/ScratchAddons/ScratchAddons/issues/7699) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-08-07T02:36:09Z)
-- Closed pull request [#459](https://github.com/ScratchAddons/website-v2/issues/459) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-08-06T14:41:31Z)
-- Created comment on a review on PR [#459](https://github.com/ScratchAddons/website-v2/issues/459) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-08-04T16:03:44Z)
-- Created review on PR [#459](https://github.com/ScratchAddons/website-v2/issues/459) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-08-04T16:04:30Z)
-- Created review on PR [#459](https://github.com/ScratchAddons/website-v2/issues/459) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-08-04T16:04:30Z)
-- Created comment on issue/PR [#7699](https://github.com/ScratchAddons/ScratchAddons/issues/7699) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-08-04T11:11:17Z)
-- Created comment on issue/PR [#7699](https://github.com/ScratchAddons/ScratchAddons/issues/7699) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-08-03T14:55:54Z)
-- Closed pull request [#46](https://github.com/Hans5958/Black-MIDI-Meta/issues/46) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2024-08-03T14:49:12Z)
-- Closed pull request [#43](https://github.com/Hans5958/HKBP-Guidebook/issues/43) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-08-03T14:49:09Z)
-- Created comment on issue/PR [#7699](https://github.com/ScratchAddons/ScratchAddons/issues/7699) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-08-03T14:44:50Z)
+- Closed pull request [#301](https://github.com/ScratchAddons/contributors/issues/301) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-09T06:07:20Z)
+- Created review on PR [#301](https://github.com/ScratchAddons/contributors/issues/301) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-09T06:06:41Z)
+- Closed pull request [#302](https://github.com/ScratchAddons/contributors/issues/302) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-09T05:53:23Z)
+- Created review on PR [#302](https://github.com/ScratchAddons/contributors/issues/302) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-09T05:53:13Z)
+- Closed pull request [#112](https://github.com/ScratchAddons/website-v2-script/issues/112) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-08-09T05:47:16Z)
+- Deleted branch `dependabot/npm_and_yarn/actions/github-6.0.0` on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-08-09T05:47:15Z)
+- Closed pull request [#126](https://github.com/ScratchAddons/website-v2-script/issues/126) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-08-09T05:47:06Z)
+- Deleted branch `dependabot/npm_and_yarn/yaml-2.4.2` on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-08-09T05:47:05Z)
+- Closed pull request [#123](https://github.com/ScratchAddons/website-v2-script/issues/123) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-08-09T05:47:03Z)
+- Deleted branch `dependabot/npm_and_yarn/prettier-3.2.5` on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-08-09T05:47:02Z)
 
 ### Activity graph (beta)
 
@@ -57,17 +57,19 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ```
                                                                                  
- ▄                                                                               
- █                                                                               
- █                                                                               
- █                         █                                                     
-██                         █                                                     
-███                        █                        █                 ▄█         
-███▄    ▄  ▄   ██          █▄                   █ ▄ █                 ███   ▄    
-████    █  █   ██   ▄     ▄██       █      ▄  █ █ █ █▄  ▄      ▄      ███   █    
+                                                                                ▄
+                                                                                █
+                                                                                █
+                                                                                █
+                                                                      ▄         █
+█                         █                                           █         █
+█                         █                         ▄                 █         █
+█                         █                         █                 █         █
+█     ▄   ▄   ██          █▄                    █ ▄ █                 █ █       █
+██▄   █   █   ██   ▄     ▄██       █      ▄  ▄▄ █ █ █  ▄       ▄      █ █  █▄   █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-22/06/2024          04/07/2024          16/07/2024          28/07/2024          Now
-15:06               12:07               10:07               07:07               
+23/06/2024          05/07/2024          16/07/2024          28/07/2024          Now
+10:06               03:07               20:07               13:07               
 ```
 
 ### lowlighter/metrics (beta)
@@ -76,7 +78,7 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 09/08/2024, 05:15:23 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 09/08/2024, 06:22:45 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
