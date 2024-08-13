@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **02:xx** (**2am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,7 @@ FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`75f84a1`](https://github.com/TheYande/contributors/commit/75f84a1a5281c32ce88fcd1f18647bee331f84e3) Fix capitalization 2 ([TheYande/contributors](https://github.com/TheYande/contributors), [patch-2](https://github.com/TheYande/contributors/tree/patch-2))
 - [`9aa82e8`](https://github.com/TheYande/contributors/commit/9aa82e85f4e2fe427d1f32a4efffcbd662e6bfe3) Add TheYande as a contributor for mod 2 ([TheYande/contributors](https://github.com/TheYande/contributors), [patch-1](https://github.com/TheYande/contributors/tree/patch-1))
 - [`52e86b7`](https://github.com/TheYande/contributors/commit/52e86b782c6c760fbded9267d1e87f29e1f29b26) Merge remote-tracking branch 'origin/master' into pr/TheYande/301 ([TheYande/contributors](https://github.com/TheYande/contributors), [patch-1](https://github.com/TheYande/contributors/tree/patch-1))
 - [`6168f87`](https://github.com/ScratchAddons/website-v2/commit/6168f87f921a9d585cd13771e928396428b9af22) Remove unused front matter var from Addon Docs page ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
@@ -36,10 +37,11 @@ FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`973c126`](https://github.com/ScratchAddons/notification-to-highlights/commit/973c126b93e432285dda5d8d138998840e752b35) Update dependencies ([ScratchAddons/notification-to-highlights](https://github.com/ScratchAddons/notification-to-highlights), [master](https://github.com/ScratchAddons/notification-to-highlights/tree/master))
 - [`c21906d`](https://github.com/ScratchAddons/notification-to-highlights/commit/c21906d0bd9a9ef5dc37e0bcc66db5c0e97fd194) Add v1.37.0 and v1.38.0 ([ScratchAddons/notification-to-highlights](https://github.com/ScratchAddons/notification-to-highlights), [master](https://github.com/ScratchAddons/notification-to-highlights/tree/master))
 - [`aa447b5`](https://github.com/Hans5958/ScratchAddons/commit/aa447b513905ebd9c3364afd811da045b0d0f9b8) ESLint workflow: Set ES version, install required packages, fix command to run ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
-- [`e14d677`](https://github.com/Hans5958/ScratchAddons/commit/e14d677100423cc25b737097a58a924692866045) ESLint workflow: Convert configuration for ESLint v9.x ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
 
 ### Last ten events
 
+- Closed pull request [#303](https://github.com/ScratchAddons/contributors/issues/303) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-13T16:35:18Z)
+- Created review on PR [#303](https://github.com/ScratchAddons/contributors/issues/303) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-13T16:35:12Z)
 - Created comment on a review on PR [#7134](https://github.com/ScratchAddons/ScratchAddons/issues/7134) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-08-13T12:33:03Z)
 - Created review on PR [#7134](https://github.com/ScratchAddons/ScratchAddons/issues/7134) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-08-13T12:33:08Z)
 - Closed pull request [#301](https://github.com/ScratchAddons/contributors/issues/301) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-09T06:07:20Z)
@@ -48,8 +50,6 @@ FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://im
 - Created review on PR [#302](https://github.com/ScratchAddons/contributors/issues/302) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-09T05:53:13Z)
 - Closed pull request [#112](https://github.com/ScratchAddons/website-v2-script/issues/112) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-08-09T05:47:16Z)
 - Deleted branch `dependabot/npm_and_yarn/actions/github-6.0.0` on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-08-09T05:47:15Z)
-- Closed pull request [#126](https://github.com/ScratchAddons/website-v2-script/issues/126) on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-08-09T05:47:06Z)
-- Deleted branch `dependabot/npm_and_yarn/yaml-2.4.2` on [ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script) (2024-08-09T05:47:05Z)
 
 ### Activity graph (beta)
 
@@ -63,13 +63,13 @@ FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://im
                                                                          █       
                         ▄                                                █       
                         █                                                █       
-█                       █                                                █       
-█                       █                      █               ▄█        █       
-█     ▄  ▄  █ █         █                  █ ▄ █               ██ ▄      █       
-██▄   █  █  █ █  ▄     ▄██      █     ▄  ▄▄█ █ █▄ ▄      ▄     ██▄█  █▄  █      █
+                        █                                                █       
+                        █                      █               ▄█        █      █
+█▄    ▄  ▄  █ █         █                  █ ▄ █               ██ ▄      █      █
+██    █  █  █ █  ▄     ▄██      █     ▄  ▄▄█ █ █▄ ▄      ▄     ██▄█  █▄  █      █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 23/06/2024          06/07/2024          19/07/2024          31/07/2024          Now
-11:06               07:07               03:07               22:07               
+13:06               08:07               04:07               23:07               
 ```
 
 ### lowlighter/metrics (beta)
@@ -78,7 +78,7 @@ FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 13/08/2024, 18:20:56 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 13/08/2024, 19:12:57 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
