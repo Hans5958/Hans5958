@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,8 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`d9b25fa`](https://github.com/ScratchAddons/website-v2/commit/d9b25fa59adffdf26cc35ad2481511f03ecfcde6) Fix typo on sentence for issues tab ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`e119346`](https://github.com/ScratchAddons/website-v2/commit/e11934624f693abddc7eb90ca6dd64aee5182c5b) Fix Microsoft Edge icons ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`313f005`](https://github.com/Hans5958/ScratchAddons/commit/313f00581c44cda32a4e6073e5997207e50af54d) Update Node.js to 20.x ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
 - [`75f84a1`](https://github.com/TheYande/contributors/commit/75f84a1a5281c32ce88fcd1f18647bee331f84e3) Fix capitalization 2 ([TheYande/contributors](https://github.com/TheYande/contributors), [patch-2](https://github.com/TheYande/contributors/tree/patch-2))
 - [`9aa82e8`](https://github.com/TheYande/contributors/commit/9aa82e85f4e2fe427d1f32a4efffcbd662e6bfe3) Add TheYande as a contributor for mod 2 ([TheYande/contributors](https://github.com/TheYande/contributors), [patch-1](https://github.com/TheYande/contributors/tree/patch-1))
@@ -35,8 +37,6 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`9da0435`](https://github.com/ScratchAddons/website-v2-script/commit/9da04352b0f84e2540166ceb6d5c88c0461df508) Update dependencies ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`5764c54`](https://github.com/ScratchAddons/website-v2-script/commit/5764c5402977a35a7be5651ae57873d5c09d0933) Fix bug on empty front matter ([ScratchAddons/website-v2-script](https://github.com/ScratchAddons/website-v2-script), [master](https://github.com/ScratchAddons/website-v2-script/tree/master))
 - [`d1072ca`](https://github.com/ScratchAddons/website-v2/commit/d1072ca54c92feaf2cabf027c96e6813b76c8263) Merge pull request #459 from Hexagonl/addons-wiki ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`973c126`](https://github.com/ScratchAddons/notification-to-highlights/commit/973c126b93e432285dda5d8d138998840e752b35) Update dependencies ([ScratchAddons/notification-to-highlights](https://github.com/ScratchAddons/notification-to-highlights), [master](https://github.com/ScratchAddons/notification-to-highlights/tree/master))
-- [`c21906d`](https://github.com/ScratchAddons/notification-to-highlights/commit/c21906d0bd9a9ef5dc37e0bcc66db5c0e97fd194) Add v1.37.0 and v1.38.0 ([ScratchAddons/notification-to-highlights](https://github.com/ScratchAddons/notification-to-highlights), [master](https://github.com/ScratchAddons/notification-to-highlights/tree/master))
 
 ### Last ten events
 
@@ -61,15 +61,15 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
                                                                         █        
                                                                         █        
                                                                         █        
-                       ▄                                                █        
-                       █                                                █        
-                       █                                                █        
-                       █                      █                ▄█       █      █ 
-▄▄   ▄   ▄  ██         █▄                  █ ▄█                ███      █      █ 
-██   █   █  ██   ▄     ██       █     ▄ ▄▄ █ ██▄  ▄     ▄      ███  █▄  █      █▄
+                       ▄                                       ▄        █        
+                       █                                       █        █        
+                       █                                       █        █        
+                       █                      █                █        █      █ 
+ ▄   ▄  ▄   ██         █▄                  █ ▄█                █ █      █      █▄
+▄█   █  █   ██   ▄     ██       █     ▄ ▄▄ █ ██▄  ▄     ▄      █ █  █▄  █      ██
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 23/06/2024          06/07/2024          19/07/2024          01/08/2024          Now
-13:06               11:07               09:07               08:08               
+15:06               13:07               11:07               09:08               
 ```
 
 ### lowlighter/metrics (beta)
@@ -78,7 +78,7 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 14/08/2024, 06:21:39 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 14/08/2024, 07:14:16 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
