@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -40,6 +40,7 @@ FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ### Last ten events
 
+- Closed pull request [#483](https://github.com/ScratchAddons/website-v2/issues/483) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-08-20T16:15:05Z)
 - Created review on PR [#483](https://github.com/ScratchAddons/website-v2/issues/483) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-08-20T02:39:52Z)
 - Closed pull request [#304](https://github.com/ScratchAddons/contributors/issues/304) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-15T04:00:43Z)
 - Created review on PR [#304](https://github.com/ScratchAddons/contributors/issues/304) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-15T04:00:36Z)
@@ -49,7 +50,6 @@ FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://i
 - Created review on PR [#7134](https://github.com/ScratchAddons/ScratchAddons/issues/7134) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-08-13T12:33:08Z)
 - Closed pull request [#301](https://github.com/ScratchAddons/contributors/issues/301) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-09T06:07:20Z)
 - Created review on PR [#301](https://github.com/ScratchAddons/contributors/issues/301) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-09T06:06:41Z)
-- Closed pull request [#302](https://github.com/ScratchAddons/contributors/issues/302) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-09T05:53:23Z)
 
 ### Activity graph (beta)
 
@@ -60,16 +60,16 @@ FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://i
                                                                ▄                 
                                                                █                 
                                                                █                 
-                                                               █                 
-                                                               █                 
-                 █                                             █                 
-                 █                     ▄                       █                 
-                 █                     █              ▄█       █                 
-   ▄  █ █        █▄                █ ▄ █              ███      █      █▄▄        
-█  █  █ █  ▄    ▄██      █     ▄ ▄▄█ █ █  ▄     ▄     ███  █▄  █     ████     ▄▄ 
+               ▄                                               █                 
+               █                                               █                 
+               █                                               █                 
+               █                                               █                 
+               █                     █               ▄█        █     █           
+▄   ██         █                  █▄ █               ██ ▄  ▄   █     █▄ ▄        
+█   ██  ▄     ▄█       █     ▄ ▄▄ ██ █▄ ▄      ▄     ██▄█  █   █     ██ █    ▄ ▄█
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-27/06/2024          10/07/2024          24/07/2024          07/08/2024          Now
-02:06               18:07               09:07               01:08               
+29/06/2024          12/07/2024          25/07/2024          07/08/2024          Now
+01:06               05:07               09:07               14:08               
 ```
 
 ### lowlighter/metrics (beta)
@@ -78,7 +78,7 @@ FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://i
 
 </details>
 
-*Last updated: 20/08/2024, 17:14:18 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 20/08/2024, 18:20:43 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
