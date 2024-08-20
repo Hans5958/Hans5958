@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -40,6 +40,7 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten events
 
+- Created review on PR [#483](https://github.com/ScratchAddons/website-v2/issues/483) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-08-20T02:39:52Z)
 - Closed pull request [#304](https://github.com/ScratchAddons/contributors/issues/304) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-15T04:00:43Z)
 - Created review on PR [#304](https://github.com/ScratchAddons/contributors/issues/304) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-15T04:00:36Z)
 - Closed pull request [#303](https://github.com/ScratchAddons/contributors/issues/303) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-13T16:35:18Z)
@@ -49,7 +50,6 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 - Closed pull request [#301](https://github.com/ScratchAddons/contributors/issues/301) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-09T06:07:20Z)
 - Created review on PR [#301](https://github.com/ScratchAddons/contributors/issues/301) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-09T06:06:41Z)
 - Closed pull request [#302](https://github.com/ScratchAddons/contributors/issues/302) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-09T05:53:23Z)
-- Created review on PR [#302](https://github.com/ScratchAddons/contributors/issues/302) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-08-09T05:53:13Z)
 
 ### Activity graph (beta)
 
@@ -61,15 +61,15 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
                                                                 █                
                                                                 █                
                                                                 █                
-                 ▄                                              █                
+                 ▄                                     ▄        █                
                  █                                     █        █                
                  █                                     █        █                
                  █                     █               █        █     █          
-▄  ▄  █ █        █▄                 █▄ █               █ █      █     █▄ ▄       
-█  █  █ █  ▄     ██      █     ▄ ▄▄ ██ █▄ ▄      ▄     █▄█  █▄  █     ██ █    ▄  
+   ▄  █ █        █▄                 █▄ █               █ █      █     █▄ ▄       
+█  █  █ █  ▄     ██      █     ▄ ▄▄ ██ █▄ ▄      ▄     █ █  █▄  █     ██ █    ▄ ▄
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 27/06/2024          10/07/2024          24/07/2024          06/08/2024          Now
-02:06               14:07               03:07               15:08               
+02:06               15:07               03:07               16:08               
 ```
 
 ### lowlighter/metrics (beta)
@@ -78,7 +78,7 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 20/08/2024, 04:20:06 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 20/08/2024, 05:14:30 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
