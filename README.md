@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -40,6 +40,7 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten events
 
+- Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-08-23T03:17:41Z)
 - Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-08-23T03:12:58Z)
 - Closed pull request [#485](https://github.com/ScratchAddons/website-v2/issues/485) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-08-23T02:46:03Z)
 - Created review on PR [#485](https://github.com/ScratchAddons/website-v2/issues/485) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-08-23T02:45:42Z)
@@ -49,7 +50,6 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 - Created comment on issue/PR [#484](https://github.com/ScratchAddons/website-v2/issues/484) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-08-22T17:25:17Z)
 - Created review on PR [#484](https://github.com/ScratchAddons/website-v2/issues/484) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-08-21T07:02:02Z)
 - Created comment on issue/PR [#23](https://github.com/Hans5958/mini-htmls/issues/23) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2024-08-21T01:09:58Z)
-- Closed pull request [#483](https://github.com/ScratchAddons/website-v2/issues/483) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-08-20T16:15:05Z)
 
 ### Activity graph (beta)
 
@@ -57,19 +57,15 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ```
                                                                                  
-                                                           ▄                     
-                                                           █                     
-                                                           █                     
-                                                           █                     
-                                                           █                     
-          █                                                █                     
-          █                                                █                     
-          █                      █               ▄█        █     █              █
-          █▄                 █ ▄ █               ██ ▄  ▄   █     █▄ ▄           █
-▄   ▄    ▄██      █      ▄ ▄▄█ █ █▄ ▄      ▄     ██▄█  █   █     ██ █     ▄▄██ ██
+       ▄                                        ▄        ▄                       
+       █                                        █        █                       
+       █                       ▄                █        ██                     ▄
+       █                       █                █        ██                     █
+       █                   █ ▄ █                █ █      ██      █▄▄            █
+▄     ▄██      █      ▄ ▄▄ █ █ █  ▄      ▄      █ █  █▄  ██     ████     ▄ ▄██ ██
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-02/07/2024          15/07/2024          28/07/2024          10/08/2024          Now
-05:07               05:07               04:07               03:08               
+04/07/2024          17/07/2024          29/07/2024          10/08/2024          Now
+14:07               00:07               09:07               18:08               
 ```
 
 ### lowlighter/metrics (beta)
@@ -78,7 +74,7 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 23/08/2024, 03:17:27 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 23/08/2024, 04:18:58 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
