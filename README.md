@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,16 +27,16 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
-- [`f101cf2`](https://github.com/ScratchAddons/website-v2/commit/f101cf28ea75eb5a785349b8c34eeaf881e58c8f) Merge pull request #484 from Samq64/more-addon-pages ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`3f4f253`](https://github.com/ScratchAddons/website-v2/commit/3f4f253df7573ce561718955c327c8e4f3583008) Merge pull request #485 from Samq64/fix-isserver ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`d7296c4`](https://github.com/Hans5958/YouTube-Descriptions/commit/d7296c4e4961e58034271b766ed58cef2fa33895) Changes as of 19/08/2024 ([Hans5958/YouTube-Descriptions](https://github.com/Hans5958/YouTube-Descriptions), [master](https://github.com/Hans5958/YouTube-Descriptions/tree/master))
-- [`d9b25fa`](https://github.com/ScratchAddons/website-v2/commit/d9b25fa59adffdf26cc35ad2481511f03ecfcde6) Fix typo on sentence for issues tab ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`e119346`](https://github.com/ScratchAddons/website-v2/commit/e11934624f693abddc7eb90ca6dd64aee5182c5b) Fix Microsoft Edge icons ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`313f005`](https://github.com/Hans5958/ScratchAddons/commit/313f00581c44cda32a4e6073e5997207e50af54d) Update Node.js to 20.x ([Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons), [workflows](https://github.com/Hans5958/ScratchAddons/tree/workflows))
-- [`75f84a1`](https://github.com/TheYande/contributors/commit/75f84a1a5281c32ce88fcd1f18647bee331f84e3) Fix capitalization 2 ([TheYande/contributors](https://github.com/TheYande/contributors), [patch-2](https://github.com/TheYande/contributors/tree/patch-2))
-- [`9aa82e8`](https://github.com/TheYande/contributors/commit/9aa82e85f4e2fe427d1f32a4efffcbd662e6bfe3) Add TheYande as a contributor for mod 2 ([TheYande/contributors](https://github.com/TheYande/contributors), [patch-1](https://github.com/TheYande/contributors/tree/patch-1))
-- [`52e86b7`](https://github.com/TheYande/contributors/commit/52e86b782c6c760fbded9267d1e87f29e1f29b26) Merge remote-tracking branch 'origin/master' into pr/TheYande/301 ([TheYande/contributors](https://github.com/TheYande/contributors), [patch-1](https://github.com/TheYande/contributors/tree/patch-1))
-- [`6168f87`](https://github.com/ScratchAddons/website-v2/commit/6168f87f921a9d585cd13771e928396428b9af22) Remove unused front matter var from Addon Docs page ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`1d907b5`](https://github.com/Hans5958/Domino-English-Translation/commit/1d907b5509b1fcc075da3fe5b2f2ad5972b6ca3d) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`20c7fe5`](https://github.com/Hans5958/Domino-English-Translation/commit/20c7fe5c0429f421eaf0f538149e835ab9dbca53) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`2dd53b2`](https://github.com/Hans5958/Domino-English-Translation/commit/2dd53b2649256a5cd3b3f7da7416a10ed14e898e) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`389f691`](https://github.com/Hans5958/Domino-English-Translation/commit/389f69167fae87a21824af185419110fe693349f) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`e779692`](https://github.com/Hans5958/Domino-English-Translation/commit/e7796920c62330e9b00522801b1edbc5a57b361e) Update to 1.45 dev007 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`9558707`](https://github.com/Hans5958/Domino-English-Translation/commit/955870759828c22df5485c1dcecc65945c81de2a) Update to 1.45 dev007 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`33be6dc`](https://github.com/Hans5958/Domino-English-Translation/commit/33be6dc1da40d9d2c04da60953cf118bd4caf0a1) Change to upload directory artifact instead ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`9d5c3f3`](https://github.com/Hans5958/Domino-English-Translation/commit/9d5c3f3646d37b11e407f058b2d7172828a69adb) Use $GITHUB_OUTPUT for outputs ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`81a0fde`](https://github.com/Hans5958/Domino-English-Translation/commit/81a0fde6f8643df6d8af69568abf3b821c21986b) Adjust workflow for 1.45 2 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`b1ced3b`](https://github.com/Hans5958/Domino-English-Translation/commit/b1ced3ba2d2148f54e1e1a3166a7c0dcda11ddbc) Move completion checklist to the wiki ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
 
 ### Last ten events
 
@@ -57,17 +57,15 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-▄                                                                                
-█                                                                                
-█                                                                                
-█                                                                                
-█     ▄           ▄      ▄                     ▄                                 
-█     █           █      █             ▄       █                                 
-█     █ ▄      █  █   ▄ ▄█    ▄██      █       █  ▄  ▄              █          █ 
-█    ██ █    ▄▄█ ██▄▄██ ██   ▄███      █       █  █  █▄             █     █    █ 
+                                                                               █ 
+                                                                               █ 
+▄     ▄           ▄      ▄                     ▄                               █ 
+█     █           █  ▄   █             ▄       █                               █ 
+█     █ ▄      █  █  █  ▄█    ▄██      █       █  ▄  ▄              █          █ 
+█    ██ █   ▄ ▄█ ██▄▄█  ██   ▄███      █       █  █  █▄             █     █    █ 
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 09/08/2024          24/08/2024          09/09/2024          25/09/2024          Now
-05:08               21:08               14:09               06:09               
+05:08               22:08               14:09               06:09               
 ```
 
 ### lowlighter/metrics (beta)
@@ -76,7 +74,7 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 10/10/2024, 22:16:06 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 10/10/2024, 23:16:17 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
