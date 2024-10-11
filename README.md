@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I will be online in a few hours or so.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,16 +27,16 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`a5904ef`](https://github.com/Hans5958/Domino-English-Translation/commit/a5904efa555a99bd9f58317cafb9a9594eb9bb15) Fix build due to issues on GitHub Actions ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`63375a0`](https://github.com/Hans5958/Domino-English-Translation/commit/63375a0bb386059e1fcaa4acd77e40ee0ff9a090) Fix build due to issues on GitHub Actions ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`bd97c6f`](https://github.com/Hans5958/Domino-English-Translation/commit/bd97c6f6e98be227c301e72284d15072dc30eb72) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`fdebabf`](https://github.com/Hans5958/Domino-English-Translation/commit/fdebabff28100bc6568c4c300146353db5e1d8a9) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`d6000bb`](https://github.com/Hans5958/Domino-English-Translation/commit/d6000bbcb30b0f06b32800610fa8942ae917a87d) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`5e2a1a4`](https://github.com/Hans5958/Domino-English-Translation/commit/5e2a1a4de07ac0a67d79cc309304e2aab9b6f282) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`d156a29`](https://github.com/Hans5958/Domino-English-Translation/commit/d156a29da971901adcf0cb6a2ab53436d4b9cbd5) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`2edec3b`](https://github.com/Hans5958/Domino-English-Translation/commit/2edec3bfa8bd46131224680cefc5ffd9284c97d2) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
 - [`be496ac`](https://github.com/Hans5958/Domino-English-Translation/commit/be496aca8a60d155e368ec89f0aa8ac4459a0466) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
 - [`853ed75`](https://github.com/Hans5958/Domino-English-Translation/commit/853ed758a20004670ec30ff8c7af7a0482040e0c) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`1d59095`](https://github.com/Hans5958/Domino-English-Translation/commit/1d590950025e985e4a7f68199ed22cc338aa54ce) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`63c1289`](https://github.com/Hans5958/Domino-English-Translation/commit/63c1289b86fd027632e548a302d68277b0bdf9f3) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`6813bff`](https://github.com/Hans5958/Domino-English-Translation/commit/6813bffb9ab26f6019d02b21b55e736a6f50384f) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`a338035`](https://github.com/Hans5958/Domino-English-Translation/commit/a338035dc95e5fe9fc7d84e2249c44f2849d4448) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`0355648`](https://github.com/Hans5958/Domino-English-Translation/commit/03556480ee78efec7cc10b4c09584ae561b9740b) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`d04ce12`](https://github.com/Hans5958/Domino-English-Translation/commit/d04ce12a376e7f72f68ef5d96fd45337d136b1cc) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`d7a5dde`](https://github.com/Hans5958/Domino-English-Translation/commit/d7a5dde3525dbaad8cdabef30fefacf79e95da1d) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`915a184`](https://github.com/Hans5958/Domino-English-Translation/commit/915a1848fb3f40fd3f457a27c17eafac9e763fb8) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
 
 ### Last ten events
 
@@ -65,13 +65,17 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
                                                                                █ 
                                                                                █ 
                                                                                █ 
-             ▄       ▄                       ▄                                 █ 
-             █   ▄   █     █        ▄        █                                 █ 
- ▄▄       █  █   █   █     █ █      █        █  ▄  ▄               █           █ 
-███    ▄ ▄█ ██ ▄▄█ ▄██   ▄▄█ █      █        █  █  █▄              █      █    █ 
+                                                                               █ 
+                                                                               █ 
+                                                                               █ 
+      ▄                                                                        █ 
+      █        ▄                         ▄                                     █ 
+      █    ▄   █               ▄         █                                     █ 
+  ▄   █    █   █      ██       █         █  ▄   ▄                 █            █ 
+▄ ██  █ ▄▄ █ ▄██   ▄▄███       █         █  █   █▄                █      █     █ 
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-13/08/2024          28/08/2024          11/09/2024          26/09/2024          Now
-16:08               06:08               20:09               11:09               
+19/08/2024          01/09/2024          14/09/2024          27/09/2024          Now
+00:08               07:09               13:09               20:09               
 ```
 
 ### lowlighter/metrics (beta)
@@ -80,7 +84,7 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 11/10/2024, 01:17:44 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 11/10/2024, 02:47:40 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
