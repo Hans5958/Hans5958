@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -57,10 +57,11 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-                                                                             ▄   
-                                                                             █   
-                                                                            ██   
-                                                                            ██   
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █▄   
                                                                             ██   
       ▄        ▄                        ▄                                   ██   
       █   ▄    █              ▄         █                                   ██   
@@ -68,7 +69,7 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 ▄ ██ ██ ▄▄█  █ █  ▄▄██ █      █         █  █   █               █       █    ██   
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 19/08/2024          01/09/2024          15/09/2024          29/09/2024          Now
-00:08               18:09               11:09               04:09               
+00:08               18:09               12:09               05:09               
 ```
 
 ### lowlighter/metrics (beta)
@@ -77,7 +78,7 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 12/10/2024, 22:16:00 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 12/10/2024, 23:15:32 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
