@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -40,16 +40,16 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten events
 
+- Created comment on issue/PR [#49](https://github.com/Hans5958/Black-MIDI-Meta/issues/49) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2024-10-13T14:49:56Z)
+- Deleted branch `dependabot/pip/mkdocs-material-9.5.40` on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-10-13T14:49:31Z)
+- Closed pull request [#47](https://github.com/Hans5958/HKBP-Guidebook/issues/47) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-10-13T14:49:30Z)
+- Created comment on issue/PR [#46](https://github.com/Hans5958/HKBP-Guidebook/issues/46) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-10-13T14:40:50Z)
 - Created comment on issue/PR [#24](https://github.com/Hans5958/Domino-English-Translation/issues/24) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2024-10-10T10:47:56Z)
 - Closed issue [#24](https://github.com/Hans5958/Domino-English-Translation/issues/24) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2024-10-10T10:47:52Z)
 - Closed issue [#25](https://github.com/Hans5958/Domino-English-Translation/issues/25) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2024-10-10T10:45:09Z)
 - Created comment on issue/PR [#25](https://github.com/Hans5958/Domino-English-Translation/issues/25) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2024-10-10T10:44:46Z)
 - Started [crimera/piko](https://github.com/crimera/piko) (2024-10-06T10:45:59Z
 - Started [crimera/piko](https://github.com/crimera/piko) (2024-10-06T10:45:47Z
-- Deleted branch `create-pull-request/addon-data` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-10-01T12:15:25Z)
-- Closed pull request [#492](https://github.com/ScratchAddons/website-v2/issues/492) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-10-01T12:15:18Z)
-- Created comment on issue/PR [#250](https://github.com/ScratchAddons/website-v2/issues/250) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-10-01T12:06:59Z)
-- Created comment on issue/PR [#21](https://github.com/Hans5958/mini-htmls/issues/21) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2024-09-20T06:36:20Z)
 
 ### Activity graph (beta)
 
@@ -57,23 +57,25 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-                                                                            ▄    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-      ▄        ▄                       ▄                                    █    
-      █   ▄    █              ▄        █                                    █    
-  ▄   █   █    █     ██       █        █  ▄   █                █           ██    
-▄ ██ ██ ▄▄█ ▄█ █  ▄▄███       █        █  █   █                █      █    ██    
+                                                                           ▄     
+                                                                           █     
+                                                                           █     
+                                                                           █     
+                                                                           █     
+                                                                           █     
+                                                                           █     
+                                                                           █     
+                                                                           █     
+                                                                           █     
+                                                                           █     
+                                                                           █     
+   ▄        ▄                         ▄                                    █     
+   █   ▄    █               ▄         █                                    █    ▄
+   █   █  ▄ █      ██       █         █  ▄   █                █            █    █
+▄ ██▄ ▄█  █ █   ▄▄███       █         █  █   █                █      █     █    █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-19/08/2024          01/09/2024          15/09/2024          29/09/2024          Now
-00:08               22:09               19:09               16:09               
+21/08/2024          03/09/2024          16/09/2024          30/09/2024          Now
+07:08               15:09               23:09               07:09               
 ```
 
 ### lowlighter/metrics (beta)
@@ -82,7 +84,7 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 13/10/2024, 14:13:34 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 13/10/2024, 15:16:35 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
