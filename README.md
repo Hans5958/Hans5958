@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,19 +27,21 @@ FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`1351646`](https://github.com/Hans5958/HKBP-Guidebook/commit/1351646c7863eea4f2d5b074449ece1942bb892a) Perbaiki requirements yang salah ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
+- [`42c514e`](https://github.com/Hans5958/HKBP-Guidebook/commit/42c514e44ee96262029021ece7ae27043437ff2c) Gunakan admonition utuk bagian yang sebelumnya blockquote ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
+- [`c1a4754`](https://github.com/Hans5958/HKBP-Guidebook/commit/c1a4754184ba6b3e7dc371c1006958d955068526) Tambah announcement tentang update Konfesi HKBP ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
+- [`af1c8d6`](https://github.com/Hans5958/HKBP-Guidebook/commit/af1c8d6071098a2cd44709b62628b3f44b5b99f7) Konfesi HKBP: Beberapa sutingan terakhir ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
+- [`5e68ae8`](https://github.com/Hans5958/HKBP-Guidebook/commit/5e68ae8987077af1f8de82dd05bcf26d300ea805) Konfesi HKBP: Perbarui bagian, 1951 dan 1966 terpisah ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
+- [`6edd74e`](https://github.com/Hans5958/HKBP-Guidebook/commit/6edd74edf348e242d5409137a1aed44934d00231) Tambah announcement untuk menampilkan pesan ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
+- [`f0df778`](https://github.com/Hans5958/HKBP-Guidebook/commit/f0df77829f006c9acd17527aaeb0a14b707afb2a) Perbarui catatan, panggil sebagai sangkalan ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`6b4595e`](https://github.com/Hans5958/Pixel-Adblock-Filters/commit/6b4595eba81291cb99d5c536720a8a0fb786370c) Local import round (19/10/2024) ([Hans5958/Pixel-Adblock-Filters](https://github.com/Hans5958/Pixel-Adblock-Filters), [master](https://github.com/Hans5958/Pixel-Adblock-Filters/tree/master))
 - [`a5904ef`](https://github.com/Hans5958/Domino-English-Translation/commit/a5904efa555a99bd9f58317cafb9a9594eb9bb15) Fix build due to issues on GitHub Actions ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
 - [`63375a0`](https://github.com/Hans5958/Domino-English-Translation/commit/63375a0bb386059e1fcaa4acd77e40ee0ff9a090) Fix build due to issues on GitHub Actions ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`bd97c6f`](https://github.com/Hans5958/Domino-English-Translation/commit/bd97c6f6e98be227c301e72284d15072dc30eb72) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`fdebabf`](https://github.com/Hans5958/Domino-English-Translation/commit/fdebabff28100bc6568c4c300146353db5e1d8a9) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`d6000bb`](https://github.com/Hans5958/Domino-English-Translation/commit/d6000bbcb30b0f06b32800610fa8942ae917a87d) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`5e2a1a4`](https://github.com/Hans5958/Domino-English-Translation/commit/5e2a1a4de07ac0a67d79cc309304e2aab9b6f282) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`d156a29`](https://github.com/Hans5958/Domino-English-Translation/commit/d156a29da971901adcf0cb6a2ab53436d4b9cbd5) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`2edec3b`](https://github.com/Hans5958/Domino-English-Translation/commit/2edec3bfa8bd46131224680cefc5ffd9284c97d2) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`be496ac`](https://github.com/Hans5958/Domino-English-Translation/commit/be496aca8a60d155e368ec89f0aa8ac4459a0466) Debugging cmd run 1 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
 
 ### Last ten events
 
+- Deleted branch `dependabot/pip/mkdocs-material-9.5.43` on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-11-03T10:53:33Z)
+- Closed pull request [#48](https://github.com/Hans5958/HKBP-Guidebook/issues/48) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-11-03T10:53:32Z)
 - Created comment on issue/PR [#26](https://github.com/Hans5958/Domino-English-Translation/issues/26) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2024-10-29T14:26:00Z)
 - Closed issue [#26](https://github.com/Hans5958/Domino-English-Translation/issues/26) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2024-10-29T14:25:59Z)
 - Created review on PR [#7873](https://github.com/ScratchAddons/ScratchAddons/issues/7873) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-10-25T16:01:11Z)
@@ -48,8 +50,6 @@ FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - Closed pull request [#50](https://github.com/Hans5958/Black-MIDI-Meta/issues/50) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2024-10-13T16:01:00Z)
 - Created comment on issue/PR [#49](https://github.com/Hans5958/Black-MIDI-Meta/issues/49) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2024-10-13T14:49:56Z)
 - Deleted branch `dependabot/pip/mkdocs-material-9.5.40` on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-10-13T14:49:31Z)
-- Closed pull request [#47](https://github.com/Hans5958/HKBP-Guidebook/issues/47) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-10-13T14:49:30Z)
-- Created comment on issue/PR [#46](https://github.com/Hans5958/HKBP-Guidebook/issues/46) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-10-13T14:40:50Z)
 
 ### Activity graph (beta)
 
@@ -57,21 +57,25 @@ FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-                                                      ▄                          
-                                                      █                          
-                                                      █                          
-                                                      █                          
-                                                      █                          
-                                                      █                          
-                                                      █                          
-                                                      █                          
-       ▄                  ▄                          ██  █                       
-   ▄   █          ▄       █                          ██  █                       
-   █   █    ██    █       █ ▄  █            █        ██  █                       
-█▄▄█ ▄██ ▄▄███    █       █ █  █            █    █   ██  █      ▄▄    ▄    █     
+                                                    ▄                            
+                                                    █                            
+                                                    █                            
+                                                    █                            
+                                                    █                            
+                                                    █                            
+                                                    █                            
+                                                    █                            
+                                                    █                            
+                                                    █                            
+                                                    █                            
+                                                    █                            
+                       ▄                            █   █                        
+   ▄            ▄      █                            █   █                       █
+▄ ▄█     ██     █      █  ▄  █            █         █   █                       █
+█ ███ ▄▄███     █      █  █  █            █     █   █   █      ▄▄     ▄   █     █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-23/08/2024          10/09/2024          28/09/2024          16/10/2024          Now
-03:08               04:09               06:09               08:10               
+26/08/2024          12/09/2024          29/09/2024          17/10/2024          Now
+02:08               10:09               18:09               02:10               
 ```
 
 ### lowlighter/metrics (beta)
@@ -80,7 +84,7 @@ FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 03/11/2024, 10:18:43 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 03/11/2024, 11:13:39 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
