@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,7 @@ FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`949a94b`](https://github.com/Hans5958/VocaDB-Wiki/commit/949a94b56ae778104a2bc23214e5d7119adfd722) Add more information, remove first slash, make things more clear ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [dev-docs](https://github.com/Hans5958/VocaDB-Wiki/tree/dev-docs))
 - [`659e92f`](https://github.com/Hans5958/funkipedia-mods-tasks/commit/659e92f98a528421faaab32ef363e1bb3e592647) Add discontinued note ([Hans5958/funkipedia-mods-tasks](https://github.com/Hans5958/funkipedia-mods-tasks), [master](https://github.com/Hans5958/funkipedia-mods-tasks/tree/master))
 - [`1351646`](https://github.com/Hans5958/HKBP-Guidebook/commit/1351646c7863eea4f2d5b074449ece1942bb892a) Perbaiki requirements yang salah ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`42c514e`](https://github.com/Hans5958/HKBP-Guidebook/commit/42c514e44ee96262029021ece7ae27043437ff2c) Gunakan admonition utuk bagian yang sebelumnya blockquote ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
@@ -36,20 +37,19 @@ FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`6edd74e`](https://github.com/Hans5958/HKBP-Guidebook/commit/6edd74edf348e242d5409137a1aed44934d00231) Tambah announcement untuk menampilkan pesan ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`f0df778`](https://github.com/Hans5958/HKBP-Guidebook/commit/f0df77829f006c9acd17527aaeb0a14b707afb2a) Perbarui catatan, panggil sebagai sangkalan ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`6b4595e`](https://github.com/Hans5958/Pixel-Adblock-Filters/commit/6b4595eba81291cb99d5c536720a8a0fb786370c) Local import round (19/10/2024) ([Hans5958/Pixel-Adblock-Filters](https://github.com/Hans5958/Pixel-Adblock-Filters), [master](https://github.com/Hans5958/Pixel-Adblock-Filters/tree/master))
-- [`a5904ef`](https://github.com/Hans5958/Domino-English-Translation/commit/a5904efa555a99bd9f58317cafb9a9594eb9bb15) Fix build due to issues on GitHub Actions ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
 
 ### Last ten events
 
+- Created comment on issue/PR [#20](https://github.com/VocaDB/Wiki/issues/20) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2024-11-14T07:20:16Z)
+- Opened pull request [#21](https://github.com/VocaDB/Wiki/issues/21) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2024-11-14T07:19:09Z)
+- Opened pull request [#20](https://github.com/VocaDB/Wiki/issues/20) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2024-11-14T07:19:09Z)
+- Created branch `dev-docs` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2024-11-14T07:17:39Z)
 - Created branch `subfolders` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2024-11-14T06:07:10Z)
 - Made fork of [VocaDB/Wiki](https://github.com/VocaDB/Wiki) on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2024-11-14T06:06:03Z)
 - Created comment on issue/PR [#5248](https://github.com/ScratchAddons/ScratchAddons/issues/5248) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-11-08T00:00:56Z)
 - Created comment on issue/PR [#7134](https://github.com/ScratchAddons/ScratchAddons/issues/7134) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-11-07T02:39:24Z)
 - Created comment on issue/PR [#500](https://github.com/ScratchAddons/website-v2/issues/500) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-11-05T03:01:10Z)
 - Deleted branch `dependabot/pip/mkdocs-material-9.5.43` on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-11-03T10:53:33Z)
-- Closed pull request [#48](https://github.com/Hans5958/HKBP-Guidebook/issues/48) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-11-03T10:53:32Z)
-- Created comment on issue/PR [#26](https://github.com/Hans5958/Domino-English-Translation/issues/26) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2024-10-29T14:26:00Z)
-- Closed issue [#26](https://github.com/Hans5958/Domino-English-Translation/issues/26) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2024-10-29T14:25:59Z)
-- Created review on PR [#7873](https://github.com/ScratchAddons/ScratchAddons/issues/7873) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-10-25T16:01:11Z)
 
 ### Activity graph (beta)
 
@@ -69,13 +69,13 @@ FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  <img src="https://im
                                             █                                    
                                             █                                    
                                             █                                    
-▄                 ▄                         █  █                                 
-█          ▄      █                         █  █                     █           
-█    ██    █      █ ▄  █           ▄        █  █                     █           
-█  ████    █      █ █  █          ▄█    █   █  █     ▄▄    ▄    █    █▄▄▄▄      █
+                  ▄                         █  █                                ▄
+           ▄      █                         █  █                    █           █
+     ██    █      █ ▄  █          █         █  █                    █           █
+█  ████    █      █ █  █          █     █   █  █     ▄▄    ▄   █    █ ▄▄▄▄      █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 29/08/2024          17/09/2024          06/10/2024          26/10/2024          Now
-02:08               11:09               20:10               04:10               
+03:08               11:09               20:10               05:10               
 ```
 
 ### lowlighter/metrics (beta)
@@ -84,7 +84,7 @@ FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 14/11/2024, 13:24:40 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 14/11/2024, 14:16:06 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
