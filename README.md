@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,6 +27,7 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`653dcc1`](https://github.com/ScratchAddons/website-v2/commit/653dcc126e11d2da66015e3d3d40c6a7220a4811) Put shorter title on docs nav instead ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [feedback](https://github.com/ScratchAddons/website-v2/tree/feedback))
 - [`2ac4182`](https://github.com/Hans5958/HKBP-Guidebook/commit/2ac4182942c916526c6d2bbd0ee993c990ea75a9) Konfesi HKBP: Perbaiki referensi ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`949a94b`](https://github.com/Hans5958/VocaDB-Wiki/commit/949a94b56ae778104a2bc23214e5d7119adfd722) Add more information, remove first slash, make things more clear ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [dev-docs](https://github.com/Hans5958/VocaDB-Wiki/tree/dev-docs))
 - [`659e92f`](https://github.com/Hans5958/funkipedia-mods-tasks/commit/659e92f98a528421faaab32ef363e1bb3e592647) Add discontinued note ([Hans5958/funkipedia-mods-tasks](https://github.com/Hans5958/funkipedia-mods-tasks), [master](https://github.com/Hans5958/funkipedia-mods-tasks/tree/master))
@@ -36,7 +37,6 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`af1c8d6`](https://github.com/Hans5958/HKBP-Guidebook/commit/af1c8d6071098a2cd44709b62628b3f44b5b99f7) Konfesi HKBP: Beberapa sutingan terakhir ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`5e68ae8`](https://github.com/Hans5958/HKBP-Guidebook/commit/5e68ae8987077af1f8de82dd05bcf26d300ea805) Konfesi HKBP: Perbarui bagian, 1951 dan 1966 terpisah ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`6edd74e`](https://github.com/Hans5958/HKBP-Guidebook/commit/6edd74edf348e242d5409137a1aed44934d00231) Tambah announcement untuk menampilkan pesan ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
-- [`f0df778`](https://github.com/Hans5958/HKBP-Guidebook/commit/f0df77829f006c9acd17527aaeb0a14b707afb2a) Perbarui catatan, panggil sebagai sangkalan ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 
 ### Last ten events
 
@@ -57,25 +57,18 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-                                     ▄                                           
                                      █                                           
                                      █                                           
-                                     █                                           
-                                     █                                           
-                                     █                                           
-                                     █                                           
-                                     █                                           
-                                     █                                           
-                                     █                                           
-                                     █                                           
-                                     █                                           
- █           ▄                       █  █                             ▄          
- █    ▄      █                       █  █                   █         █          
- █    █      █ ▄ █          █        █  █                   █         █          
-▄█    █      █ █ █          █    █   █  █    ▄▄    ▄   █    █▄▄▄▄     █ ▄▄▄     █
+                                    ▄█                                           
+                                    ██                                           
+                                    ██                                           
+            ▄                       ██                                ▄          
+      ▄     █                       ██ ▄                    █         █          
+██    █     █ ▄  █          █       ██ █▄                   █         █         ▄
+██    █     █ █  █          █    █  ██ ██    ▄▄    ▄   █    █▄▄▄▄     █ ▄▄▄     █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-02/09/2024          22/09/2024          13/10/2024          03/11/2024          Now
-01:09               22:09               20:10               17:11               
+02/09/2024          23/09/2024          14/10/2024          03/11/2024          Now
+16:09               09:09               03:10               21:11               
 ```
 
 ### lowlighter/metrics (beta)
@@ -84,7 +77,7 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 24/11/2024, 14:14:36 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 24/11/2024, 15:16:14 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
