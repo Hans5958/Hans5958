@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,19 +27,20 @@ FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`e68ca14`](https://github.com/ScratchAddons/website-v2/commit/e68ca1448f67d18aeed28f1c1b05ccbc89b49c9a) Merge pull request #507 from ScratchAddons/feedback ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`653dcc1`](https://github.com/ScratchAddons/website-v2/commit/653dcc126e11d2da66015e3d3d40c6a7220a4811) Put shorter title on docs nav instead ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`8241a52`](https://github.com/ScratchAddons/website-v2/commit/8241a527b6647175335ae12fae859ea23fec70c0) Put PSW in a modal ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`4d09044`](https://github.com/ScratchAddons/website-v2/commit/4d09044bcdff82f83b5d0816f2bb25acd5818c61) Try to add more filters for ScratchTeam PSW ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`2c7c0ec`](https://github.com/ScratchAddons/website-v2/commit/2c7c0ec1e08a540733cc9b44e37fef4bb0dd65f6) Make NotST message and Punishment message similar on PSW ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`bbaddcb`](https://github.com/ScratchAddons/website-v2/commit/bbaddcbace7c3d139e3bcd9be3fbbb4e50d6918f) Move feedback page to Getting Started ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`653dcc1`](https://github.com/ScratchAddons/website-v2/commit/653dcc126e11d2da66015e3d3d40c6a7220a4811) Put shorter title on docs nav instead ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [feedback](https://github.com/ScratchAddons/website-v2/tree/feedback))
 - [`2ac4182`](https://github.com/Hans5958/HKBP-Guidebook/commit/2ac4182942c916526c6d2bbd0ee993c990ea75a9) Konfesi HKBP: Perbaiki referensi ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`949a94b`](https://github.com/Hans5958/VocaDB-Wiki/commit/949a94b56ae778104a2bc23214e5d7119adfd722) Add more information, remove first slash, make things more clear ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [dev-docs](https://github.com/Hans5958/VocaDB-Wiki/tree/dev-docs))
 - [`659e92f`](https://github.com/Hans5958/funkipedia-mods-tasks/commit/659e92f98a528421faaab32ef363e1bb3e592647) Add discontinued note ([Hans5958/funkipedia-mods-tasks](https://github.com/Hans5958/funkipedia-mods-tasks), [master](https://github.com/Hans5958/funkipedia-mods-tasks/tree/master))
-- [`1351646`](https://github.com/Hans5958/HKBP-Guidebook/commit/1351646c7863eea4f2d5b074449ece1942bb892a) Perbaiki requirements yang salah ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
-- [`42c514e`](https://github.com/Hans5958/HKBP-Guidebook/commit/42c514e44ee96262029021ece7ae27043437ff2c) Gunakan admonition utuk bagian yang sebelumnya blockquote ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
-- [`c1a4754`](https://github.com/Hans5958/HKBP-Guidebook/commit/c1a4754184ba6b3e7dc371c1006958d955068526) Tambah announcement tentang update Konfesi HKBP ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
-- [`af1c8d6`](https://github.com/Hans5958/HKBP-Guidebook/commit/af1c8d6071098a2cd44709b62628b3f44b5b99f7) Konfesi HKBP: Beberapa sutingan terakhir ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
-- [`5e68ae8`](https://github.com/Hans5958/HKBP-Guidebook/commit/5e68ae8987077af1f8de82dd05bcf26d300ea805) Konfesi HKBP: Perbarui bagian, 1951 dan 1966 terpisah ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
-- [`6edd74e`](https://github.com/Hans5958/HKBP-Guidebook/commit/6edd74edf348e242d5409137a1aed44934d00231) Tambah announcement untuk menampilkan pesan ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 
 ### Last ten events
 
+- Closed pull request [#507](https://github.com/ScratchAddons/website-v2/issues/507) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-11-25T17:37:33Z)
 - Opened pull request [#507](https://github.com/ScratchAddons/website-v2/issues/507) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-11-24T08:46:20Z)
 - Created branch `feedback` on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-11-24T08:38:15Z)
 - Created comment on issue/PR [#250](https://github.com/ScratchAddons/contributors/issues/250) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-11-18T18:15:36Z)
@@ -49,7 +50,6 @@ FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://im
 - Opened pull request [#20](https://github.com/VocaDB/Wiki/issues/20) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2024-11-14T07:19:09Z)
 - Created branch `dev-docs` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2024-11-14T07:17:39Z)
 - Created branch `subfolders` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2024-11-14T06:07:10Z)
-- Made fork of [VocaDB/Wiki](https://github.com/VocaDB/Wiki) on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2024-11-14T06:06:03Z)
 
 ### Activity graph (beta)
 
@@ -71,11 +71,11 @@ FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://im
                                     █                                            
             ▄                       █  █                             ▄           
       ▄     █                       █  █                   █         █           
-██    █     █ ▄  █         █        █  █                   █         █         ▄ 
-██    █     █ █  █         █    █   █  █     ▄▄   ▄   █    █▄▄▄▄     █ ▄▄▄     █ 
+ █    █     █ ▄  █         █        █  █                   █         █         ▄ 
+██    █     █ █  █         █    █   █  █     ▄▄   ▄   █    █▄▄▄▄     █ ▄▄▄     ██
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 02/09/2024          23/09/2024          14/10/2024          04/11/2024          Now
-16:09               17:09               18:10               19:11               
+16:09               17:09               19:10               20:11               
 ```
 
 ### lowlighter/metrics (beta)
@@ -84,7 +84,7 @@ FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 25/11/2024, 21:16:34 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 25/11/2024, 22:16:02 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
