@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -40,6 +40,7 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ### Last ten events
 
+- Created comment on issue/PR [#7134](https://github.com/ScratchAddons/ScratchAddons/issues/7134) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-11-26T13:10:10Z)
 - Created comment on issue/PR [#7956](https://github.com/ScratchAddons/ScratchAddons/issues/7956) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-11-25T17:41:59Z)
 - Closed pull request [#507](https://github.com/ScratchAddons/website-v2/issues/507) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-11-25T17:37:33Z)
 - Opened pull request [#507](https://github.com/ScratchAddons/website-v2/issues/507) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-11-24T08:46:20Z)
@@ -49,7 +50,6 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 - Created comment on issue/PR [#20](https://github.com/VocaDB/Wiki/issues/20) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2024-11-14T07:20:16Z)
 - Opened pull request [#21](https://github.com/VocaDB/Wiki/issues/21) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2024-11-14T07:19:09Z)
 - Opened pull request [#20](https://github.com/VocaDB/Wiki/issues/20) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2024-11-14T07:19:09Z)
-- Created branch `dev-docs` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2024-11-14T07:17:39Z)
 
 ### Activity graph (beta)
 
@@ -57,25 +57,25 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ```
                                                                                  
-                                    ▄                                            
-                                    █                                            
-                                    █                                            
-                                    █                                            
-                                    █                                            
-                                    █                                            
-                                    █                                            
-                                    █                                            
-                                    █                                            
-                                    █                                            
-                                    █                                            
-                                    █                                            
-            ▄                       █  █                            ▄            
-      ▄     █                       █  █                  █         █            
- █    █     █ ▄ ▄          █        █  █                  █         █         ▄▄ 
-▄█    █     █ █ █▄         █    █   █  █    ▄▄    ▄   █   █ █ █     █ ▄▄ ▄    ██ 
+                                   ▄                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+                                   █                                             
+           ▄                       █  █                             ▄            
+     ▄     █                       █  █                   █         █            
+█    █     █ ▄  █          █       █  █                   █         █         ▄▄ 
+█    █     █ █  █          █   █   █  █     ▄▄    ▄  █    █▄▄▄▄     █ ▄▄▄     ██▄
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-02/09/2024          23/09/2024          15/10/2024          05/11/2024          Now
-16:09               22:09               04:10               10:11               
+03/09/2024          24/09/2024          15/10/2024          05/11/2024          Now
+13:09               14:09               15:10               16:11               
 ```
 
 ### lowlighter/metrics (beta)
@@ -84,7 +84,7 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 </details>
 
-*Last updated: 26/11/2024, 16:23:44 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 26/11/2024, 17:16:10 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
