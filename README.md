@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,7 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten commits
 
+- [`7314454`](https://github.com/ScratchAddons/ScratchAddons/commit/731445442b9c8dcc5b1174fb2604691120c8129a) Multiple updates on workflow (#7134) ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [master](https://github.com/ScratchAddons/ScratchAddons/tree/master))
 - [`b994b62`](https://github.com/ScratchAddons/website-v2/commit/b994b62c50140db807fbdb2bd5a9aa3e8ca49960) Fix colors for modals in general ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`e68ca14`](https://github.com/ScratchAddons/website-v2/commit/e68ca1448f67d18aeed28f1c1b05ccbc89b49c9a) Merge pull request #507 from ScratchAddons/feedback ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`653dcc1`](https://github.com/ScratchAddons/website-v2/commit/653dcc126e11d2da66015e3d3d40c6a7220a4811) Put shorter title on docs nav instead ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
@@ -36,20 +37,19 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 - [`bbaddcb`](https://github.com/ScratchAddons/website-v2/commit/bbaddcbace7c3d139e3bcd9be3fbbb4e50d6918f) Move feedback page to Getting Started ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`653dcc1`](https://github.com/ScratchAddons/website-v2/commit/653dcc126e11d2da66015e3d3d40c6a7220a4811) Put shorter title on docs nav instead ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [feedback](https://github.com/ScratchAddons/website-v2/tree/feedback))
 - [`2ac4182`](https://github.com/Hans5958/HKBP-Guidebook/commit/2ac4182942c916526c6d2bbd0ee993c990ea75a9) Konfesi HKBP: Perbaiki referensi ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
-- [`949a94b`](https://github.com/Hans5958/VocaDB-Wiki/commit/949a94b56ae778104a2bc23214e5d7119adfd722) Add more information, remove first slash, make things more clear ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [dev-docs](https://github.com/Hans5958/VocaDB-Wiki/tree/dev-docs))
 
 ### Last ten events
 
+- Created comment on issue/PR [#7134](https://github.com/ScratchAddons/ScratchAddons/issues/7134) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-12-01T05:15:17Z)
+- Deleted branch `workflows` on [Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons) (2024-12-01T05:03:28Z)
+- Closed issue [#7658](https://github.com/ScratchAddons/ScratchAddons/issues/7658) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-12-01T05:03:27Z)
+- Closed issue [#7133](https://github.com/ScratchAddons/ScratchAddons/issues/7133) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-12-01T05:03:27Z)
+- Closed pull request [#7134](https://github.com/ScratchAddons/ScratchAddons/issues/7134) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-12-01T05:03:26Z)
+- Created comment on issue/PR [#7134](https://github.com/ScratchAddons/ScratchAddons/issues/7134) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-12-01T04:56:11Z)
 - Created comment on issue/PR [#7134](https://github.com/ScratchAddons/ScratchAddons/issues/7134) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-11-30T04:29:30Z)
 - Created comment on issue/PR [#71](https://github.com/ScratchAddons/manifest-schema/issues/71) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2024-11-30T04:25:02Z)
 - Created comment on issue/PR [#7134](https://github.com/ScratchAddons/ScratchAddons/issues/7134) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-11-30T02:09:07Z)
 - Created comment on issue/PR [#71](https://github.com/ScratchAddons/manifest-schema/issues/71) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2024-11-30T02:04:06Z)
-- Updated wiki on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-11-29T17:38:46Z)
-- Created comment on a review on PR [#507](https://github.com/ScratchAddons/website-v2/issues/507) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-11-29T17:32:56Z)
-- Created review on PR [#507](https://github.com/ScratchAddons/website-v2/issues/507) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-11-29T17:32:57Z)
-- Created comment on issue/PR [#507](https://github.com/ScratchAddons/website-v2/issues/507) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2024-11-29T17:31:52Z)
-- Created comment on issue/PR [#26](https://github.com/Hans5958/mini-htmls/issues/26) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2024-11-28T12:01:44Z)
-- Closed issue [#26](https://github.com/Hans5958/mini-htmls/issues/26) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2024-11-28T12:01:43Z)
 
 ### Activity graph (beta)
 
@@ -57,25 +57,25 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ```
                                                                                  
-                          ▄                                                      
-                          █                                                      
-                          █                                                      
-                          █                                                      
-                          █                                                      
-                          █                                                      
-                          █                                                      
-                          █                                                      
-                          █                                                      
-                          █                                                      
-                          █                                                      
-                          █                                                      
-                          █  █                                ▄                  
-▄                         █  █                     █          █               ▄  
-█ ▄  █           █        █  █                     █          █          ▄▄   ██ 
-█ █  █           █    █   █  █      ▄▄    ▄   █    █ █ ▄▄     █  ▄▄▄     ██▄ ███ 
+                         ▄                                                       
+                         █                                                       
+                         █                                                       
+                         █                                                       
+                         █                                                       
+                         █                                                       
+                         █                                                       
+                         █                                                       
+                         █                                                       
+                         █                                                       
+                         █                                                       
+                         █                                                       
+                         █  █                                 ▄                 ▄
+                         █  █                     █           █               ▄ █
+   █           █         █  █                     █           █          ▄▄   ███
+▄  █           █    █    █  █     ▄▄     ▄   █    █ ▄▄▄▄      █ ▄▄ ▄     ██▄ ████
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-15/09/2024          04/10/2024          23/10/2024          11/11/2024          Now
-08:09               13:10               18:10               23:11               
+17/09/2024          06/10/2024          24/10/2024          12/11/2024          Now
+12:09               04:10               21:10               13:11               
 ```
 
 ### lowlighter/metrics (beta)
@@ -84,7 +84,7 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 01/12/2024, 04:22:46 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 01/12/2024, 05:17:00 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
