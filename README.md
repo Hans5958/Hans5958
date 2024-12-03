@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -40,16 +40,16 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten events
 
+- Closed pull request [#52](https://github.com/Hans5958/Black-MIDI-Meta/issues/52) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2024-12-03T17:09:58Z)
+- Created comment on issue/PR [#49](https://github.com/Hans5958/HKBP-Guidebook/issues/49) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-12-03T17:08:58Z)
+- Closed pull request [#50](https://github.com/Hans5958/HKBP-Guidebook/issues/50) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-12-03T17:08:33Z)
+- Created comment on issue/PR [#7973](https://github.com/ScratchAddons/ScratchAddons/issues/7973) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-12-03T17:07:39Z)
+- Created comment on issue/PR [#7972](https://github.com/ScratchAddons/ScratchAddons/issues/7972) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-12-03T17:07:13Z)
 - Deleted branch `all-contributors/add-I-milep` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-12-01T12:22:02Z)
 - Deleted branch `all-contributors/add-hexagonl` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-12-01T12:21:43Z)
 - Deleted branch `all-contributors/add-shock59` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-12-01T12:21:15Z)
 - Closed pull request [#307](https://github.com/ScratchAddons/contributors/issues/307) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-12-01T12:21:14Z)
 - Created review on PR [#307](https://github.com/ScratchAddons/contributors/issues/307) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-12-01T12:21:05Z)
-- Created comment on issue/PR [#71](https://github.com/ScratchAddons/manifest-schema/issues/71) on [ScratchAddons/manifest-schema](https://github.com/ScratchAddons/manifest-schema) (2024-12-01T06:58:39Z)
-- Created comment on issue/PR [#7134](https://github.com/ScratchAddons/ScratchAddons/issues/7134) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-12-01T05:15:17Z)
-- Deleted branch `workflows` on [Hans5958/ScratchAddons](https://github.com/Hans5958/ScratchAddons) (2024-12-01T05:03:28Z)
-- Closed issue [#7658](https://github.com/ScratchAddons/ScratchAddons/issues/7658) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-12-01T05:03:27Z)
-- Closed issue [#7133](https://github.com/ScratchAddons/ScratchAddons/issues/7133) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-12-01T05:03:27Z)
 
 ### Activity graph (beta)
 
@@ -57,13 +57,13 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-                                                                        ▄▄       
-                         █                                          ▄   ██       
-                         █                               ▄          █   ██       
-▄ ▄   ▄ ▄                █▄     ▄ ▄   ▄              █▄  █  ▄    █  ███ ██       
+                         ▄                                              ▄▄     ▄ 
+                         █                                          ▄   ██     █ 
+                         █                               ▄          █▄  ██     █ 
+▄ ▄   ▄ ▄                █     ▄  ▄   ▄              █▄  █ ▄     █  ██▄ ██     █ 
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 05/11/2024          12/11/2024          19/11/2024          26/11/2024          Now
-03:11               07:11               12:11               17:11               
+03:11               08:11               13:11               18:11               
 ```
 
 ### lowlighter/metrics (beta)
@@ -72,7 +72,7 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 03/12/2024, 22:17:15 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 03/12/2024, 23:17:11 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
