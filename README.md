@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -40,6 +40,7 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten events
 
+- Closed pull request [#49](https://github.com/Hans5958/HKBP-Guidebook/issues/49) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-12-04T17:10:21Z)
 - Closed pull request [#52](https://github.com/Hans5958/Black-MIDI-Meta/issues/52) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2024-12-03T17:09:58Z)
 - Created comment on issue/PR [#49](https://github.com/Hans5958/HKBP-Guidebook/issues/49) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-12-03T17:08:58Z)
 - Closed pull request [#50](https://github.com/Hans5958/HKBP-Guidebook/issues/50) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-12-03T17:08:33Z)
@@ -49,7 +50,6 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 - Deleted branch `all-contributors/add-hexagonl` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-12-01T12:21:43Z)
 - Deleted branch `all-contributors/add-shock59` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-12-01T12:21:15Z)
 - Closed pull request [#307](https://github.com/ScratchAddons/contributors/issues/307) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-12-01T12:21:14Z)
-- Created review on PR [#307](https://github.com/ScratchAddons/contributors/issues/307) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2024-12-01T12:21:05Z)
 
 ### Activity graph (beta)
 
@@ -66,14 +66,13 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 █                                                                                
 █                                                                                
 █                                                                                
-█                                                                                
 █    █                                            ▄                       █   ▄  
 █    █                            █               █                     ▄ ██  █  
-█    █                            █               █              ▄ ▄    ████  █  
-█    █       ▄ ▄      ▄     █     █  ▄▄ ▄▄        █  ▄ ▄▄        █ █▄ █ ████  █  
+█    █                            █               █               ▄     ████  █  
+█    █       ▄ ▄      ▄    █      █  ▄▄ ▄▄        █  ▄ ▄▄       █▄█ ▄ █ ████  ██ 
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 10/10/2024          24/10/2024          07/11/2024          21/11/2024          Now
-10:10               08:10               06:11               04:11               
+11:10               09:10               07:11               06:11               
 ```
 
 ### lowlighter/metrics (beta)
@@ -82,7 +81,7 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 05/12/2024, 03:01:57 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 05/12/2024, 04:22:16 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
