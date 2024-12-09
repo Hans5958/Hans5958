@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,6 +27,8 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`23c1f11`](https://github.com/Hans5958/mini-htmls/commit/23c1f115f8cb7d8633bc4ffb573a94ba2000213c) Update dependencies (Ruby 3.x update) 2 ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
+- [`1379dde`](https://github.com/Hans5958/mini-htmls/commit/1379ddea64f7ca0f6950a39e597bff2b92d8c890) Update dependencies (Ruby 3.x update) ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`f0d5714`](https://github.com/Hans5958/mini-htmls/commit/f0d5714064f26e8e9029c64b5cfd953db8d64203) Update dependencies ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`4d93089`](https://github.com/Hans5958/mini-htmls/commit/4d93089dd8d2bbe1b123a0f912a872e33889af8d) TextureAtlas Extractor: Try to fix rotated sprites ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`7314454`](https://github.com/ScratchAddons/ScratchAddons/commit/731445442b9c8dcc5b1174fb2604691120c8129a) Multiple updates on workflow (#7134) ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [master](https://github.com/ScratchAddons/ScratchAddons/tree/master))
@@ -35,8 +37,6 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`653dcc1`](https://github.com/ScratchAddons/website-v2/commit/653dcc126e11d2da66015e3d3d40c6a7220a4811) Put shorter title on docs nav instead ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`8241a52`](https://github.com/ScratchAddons/website-v2/commit/8241a527b6647175335ae12fae859ea23fec70c0) Put PSW in a modal ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`4d09044`](https://github.com/ScratchAddons/website-v2/commit/4d09044bcdff82f83b5d0816f2bb25acd5818c61) Try to add more filters for ScratchTeam PSW ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`2c7c0ec`](https://github.com/ScratchAddons/website-v2/commit/2c7c0ec1e08a540733cc9b44e37fef4bb0dd65f6) Make NotST message and Punishment message similar on PSW ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`bbaddcb`](https://github.com/ScratchAddons/website-v2/commit/bbaddcbace7c3d139e3bcd9be3fbbb4e50d6918f) Move feedback page to Getting Started ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
@@ -61,17 +61,16 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 █                                                                                
 █                                                                                
 █                                                                                
-█                                                                                
 █                                                                    █           
 █                                                                    █           
 █                                                                  ▄ █           
 █   █                                         ▄                    █ █  ▄        
-█   █                           █             █                    █ █  █        
-█   █                           █             █             ▄ ▄    █ █  █       ▄
-█   █       ▄▄      ▄    █      █ ▄▄ ▄▄       █  ▄ ▄▄       █ █▄ █ █ █  █ █     █
+█   █                           █             █                    █ █  █       ▄
+█   █                           █             █             ▄ ▄    █ █  █       █
+█   █       ▄▄      ▄    █      █ ▄▄ ▄▄       █  ▄ ▄▄       █ █▄ █ █ █  ██      █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 10/10/2024          25/10/2024          09/11/2024          24/11/2024          Now
-11:10               12:10               13:11               13:11               
+11:10               12:10               13:11               14:11               
 ```
 
 ### lowlighter/metrics (beta)
@@ -80,7 +79,7 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 09/12/2024, 14:17:45 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 09/12/2024, 15:19:33 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
