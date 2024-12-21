@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,19 +27,20 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten commits
 
+- [`48559bd`](https://github.com/Hans5958/hans5958.github.io/commit/48559bd471ce49e570684dc071de021eeaa61a49) Add more tools, adjust order on home page ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
+- [`7a118c8`](https://github.com/Hans5958/hans5958.github.io/commit/7a118c86b547a2634ef7b28b8efc2438d0fc8e73) Add more tools, adjust order on home page ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
+- [`f90e123`](https://github.com/Hans5958/hans5958.github.io/commit/f90e123ecd8d680a4369270cd10e8069ec4fd10f) Update dependencies ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
+- [`ba85916`](https://github.com/Hans5958/hyper-flexible-timer/commit/ba8591628ef8c51ed8aaab783bcb352e7c410fc7) Bump version to 3.0.13 ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
+- [`cbfd7ea`](https://github.com/Hans5958/hyper-flexible-timer/commit/cbfd7eae285896aa047e0a4244665aad68e62051) Fix display not updating when time changed on pause ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
+- [`716ee10`](https://github.com/Hans5958/hyper-flexible-timer/commit/716ee101b934732eb394ad69dc20325650c436f8) Update dependencies ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
 - [`23c1f11`](https://github.com/Hans5958/mini-htmls/commit/23c1f115f8cb7d8633bc4ffb573a94ba2000213c) Update dependencies (Ruby 3.x update) 2 ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`1379dde`](https://github.com/Hans5958/mini-htmls/commit/1379ddea64f7ca0f6950a39e597bff2b92d8c890) Update dependencies (Ruby 3.x update) ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`f0d5714`](https://github.com/Hans5958/mini-htmls/commit/f0d5714064f26e8e9029c64b5cfd953db8d64203) Update dependencies ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`4d93089`](https://github.com/Hans5958/mini-htmls/commit/4d93089dd8d2bbe1b123a0f912a872e33889af8d) TextureAtlas Extractor: Try to fix rotated sprites ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
-- [`7314454`](https://github.com/ScratchAddons/ScratchAddons/commit/731445442b9c8dcc5b1174fb2604691120c8129a) Multiple updates on workflow (#7134) ([ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons), [master](https://github.com/ScratchAddons/ScratchAddons/tree/master))
-- [`b994b62`](https://github.com/ScratchAddons/website-v2/commit/b994b62c50140db807fbdb2bd5a9aa3e8ca49960) Fix colors for modals in general ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`e68ca14`](https://github.com/ScratchAddons/website-v2/commit/e68ca1448f67d18aeed28f1c1b05ccbc89b49c9a) Merge pull request #507 from ScratchAddons/feedback ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`653dcc1`](https://github.com/ScratchAddons/website-v2/commit/653dcc126e11d2da66015e3d3d40c6a7220a4811) Put shorter title on docs nav instead ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`8241a52`](https://github.com/ScratchAddons/website-v2/commit/8241a527b6647175335ae12fae859ea23fec70c0) Put PSW in a modal ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`4d09044`](https://github.com/ScratchAddons/website-v2/commit/4d09044bcdff82f83b5d0816f2bb25acd5818c61) Try to add more filters for ScratchTeam PSW ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
+- Created tag `v3.0.13` on [Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer) (2024-12-21T02:29:19Z)
 - Created comment on issue/PR [#13](https://github.com/ScratchAddons/l10n-script/issues/13) on [ScratchAddons/l10n-script](https://github.com/ScratchAddons/l10n-script) (2024-12-20T11:47:30Z)
 - Created comment on issue/PR [#8010](https://github.com/ScratchAddons/ScratchAddons/issues/8010) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-12-19T13:10:59Z)
 - Created comment on issue/PR [#13](https://github.com/ScratchAddons/l10n-script/issues/13) on [ScratchAddons/l10n-script](https://github.com/ScratchAddons/l10n-script) (2024-12-19T13:09:51Z)
@@ -49,7 +50,6 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 - Closed pull request [#52](https://github.com/Hans5958/Black-MIDI-Meta/issues/52) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2024-12-03T17:09:58Z)
 - Created comment on issue/PR [#49](https://github.com/Hans5958/HKBP-Guidebook/issues/49) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-12-03T17:08:58Z)
 - Closed pull request [#50](https://github.com/Hans5958/HKBP-Guidebook/issues/50) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2024-12-03T17:08:33Z)
-- Created comment on issue/PR [#7973](https://github.com/ScratchAddons/ScratchAddons/issues/7973) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2024-12-03T17:07:39Z)
 
 ### Activity graph (beta)
 
@@ -57,18 +57,16 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ```
                                                                                  
-█                                                                                
-█                                                                                
+▄                                                         █                      
 █                                                         █                      
-█                                                         █                      
-█                                                         █                      
-█                                      ▄                ▄ █ ▄                    
-█  ▄                       █           █                █ █ █      ▄             
-█  █▄                      █           █          ▄ █   █ █ █      █             
-█  ██     ▄▄     ▄   █     █ █ ▄▄      █ ▄▄ ▄     █ █  ████ █ █    █          █▄ 
+█                                                       ▄ █                      
+█  █                                   ▄                █ █ ▄                    
+█  █                       █           █                █ █ █      ▄            ▄
+█  █                       █           █          ▄ █   █ █ █      █            █
+█  █      ▄▄     ▄   █     █ █ ▄▄      █ ▄▄ ▄     █ █  ██ █ █ █    █          █▄█
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 10/10/2024          28/10/2024          15/11/2024          03/12/2024          Now
-12:10               10:10               08:11               07:12               
+13:10               11:10               09:11               08:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -77,7 +75,7 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 21/12/2024, 05:15:06 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 21/12/2024, 06:22:04 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
