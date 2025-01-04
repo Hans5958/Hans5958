@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,6 +27,8 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`f464e2f`](https://github.com/ScratchAddons/website-v2/commit/f464e2f769ae77750ee0a5b66cb004611ff32bdc) Update showcase images ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`9787bb2`](https://github.com/ScratchAddons/website-v2/commit/9787bb249483ebffe726c01e55f7316dceb8a59d) Add videos to v1.39.0 and v1.40.0 highlights ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`3d3f5cb`](https://github.com/ScratchAddons/website-v2/commit/3d3f5cb575daeba30d0e7ca578ef0ad8b0d6924f) Update copyright year to 2025 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`b3a0795`](https://github.com/ScratchAddons/l10n-script/commit/b3a07953940e046a1301c8bdd8080b6cc0be38eb) Revert "commit on existing PRs" commits ([ScratchAddons/l10n-script](https://github.com/ScratchAddons/l10n-script), [main](https://github.com/ScratchAddons/l10n-script/tree/main))
 - [`ef04816`](https://github.com/Hans5958/blog/commit/ef0481600c394a3105bab801aaf94069d44e1802) Use Front Matter CMS, list on tags ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
@@ -35,8 +37,6 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`48559bd`](https://github.com/Hans5958/hans5958.github.io/commit/48559bd471ce49e570684dc071de021eeaa61a49) Add more tools, adjust order on home page ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`7a118c8`](https://github.com/Hans5958/hans5958.github.io/commit/7a118c86b547a2634ef7b28b8efc2438d0fc8e73) Add more tools, adjust order on home page ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`f90e123`](https://github.com/Hans5958/hans5958.github.io/commit/f90e123ecd8d680a4369270cd10e8069ec4fd10f) Update dependencies ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
-- [`ba85916`](https://github.com/Hans5958/hyper-flexible-timer/commit/ba8591628ef8c51ed8aaab783bcb352e7c410fc7) Bump version to 3.0.13 ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
-- [`cbfd7ea`](https://github.com/Hans5958/hyper-flexible-timer/commit/cbfd7eae285896aa047e0a4244665aad68e62051) Fix display not updating when time changed on pause ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
 
 ### Last ten events
 
@@ -60,13 +60,13 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
                                                █                                 
                                                █                                 
                                                █                  ▄              
-                               ▄               █ ▄                █              
-                    █          █             ▄ █ █     ▄          █    █      █  
-█                   █          █        ▄ █  ███ █     █         ▄█    █      █  
-█     ▄▄    ▄  █    █ █ █      █ ▄▄▄    █ █ ████ ██    █         ██    █      █▄ 
+                                               █ ▄                █              
+                    █          ▄             ▄ █ █     ▄          █    █      █  
+                    █          █        ▄ █  ███ █     █          █    █      █  
+█     ▄▄    ▄  █    █ █ █     ██ ▄▄▄    █ █ ████ ██    █        █▄█    █      █▄█
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 13/10/2024          03/11/2024          24/11/2024          14/12/2024          Now
-14:10               08:11               02:11               20:12               
+16:10               09:11               03:11               21:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -75,7 +75,7 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 04/01/2025, 14:13:46 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 04/01/2025, 15:15:51 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
