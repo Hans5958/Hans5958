@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,9 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`4b98958`](https://github.com/Hans5958/mini-htmls/commit/4b98958f9a986aaed6dcfea138b289361359a7bd) CheerLights Live: Add more info regarding some parts ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
+- [`81189aa`](https://github.com/Hans5958/mini-htmls/commit/81189aa90ba6ad855bf149b7bffbd981d39b043f) CheerLights Live: Update linked Mastodon account ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
+- [`776485b`](https://github.com/Hans5958/mini-htmls/commit/776485b20bc0b1653499c2fa33ea0415c5acf4ca) CheerLights Live: Use HTTPS ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`537a59e`](https://github.com/Hans5958/mini-htmls/commit/537a59e2de12dc856310af89ba7611190d7ca09e) CheerLighs Live: Use HTTPS ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`2537fe8`](https://github.com/Hans5958/mini-htmls/commit/2537fe8703cd1b55299408848271a4b29c97cc33) CheerLights Live: Add new project ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`08bb17d`](https://github.com/Hans5958/mini-htmls/commit/08bb17d661499f13065c2ddfaef4a490d2d84f15) Longplayer Warp: Tiny refactoring ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
@@ -34,9 +37,6 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`66b5ecc`](https://github.com/ScratchAddons/website-v2/commit/66b5ecc4cbb64cb041c78979df0769541fe02ce2) Merge pull request #510 from Samq64/140-images ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`f464e2f`](https://github.com/ScratchAddons/website-v2/commit/f464e2f769ae77750ee0a5b66cb004611ff32bdc) Update showcase images ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`9787bb2`](https://github.com/ScratchAddons/website-v2/commit/9787bb249483ebffe726c01e55f7316dceb8a59d) Add videos to v1.39.0 and v1.40.0 highlights ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`3d3f5cb`](https://github.com/ScratchAddons/website-v2/commit/3d3f5cb575daeba30d0e7ca578ef0ad8b0d6924f) Update copyright year to 2025 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`b3a0795`](https://github.com/ScratchAddons/l10n-script/commit/b3a07953940e046a1301c8bdd8080b6cc0be38eb) Revert "commit on existing PRs" commits ([ScratchAddons/l10n-script](https://github.com/ScratchAddons/l10n-script), [main](https://github.com/ScratchAddons/l10n-script/tree/main))
-- [`ef04816`](https://github.com/Hans5958/blog/commit/ef0481600c394a3105bab801aaf94069d44e1802) Use Front Matter CMS, list on tags ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
 
 ### Last ten events
 
@@ -61,12 +61,12 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
                         █                                                 ▄      
                       ▄ █                           ▄                     █      
                       █ █  ▄                        █                     █      
-█                     █ █  █                        █                █    █      
-█               ▄     █ █  █       ▄                █       █        █    █      
-█  ▄ ▄▄       █▄█▄  █ █ █  █ █     ██             █▄█      ██        █ ▄ ███ ██▄ 
+                      █ █  █                        █                █    █      
+█               ▄     █ █  █       ▄                █       █        █    █    ▄ 
+█  ▄ ▄▄       █▄█▄  █ █ █  █ █     ██             █▄█      ██        █ ▄█ ██ ███ 
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 14/11/2024          28/11/2024          12/12/2024          26/12/2024          Now
-06:11               10:11               14:12               18:12               
+07:11               11:11               15:12               19:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -75,7 +75,7 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 09/01/2025, 22:15:46 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 09/01/2025, 23:16:46 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
