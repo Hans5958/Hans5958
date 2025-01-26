@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I will be online in a few hours or so.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -40,6 +40,9 @@ FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten events
 
+- Created comment on issue/PR [#8093](https://github.com/ScratchAddons/ScratchAddons/issues/8093) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2025-01-25T15:50:25Z)
+- Created comment on issue/PR [#30](https://github.com/Hans5958/Domino-English-Translation/issues/30) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-01-25T15:27:13Z)
+- Reopened issue [#30](https://github.com/Hans5958/Domino-English-Translation/issues/30) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-01-25T15:25:33Z)
 - Created comment on issue/PR [#8093](https://github.com/ScratchAddons/ScratchAddons/issues/8093) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2025-01-25T05:45:41Z)
 - Created comment on issue/PR [#27](https://github.com/Hans5958/Domino-English-Translation/issues/27) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-01-25T05:43:07Z)
 - Created comment on issue/PR [#30](https://github.com/Hans5958/Domino-English-Translation/issues/30) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-01-25T05:42:00Z)
@@ -47,9 +50,6 @@ FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  <img src="https://im
 - Created comment on issue/PR [#518](https://github.com/ScratchAddons/website-v2/issues/518) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-01-21T10:54:56Z)
 - Created comment on issue/PR [#518](https://github.com/ScratchAddons/website-v2/issues/518) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-01-21T10:01:13Z)
 - Created comment on issue/PR [#8083](https://github.com/ScratchAddons/ScratchAddons/issues/8083) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2025-01-16T15:55:27Z)
-- Created comment on issue/PR [#514](https://github.com/ScratchAddons/website-v2/issues/514) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-01-15T06:04:57Z)
-- Created comment on issue/PR [#514](https://github.com/ScratchAddons/website-v2/issues/514) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-01-14T16:57:32Z)
-- Created comment on issue/PR [#514](https://github.com/ScratchAddons/website-v2/issues/514) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-01-12T06:34:31Z)
 
 ### Activity graph (beta)
 
@@ -57,14 +57,16 @@ FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-                                 ▄                   ▄                           
-       █  ▄                      █                   █                           
-     ▄ ██ █       ▄              █      █        █   █                           
-     ████ █       █              █      █        █   █    ▄               ▄    █ 
-█▄  █████ █ █     █            █▄█      █        █ ▄███████   ▄  ▄▄ ▄     █    █ 
+    █                                                                            
+    █                                               ▄                            
+  ▄ █                          ▄                    █                            
+  █ █  ▄                       █                    █                          ▄ 
+  █ █  █       ▄               █                █   █                          █ 
+  █ █  █       █               █       █        █   █    ▄                ▄    █ 
+█ █ █  ██      █             █▄█      ██        █▄ ███ ███   ▄  ▄▄ ▄      █    █ 
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-25/11/2024          11/12/2024          26/12/2024          10/01/2025          Now
-17:11               01:12               08:12               15:01               
+28/11/2024          13/12/2024          27/12/2024          11/01/2025          Now
+12:11               03:12               18:12               09:01               
 ```
 
 ### lowlighter/metrics (beta)
@@ -73,7 +75,7 @@ FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 25/01/2025, 23:15:49 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 26/01/2025, 01:19:05 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
