@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -36,7 +36,6 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`08bb17d`](https://github.com/Hans5958/mini-htmls/commit/08bb17d661499f13065c2ddfaef4a490d2d84f15) Longplayer Warp: Tiny refactoring ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`cda0414`](https://github.com/Hans5958/mini-htmls/commit/cda0414ed016d57e0e13b55be6cc7339f45c7f78) ASLAP Warp: Add new project ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`66b5ecc`](https://github.com/ScratchAddons/website-v2/commit/66b5ecc4cbb64cb041c78979df0769541fe02ce2) Merge pull request #510 from Samq64/140-images ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`f464e2f`](https://github.com/ScratchAddons/website-v2/commit/f464e2f769ae77750ee0a5b66cb004611ff32bdc) Update showcase images ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
@@ -57,14 +56,14 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-  ▄                                                                              
-  █                                                                              
-  █                                                                              
-  █          ▄                               ▄         █▄                  █     
-█ ██ █  █ █  █      ▄      ▄▄   ▄            █         ██                  █     
+▄                                                                                
+█                                                                                
+█                                                                                
+█          ▄                                ▄         █▄                  █      
+██ █  █ █  █       ▄     ▄ ▄   ▄            █         ██                  █      
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-04/01/2025          12/01/2025          19/01/2025          27/01/2025          Now
-14:01               02:01               14:01               02:01               
+05/01/2025          12/01/2025          20/01/2025          27/01/2025          Now
+11:01               18:01               01:01               08:01               
 ```
 
 ### lowlighter/metrics (beta)
@@ -73,7 +72,7 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 03/02/2025, 14:16:13 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 03/02/2025, 15:17:36 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
