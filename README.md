@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,6 +27,8 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ### Last ten commits
 
+- [`949a94b`](https://github.com/Hans5958/VocaDB-Wiki/commit/949a94b56ae778104a2bc23214e5d7119adfd722) Add more information, remove first slash, make things more clear ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [subfolders](https://github.com/Hans5958/VocaDB-Wiki/tree/subfolders))
+- [`515dae3`](https://github.com/Hans5958/VocaDB-Wiki/commit/515dae3d3e6a0aa65da7af6452824c3741e52885) Update dev env docs so it is more clearer ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [subfolders](https://github.com/Hans5958/VocaDB-Wiki/tree/subfolders))
 - [`12a9a40`](https://github.com/ScratchAddons/website-v2/commit/12a9a40312dcc4dc0cca60668941e9f21f6b0078) Adjust more colors when more contrast needed ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`4b98958`](https://github.com/Hans5958/mini-htmls/commit/4b98958f9a986aaed6dcfea138b289361359a7bd) CheerLights Live: Add more info regarding some parts ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`81189aa`](https://github.com/Hans5958/mini-htmls/commit/81189aa90ba6ad855bf149b7bffbd981d39b043f) CheerLights Live: Update linked Mastodon account ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
@@ -35,10 +37,10 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 - [`2537fe8`](https://github.com/Hans5958/mini-htmls/commit/2537fe8703cd1b55299408848271a4b29c97cc33) CheerLights Live: Add new project ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`08bb17d`](https://github.com/Hans5958/mini-htmls/commit/08bb17d661499f13065c2ddfaef4a490d2d84f15) Longplayer Warp: Tiny refactoring ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`cda0414`](https://github.com/Hans5958/mini-htmls/commit/cda0414ed016d57e0e13b55be6cc7339f45c7f78) ASLAP Warp: Add new project ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
-- [`66b5ecc`](https://github.com/ScratchAddons/website-v2/commit/66b5ecc4cbb64cb041c78979df0769541fe02ce2) Merge pull request #510 from Samq64/140-images ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
+- Created comment on issue/PR [#21](https://github.com/VocaDB/Wiki/issues/21) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-02-04T10:03:46Z)
 - Closed pull request [#54](https://github.com/Hans5958/Black-MIDI-Meta/issues/54) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2025-02-01T15:01:58Z)
 - Closed pull request [#52](https://github.com/Hans5958/HKBP-Guidebook/issues/52) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2025-02-01T15:01:55Z)
 - Created comment on issue/PR [#8093](https://github.com/ScratchAddons/ScratchAddons/issues/8093) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2025-01-25T15:50:25Z)
@@ -48,7 +50,6 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 - Created comment on issue/PR [#27](https://github.com/Hans5958/Domino-English-Translation/issues/27) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-01-25T05:43:07Z)
 - Created comment on issue/PR [#30](https://github.com/Hans5958/Domino-English-Translation/issues/30) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-01-25T05:42:00Z)
 - Closed issue [#30](https://github.com/Hans5958/Domino-English-Translation/issues/30) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-01-25T05:41:59Z)
-- Created comment on issue/PR [#518](https://github.com/ScratchAddons/website-v2/issues/518) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-01-21T10:54:56Z)
 
 ### Activity graph (beta)
 
@@ -56,11 +57,11 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ```
                                                                                  
-          ▄                               ▄         █▄                  █        
-█ █  █ █  █       ▄     ▄▄   ▄            █         ██                  █        
+        ▄                                ▄         █▄                   █        
+█  █ █  █       ▄     ▄ ▄   ▄            █         ██                   █      █ 
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-05/01/2025          13/01/2025          20/01/2025          28/01/2025          Now
-17:01               04:01               16:01               04:01               
+06/01/2025          13/01/2025          21/01/2025          28/01/2025          Now
+12:01               19:01               02:01               09:01               
 ```
 
 ### lowlighter/metrics (beta)
@@ -69,7 +70,7 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 </details>
 
-*Last updated: 04/02/2025, 16:20:50 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 04/02/2025, 17:14:27 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
