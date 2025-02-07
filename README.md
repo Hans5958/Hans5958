@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -34,9 +34,6 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`81189aa`](https://github.com/Hans5958/mini-htmls/commit/81189aa90ba6ad855bf149b7bffbd981d39b043f) CheerLights Live: Update linked Mastodon account ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`776485b`](https://github.com/Hans5958/mini-htmls/commit/776485b20bc0b1653499c2fa33ea0415c5acf4ca) CheerLights Live: Use HTTPS ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`537a59e`](https://github.com/Hans5958/mini-htmls/commit/537a59e2de12dc856310af89ba7611190d7ca09e) CheerLighs Live: Use HTTPS ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
-- [`2537fe8`](https://github.com/Hans5958/mini-htmls/commit/2537fe8703cd1b55299408848271a4b29c97cc33) CheerLights Live: Add new project ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
-- [`08bb17d`](https://github.com/Hans5958/mini-htmls/commit/08bb17d661499f13065c2ddfaef4a490d2d84f15) Longplayer Warp: Tiny refactoring ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
-- [`cda0414`](https://github.com/Hans5958/mini-htmls/commit/cda0414ed016d57e0e13b55be6cc7339f45c7f78) ASLAP Warp: Add new project ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 
 ### Last ten events
 
@@ -57,11 +54,11 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-   ▄                               ▄         █▄                  █            █  
-▄▄ █       ▄     ▄ ▄  ▄            █         ██                  █      █     █  
+  ▄                                ▄         █▄                  █            █  
+▄ █       ▄      ▄▄   ▄            █         ██                  █      █     █  
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 08/01/2025          15/01/2025          23/01/2025          30/01/2025          Now
-06:01               18:01               06:01               18:01               
+11:01               22:01               09:01               20:01               
 ```
 
 ### lowlighter/metrics (beta)
@@ -70,7 +67,7 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 07/02/2025, 06:24:15 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 07/02/2025, 07:15:29 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`c87e6b0`](https://github.com/Hans5958/Hans5958/commit/c87e6b064ef46d15a6152193f34cca54a7ae3a64
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
