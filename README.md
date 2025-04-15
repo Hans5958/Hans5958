@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,7 @@ FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`66e85c5`](https://github.com/Hans5958/test-lists/commit/66e85c572a6403b94f96cf120a3b88b91c4de021) Remove squatted domain g30s-pki.com ([Hans5958/test-lists](https://github.com/Hans5958/test-lists), [id-squat](https://github.com/Hans5958/test-lists/tree/id-squat))
 - [`5a5ee8f`](https://github.com/Hans5958/YouTube-Descriptions/commit/5a5ee8ffd41d2ee01d1bda5fe75334cfbd0da3d1) Changes as of 04/04/2025 ([Hans5958/YouTube-Descriptions](https://github.com/Hans5958/YouTube-Descriptions), [master](https://github.com/Hans5958/YouTube-Descriptions/tree/master))
 - [`6a5c779`](https://github.com/Hans5958/YouTube-Descriptions/commit/6a5c7791425bea08c58edbed311c9f7e2a9eb92b) Changes as of 04/01/2025 ([Hans5958/YouTube-Descriptions](https://github.com/Hans5958/YouTube-Descriptions), [master](https://github.com/Hans5958/YouTube-Descriptions/tree/master))
 - [`f29ce7d`](https://github.com/ScratchAddons/contributors/commit/f29ce7d6fc21b168a126671547bc6e27866771a7) Rename 3 contributors, add unadded code contributors ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [master](https://github.com/ScratchAddons/contributors/tree/master))
@@ -37,6 +38,9 @@ FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten events
 
+- Opened pull request [#1938](https://github.com/citizenlab/test-lists/issues/1938) on [citizenlab/test-lists](https://github.com/citizenlab/test-lists) (2025-04-15T07:50:01Z)
+- Created branch `id-squat` on [Hans5958/test-lists](https://github.com/Hans5958/test-lists) (2025-04-15T07:45:56Z)
+- Made fork of [citizenlab/test-lists](https://github.com/citizenlab/test-lists) on [Hans5958/test-lists](https://github.com/Hans5958/test-lists) (2025-04-15T07:45:45Z)
 - Created review on PR [#523](https://github.com/ScratchAddons/website-v2/issues/523) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-04-11T00:46:59Z)
 - Created review on PR [#523](https://github.com/ScratchAddons/website-v2/issues/523) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-04-11T00:46:49Z)
 - Created comment on issue/PR [#524](https://github.com/ScratchAddons/website-v2/issues/524) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-04-11T00:44:43Z)
@@ -44,9 +48,6 @@ FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - Created comment on issue/PR [#4](https://github.com/ScratchAddons/website-v2/issues/4) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-04-09T14:55:18Z)
 - Closed pull request [#524](https://github.com/ScratchAddons/website-v2/issues/524) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-04-08T17:22:14Z)
 - Opened issue [#4042](https://github.com/rossjrw/rossjrw/issues/4042) on [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw) (2025-04-04T17:24:29Z)
-- Closed pull request [#54](https://github.com/Hans5958/HKBP-Guidebook/issues/54) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2025-04-04T10:33:51Z)
-- Closed pull request [#56](https://github.com/Hans5958/Black-MIDI-Meta/issues/56) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2025-04-04T10:33:41Z)
-- Created comment on issue/PR [#30](https://github.com/Hans5958/Domino-English-Translation/issues/30) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-04-04T10:32:49Z)
 
 ### Activity graph (beta)
 
@@ -57,11 +58,11 @@ FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  <img src="https://img.shield
                       █                                                          
                       █                                                          
 █       █             █                        ▄                                 
-█       █             █                        █                   █             
-█       █          ▄  █                 █      ██           █  ▄   █             
+█       █             █                        █                   █            █
+█       █          ▄  █                 █      ██           █  ▄   █            █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 19/03/2025          26/03/2025          02/04/2025          08/04/2025          Now
-16:03               08:03               00:04               17:04               
+16:03               08:03               01:04               17:04               
 ```
 
 ### lowlighter/metrics (beta)
@@ -70,7 +71,7 @@ FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 15/04/2025, 09:20:47 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 15/04/2025, 10:20:20 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
