@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I will be online in a few hours or so.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -32,9 +32,6 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`6a5c779`](https://github.com/Hans5958/YouTube-Descriptions/commit/6a5c7791425bea08c58edbed311c9f7e2a9eb92b) Changes as of 04/01/2025 ([Hans5958/YouTube-Descriptions](https://github.com/Hans5958/YouTube-Descriptions), [master](https://github.com/Hans5958/YouTube-Descriptions/tree/master))
 - [`f29ce7d`](https://github.com/ScratchAddons/contributors/commit/f29ce7d6fc21b168a126671547bc6e27866771a7) Rename 3 contributors, add unadded code contributors ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [master](https://github.com/ScratchAddons/contributors/tree/master))
 - [`0699c07`](https://github.com/Hans5958/anubis/commit/0699c0767b2e9289c2f4b7edfca91b84518c2ef0) docs: fix broken link to default policy file ([Hans5958/anubis](https://github.com/Hans5958/anubis), [default-policy-file-docs](https://github.com/Hans5958/anubis/tree/default-policy-file-docs))
-- [`3190a28`](https://github.com/ScratchAddons/website-v2/commit/3190a28a4667ed980325a0f6853c107ae472875b) Adjust fonts of extension-styled theme ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`009dc16`](https://github.com/ScratchAddons/website-v2/commit/009dc16040a6d3d4249cb9bf688ed7cc26a0ad0e) Fix colors on forms ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`0a0eec3`](https://github.com/ScratchAddons/website-v2/commit/0a0eec3a363f0087e731a3c40635f01c8a873703) Use css.Sass as resources.ToCSS is deprecated ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 
 ### Last ten events
 
@@ -55,14 +52,14 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-   █                                                                             
-   █                                                                             
-   █                     ▄                                                       
-   █                     █                 █          █                          
-▄  █               █     ██         █  ▄   █          █              ▄     █     
+█                                                                                
+█                                                                                
+█                      ▄                                                         
+█                      █                 █           █                           
+█               █      ██          █ ▄   █           █               ▄    █      
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-26/03/2025          02/04/2025          10/04/2025          17/04/2025          Now
-02:03               13:04               01:04               13:04               
+27/03/2025          03/04/2025          10/04/2025          17/04/2025          Now
+04:03               09:04               15:04               21:04               
 ```
 
 ### lowlighter/metrics (beta)
@@ -71,7 +68,7 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 25/04/2025, 01:36:02 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 25/04/2025, 03:05:00 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
