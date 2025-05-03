@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,22 +27,24 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`43e812b`](https://github.com/ScratchAddons/contributors/commit/43e812bdacef162ddc4fae360ba3d0bee471ca88) Expand changed path triggers for workflow ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [master](https://github.com/ScratchAddons/contributors/tree/master))
+- [`10bc9a9`](https://github.com/ScratchAddons/contributors/commit/10bc9a9bbf9e6e4a33c9047f4cd09b1a9b618519) Match names with case insensitivity ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [master](https://github.com/ScratchAddons/contributors/tree/master))
 - [`66e85c5`](https://github.com/Hans5958/test-lists/commit/66e85c572a6403b94f96cf120a3b88b91c4de021) Remove squatted domain g30s-pki.com ([Hans5958/test-lists](https://github.com/Hans5958/test-lists), [id-squat](https://github.com/Hans5958/test-lists/tree/id-squat))
 - [`5a5ee8f`](https://github.com/Hans5958/YouTube-Descriptions/commit/5a5ee8ffd41d2ee01d1bda5fe75334cfbd0da3d1) Changes as of 04/04/2025 ([Hans5958/YouTube-Descriptions](https://github.com/Hans5958/YouTube-Descriptions), [master](https://github.com/Hans5958/YouTube-Descriptions/tree/master))
 - [`6a5c779`](https://github.com/Hans5958/YouTube-Descriptions/commit/6a5c7791425bea08c58edbed311c9f7e2a9eb92b) Changes as of 04/01/2025 ([Hans5958/YouTube-Descriptions](https://github.com/Hans5958/YouTube-Descriptions), [master](https://github.com/Hans5958/YouTube-Descriptions/tree/master))
 
 ### Last ten events
 
+- Created comment on issue/PR [#311](https://github.com/ScratchAddons/contributors/issues/311) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2025-05-03T07:12:19Z)
+- Closed pull request [#57](https://github.com/Hans5958/Black-MIDI-Meta/issues/57) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2025-05-03T07:03:31Z)
+- Closed pull request [#55](https://github.com/Hans5958/HKBP-Guidebook/issues/55) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2025-05-03T07:03:29Z)
+- Opened issue [#21411](https://github.com/iptv-org/iptv/issues/21411) on [iptv-org/iptv](https://github.com/iptv-org/iptv) (2025-05-03T06:58:38Z)
 - Created comment on issue/PR [#37](https://github.com/Hans5958/Domino-English-Translation/issues/37) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-05-01T06:50:59Z)
 - Deleted branch `all-contributors/add-Valmontechno` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2025-05-01T06:48:47Z)
 - Closed pull request [#311](https://github.com/ScratchAddons/contributors/issues/311) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2025-05-01T06:48:45Z)
 - Created review on PR [#311](https://github.com/ScratchAddons/contributors/issues/311) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2025-05-01T06:48:32Z)
 - Created comment on issue/PR [#36](https://github.com/Hans5958/Domino-English-Translation/issues/36) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-04-28T03:15:51Z)
 - Closed issue [#36](https://github.com/Hans5958/Domino-English-Translation/issues/36) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-04-28T03:15:50Z)
-- Created comment on issue/PR [#37](https://github.com/Hans5958/Domino-English-Translation/issues/37) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-04-28T03:13:52Z)
-- Closed issue [#37](https://github.com/Hans5958/Domino-English-Translation/issues/37) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-04-28T03:13:51Z)
-- Closed pull request [#525](https://github.com/ScratchAddons/website-v2/issues/525) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-04-23T01:29:59Z)
-- Created comment on issue/PR [#310](https://github.com/ScratchAddons/contributors/issues/310) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2025-04-21T01:58:34Z)
 
 ### Activity graph (beta)
 
@@ -50,12 +52,13 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-▄                                                                         ▄      
-█                 █           █                                   █       █      
-██          █ ▄   █           █               ▄     █             █       █      
+                                                                                █
+▄                                                                         ▄     █
+█                 █           █                                   █       █     █
+██          █ ▄   █           █               ▄     █             █       █     █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 04/04/2025          11/04/2025          18/04/2025          26/04/2025          Now
-10:04               15:04               20:04               01:04               
+10:04               15:04               20:04               02:04               
 ```
 
 ### lowlighter/metrics (beta)
@@ -64,7 +67,7 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 03/05/2025, 06:24:56 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 03/05/2025, 07:16:44 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
