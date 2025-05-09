@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **02:xx** (**2am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,7 @@ FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`72daf44`](https://github.com/Hans5958/blog/commit/72daf446f84347ec41d32acb5d769e4ed3510df5) Fix some parts on RSS ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
 - [`2dbee3e`](https://github.com/Hans5958/mini-htmls/commit/2dbee3ef82aea43e91cce2772afcd18c12f50fde) Update dependencies ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`326884e`](https://github.com/Hans5958/mini-htmls/commit/326884e1daebbc15897fc44cadc308a113ecdd5b) Fix Twitter meta tag, add fediverse:creator meta tag ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`b1b3305`](https://github.com/Hans5958/hyper-flexible-timer/commit/b1b3305a8628dfcb695d036ee665e3eb58fc5f13) Fix Twitter meta tag ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
@@ -36,7 +37,6 @@ FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`244d390`](https://github.com/Hans5958/blog/commit/244d3904bfff9c4e1854606b4619c36b114cbf5c) Fix bug of missing .mdx posts ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
 - [`9d63053`](https://github.com/Hans5958/blog/commit/9d630530120a780f9e053cf9323f03945ae30db5) Add color on default border ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
 - [`30bd2d5`](https://github.com/Hans5958/blog/commit/30bd2d53e1a6ed2e75c4feb8d2f8c454cf4ad8f3) Update workflow dependencies ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
-- [`42ec150`](https://github.com/Hans5958/hans5958.github.io/commit/42ec1509ae344040d6de2cd119658fbf86b200b9) Update workflow dependencies ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 
 ### Last ten events
 
@@ -64,10 +64,10 @@ FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://im
                                                                █             █   
                                                          ▄     █             █   
     █          █                                 █       █     █             █   
-▄   █          █              ▄     █            █       █     █▄ ▄    ▄     █   
+▄   █          █              ▄     █            █       █     █▄▄     ▄     █▄  
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 09/04/2025          17/04/2025          24/04/2025          02/05/2025          Now
-14:04               03:04               16:04               05:05               
+14:04               04:04               17:04               06:05               
 ```
 
 ### lowlighter/metrics (beta)
@@ -76,7 +76,7 @@ FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 09/05/2025, 18:26:23 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 09/05/2025, 19:14:55 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
