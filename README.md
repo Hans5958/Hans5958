@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,12 +27,20 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`b541667`](https://github.com/Hans5958/hyper-flexible-timer/commit/b541667cab08dc53170588efbc8d84fb2d1ed43b) Bump version to 3.0.15 ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
+- [`6fb61df`](https://github.com/Hans5958/hyper-flexible-timer/commit/6fb61dff1e329fa6883c8742d75574946a8e7583) Update dependencies for security ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
+- [`c361143`](https://github.com/Hans5958/hyper-flexible-timer/commit/c3611431a884d4b091368a4ef8f71eeedf33c7f4) Bump version to 3.0.14 ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
+- [`d6bb961`](https://github.com/Hans5958/hyper-flexible-timer/commit/d6bb96119df00f2525b0d583061c9fbab69e189c) Update dependencies ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
+- [`ad13a10`](https://github.com/Hans5958/hyper-flexible-timer/commit/ad13a10d0a1d4d75500186300d37ab4e18f28458) Add more meta tags ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
+- [`a7d7bc3`](https://github.com/Hans5958/hans5958.github.io/commit/a7d7bc359edd5b55ec379da134bfbfdc895f6e08) Add fediverse:creator meta tag ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
+- [`a9b7baf`](https://github.com/Hans5958/hans5958.github.io/commit/a9b7baf97ac1207749d6827d547a67da29bf1afa) Update dependencies, fix build errors ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
+- [`4d4dd27`](https://github.com/Hans5958/blog/commit/4d4dd274403117c9963e70b4026dda38935db773) Add fediverse:creator meta tag ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
+- [`7ca93f4`](https://github.com/Hans5958/blog/commit/7ca93f49256eea990c5ae8a5c85357d2b9b6b774) Update dependencies, fix build errors ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
 - [`43e812b`](https://github.com/ScratchAddons/contributors/commit/43e812bdacef162ddc4fae360ba3d0bee471ca88) Expand changed path triggers for workflow ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [master](https://github.com/ScratchAddons/contributors/tree/master))
-- [`10bc9a9`](https://github.com/ScratchAddons/contributors/commit/10bc9a9bbf9e6e4a33c9047f4cd09b1a9b618519) Match names with case insensitivity ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [master](https://github.com/ScratchAddons/contributors/tree/master))
-- [`66e85c5`](https://github.com/Hans5958/test-lists/commit/66e85c572a6403b94f96cf120a3b88b91c4de021) Remove squatted domain g30s-pki.com ([Hans5958/test-lists](https://github.com/Hans5958/test-lists), [id-squat](https://github.com/Hans5958/test-lists/tree/id-squat))
 
 ### Last ten events
 
+- Created tag `v3.0.14` on [Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer) (2025-05-08T16:33:18Z)
 - Created review on PR [#8311](https://github.com/ScratchAddons/ScratchAddons/issues/8311) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2025-05-06T08:09:56Z)
 - Created comment on issue/PR [#311](https://github.com/ScratchAddons/contributors/issues/311) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2025-05-04T07:23:40Z)
 - Opened issue [#2094](https://github.com/iptv-org/iptv-org.github.io/issues/2094) on [iptv-org/iptv-org.github.io](https://github.com/iptv-org/iptv-org.github.io) (2025-05-03T20:09:27Z)
@@ -42,7 +50,6 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - Opened issue [#21411](https://github.com/iptv-org/iptv/issues/21411) on [iptv-org/iptv](https://github.com/iptv-org/iptv) (2025-05-03T06:58:38Z)
 - Created comment on issue/PR [#37](https://github.com/Hans5958/Domino-English-Translation/issues/37) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-05-01T06:50:59Z)
 - Deleted branch `all-contributors/add-Valmontechno` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2025-05-01T06:48:47Z)
-- Closed pull request [#311](https://github.com/ScratchAddons/contributors/issues/311) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2025-05-01T06:48:45Z)
 
 ### Activity graph (beta)
 
@@ -51,12 +58,12 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 ```
                                                                                  
                                                                 █                
-                                                          ▄     █                
-    █          █                                  █       █     █                
-▄   █          █               ▄    █             █       █     █▄ ▄    ▄        
+                                                          ▄     █             ▄  
+    █          █                                  █       █     █             █  
+▄   █          █               ▄    █             █       █     █▄▄     ▄     █  
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 09/04/2025          17/04/2025          24/04/2025          01/05/2025          Now
-14:04               01:04               11:04               21:05               
+14:04               01:04               11:04               22:05               
 ```
 
 ### lowlighter/metrics (beta)
@@ -65,7 +72,7 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 09/05/2025, 07:18:31 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 09/05/2025, 08:25:55 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
