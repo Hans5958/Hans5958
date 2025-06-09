@@ -82,19 +82,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5574 Commits
+                            5572 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            36 Pull requests reviewed
+                            35 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            11 Pull requests opened
+                            10 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -495,7 +495,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 3 commits)</small>
+                    <small class="h-details">(computed from last 2 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -523,29 +523,29 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Hatsune Miku V3 English</div>
-                                    <div class="artist">Don't Forget</div>
+                                    <div class="name">Turn It Up</div>
+                                    <div class="artist">♪</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Don't Forget</div>
-                                    <div class="artist">Toby Fox - Topic</div>
+                                    <div class="name">OMORI</div>
+                                    <div class="artist">ℵ₀ Sunny</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">DON'T FORGET (DELTARUNE)</div>
-                                    <div class="artist">Hatsune Miku</div>
+                                    <div class="name">OMORI</div>
+                                    <div class="artist">ℵ₀ Sunny</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Laura Shigihara - Don't Forget</div>
-                                    <div class="artist">Toby Fox</div>
+                                    <div class="name">OMORI</div>
+                                    <div class="artist">ℵ₀ Sunny</div>
                                 </div>
                             </div>
                         </div>
@@ -1621,6 +1621,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1662,7 +1669,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        1.55k
+                                        1.56k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1681,7 +1688,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        408
+                                        410
                                     </div>
                                 </div>
                             </section>
@@ -2128,7 +2135,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jun 2025, 08:03:04 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jun 2025, 08:01:03 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
