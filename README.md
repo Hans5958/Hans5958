@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,20 +27,23 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten commits
 
+- [`61f87c1`](https://github.com/ScratchAddons/website-v2/commit/61f87c157a9af584b73aecd108df5a1577a05b49) Force display body on noscript 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`352db84`](https://github.com/ScratchAddons/website-v2/commit/352db845ad582b97aca796c17cb23146ffd544d6) Force display body on noscript ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`052e378`](https://github.com/ScratchAddons/website-v2/commit/052e378d3e6309a429694c19845c2b84a64efef7) Replace Glitch with Napkin.io ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 - [`feeb961`](https://github.com/Hans5958/indie-wiki-buddy/commit/feeb9616f08a4ea1fa1546a037917ecd10dea68c) Add Vocaloid Lyrics Wiki ([Hans5958/indie-wiki-buddy](https://github.com/Hans5958/indie-wiki-buddy), [main](https://github.com/Hans5958/indie-wiki-buddy/tree/main))
 
 ### Last ten events
 
+- Closed issue [#530](https://github.com/ScratchAddons/website-v2/issues/530) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-06-29T04:40:22Z)
+- Created comment on a review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-06-29T03:49:53Z)
+- Created review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-06-29T03:49:54Z)
+- Created comment on issue/PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-06-29T03:48:56Z)
+- Created comment on a review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-06-29T03:48:21Z)
+- Created review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-06-29T03:48:22Z)
+- Created comment on issue/PR [#1180](https://github.com/KevinPayravi/indie-wiki-buddy/issues/1180) on [KevinPayravi/indie-wiki-buddy](https://github.com/KevinPayravi/indie-wiki-buddy) (2025-06-29T03:44:30Z)
 - Opened issue [#1180](https://github.com/KevinPayravi/indie-wiki-buddy/issues/1180) on [KevinPayravi/indie-wiki-buddy](https://github.com/KevinPayravi/indie-wiki-buddy) (2025-06-28T11:39:29Z)
 - Opened pull request [#1179](https://github.com/KevinPayravi/indie-wiki-buddy/issues/1179) on [KevinPayravi/indie-wiki-buddy](https://github.com/KevinPayravi/indie-wiki-buddy) (2025-06-28T11:19:35Z)
 - Created branch `en-vocaloidlyrics` on [Hans5958/indie-wiki-buddy](https://github.com/Hans5958/indie-wiki-buddy) (2025-06-28T11:18:54Z)
-- Made fork of [KevinPayravi/indie-wiki-buddy](https://github.com/KevinPayravi/indie-wiki-buddy) on [Hans5958/indie-wiki-buddy](https://github.com/Hans5958/indie-wiki-buddy) (2025-06-24T06:57:27Z)
-- Created comment on issue/PR [#1155](https://github.com/KevinPayravi/indie-wiki-buddy/issues/1155) on [KevinPayravi/indie-wiki-buddy](https://github.com/KevinPayravi/indie-wiki-buddy) (2025-06-24T06:51:23Z)
-- Created comment on issue/PR [#28](https://github.com/Hans5958/mini-htmls/issues/28) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-06-21T13:25:31Z)
-- Created comment on issue/PR [#27](https://github.com/Hans5958/mini-htmls/issues/27) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-06-21T13:04:30Z)
-- Closed issue [#27](https://github.com/Hans5958/mini-htmls/issues/27) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-06-21T13:04:29Z)
-- Opened issue [#1962](https://github.com/VocaDB/vocadb/issues/1962) on [VocaDB/vocadb](https://github.com/VocaDB/vocadb) (2025-06-14T15:48:03Z)
-- Created comment on issue/PR [#8382](https://github.com/ScratchAddons/ScratchAddons/issues/8382) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2025-06-11T15:55:46Z)
 
 ### Activity graph (beta)
 
@@ -48,11 +51,14 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ```
                                                                                  
-       █                                                   ▄                  █  
-▄      █                  ▄     █       ▄                  █       █          █  
+                                                                                █
+                                                                                █
+                                                                                █
+       █                                                   ▄                  █ █
+▄      █                  ▄     █       ▄                  █      █           █ █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 31/05/2025          07/06/2025          14/06/2025          21/06/2025          Now
-00:05               07:06               14:06               21:06               
+00:05               08:06               15:06               22:06               
 ```
 
 ### lowlighter/metrics (beta)
@@ -61,7 +67,7 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 29/06/2025, 04:34:30 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 29/06/2025, 05:21:50 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
