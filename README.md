@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,8 @@ FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`35e8d5f`](https://github.com/Hans5958/hans5958.github.io/commit/35e8d5f6a3409b56ae8ef4298a21ab9de25a0597) Update dependencies ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
+- [`f803e1e`](https://github.com/Hans5958/blog/commit/f803e1e312ac39b6c7c09c7612d3fea0aa575175) Update dependencies ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
 - [`323c58e`](https://github.com/Hans5958/web-1/commit/323c58e85853fca7d183cf98e57e2238d62bfe9f) Clarify that the edit button is on the bottom ([Hans5958/web-1](https://github.com/Hans5958/web-1), [patch-1](https://github.com/Hans5958/web-1/tree/patch-1))
 - [`64eb981`](https://github.com/Hans5958/prismlauncher.org/commit/64eb98192851d46a6206f34c8e5450a79543b116) Fix link to Code of Conduct ([Hans5958/prismlauncher.org](https://github.com/Hans5958/prismlauncher.org), [main](https://github.com/Hans5958/prismlauncher.org/tree/main))
 - [`61f87c1`](https://github.com/ScratchAddons/website-v2/commit/61f87c157a9af584b73aecd108df5a1577a05b49) Force display body on noscript 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
@@ -57,10 +59,10 @@ FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  <img src="https://img.shield
                                                              █                   
                                                              █▄                  
                                      ▄                     █ ██  ▄     █         
-▄      █        ▄                    █        █            █ ██ ██     █         
+▄      █        ▄                    █        █            █ ██ ██     █        █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 09/06/2025          15/06/2025          22/06/2025          28/06/2025          Now
-08:06               20:06               09:06               21:06               
+08:06               21:06               09:06               21:06               
 ```
 
 ### lowlighter/metrics (beta)
@@ -69,7 +71,7 @@ FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 05/07/2025, 09:19:04 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 05/07/2025, 10:19:00 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
