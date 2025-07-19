@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,14 +27,16 @@ FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ### Last ten commits
 
+- [`43ef8d1`](https://github.com/Hans5958/HKBP-Guidebook/commit/43ef8d12724e2edf84a4d30500f99d2d204bf8fc) RPP HKBP: Benarkan jadi "Versi Lama" ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
+- [`8ad327e`](https://github.com/Hans5958/HKBP-Guidebook/commit/8ad327e462da1131f84f293c021e8718309ab5f8) Konfesi HKBP: Tambah pranala pada referensi Alkitab ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
+- [`7de6292`](https://github.com/Hans5958/HKBP-Guidebook/commit/7de629209a29b7d69deb2f57680c5a5e0a947a29) RPP HKBP: Tambah edisi revisi 2020 (lengkap dengan Bahasa Indonesia) ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
+- [`16c83d0`](https://github.com/Hans5958/HKBP-Guidebook/commit/16c83d0574ec4803a55e1a1f51b2a8ac981f7d3d) Konfesi HKBP: Pisahkan referensi 1966 ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`35e8d5f`](https://github.com/Hans5958/hans5958.github.io/commit/35e8d5f6a3409b56ae8ef4298a21ab9de25a0597) Update dependencies ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`f803e1e`](https://github.com/Hans5958/blog/commit/f803e1e312ac39b6c7c09c7612d3fea0aa575175) Update dependencies ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
 - [`323c58e`](https://github.com/Hans5958/web-1/commit/323c58e85853fca7d183cf98e57e2238d62bfe9f) Clarify that the edit button is on the bottom ([Hans5958/web-1](https://github.com/Hans5958/web-1), [patch-1](https://github.com/Hans5958/web-1/tree/patch-1))
 - [`64eb981`](https://github.com/Hans5958/prismlauncher.org/commit/64eb98192851d46a6206f34c8e5450a79543b116) Fix link to Code of Conduct ([Hans5958/prismlauncher.org](https://github.com/Hans5958/prismlauncher.org), [main](https://github.com/Hans5958/prismlauncher.org/tree/main))
 - [`61f87c1`](https://github.com/ScratchAddons/website-v2/commit/61f87c157a9af584b73aecd108df5a1577a05b49) Force display body on noscript 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`352db84`](https://github.com/ScratchAddons/website-v2/commit/352db845ad582b97aca796c17cb23146ffd544d6) Force display body on noscript ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`052e378`](https://github.com/ScratchAddons/website-v2/commit/052e378d3e6309a429694c19845c2b84a64efef7) Replace Glitch with Napkin.io ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
-- [`feeb961`](https://github.com/Hans5958/indie-wiki-buddy/commit/feeb9616f08a4ea1fa1546a037917ecd10dea68c) Add Vocaloid Lyrics Wiki ([Hans5958/indie-wiki-buddy](https://github.com/Hans5958/indie-wiki-buddy), [main](https://github.com/Hans5958/indie-wiki-buddy/tree/main))
 
 ### Last ten events
 
@@ -57,12 +59,12 @@ FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://i
                                                                                  
                       █                                                          
                       █                                                          
-                      █▄ ▄                                                       
-▄                   █ ██ █     █                                                 
-█       █           █ ██ █     █       █                                         
+                      █▄                                                         
+▄                   █ ██ ▄     █                                                 
+█       █           █ ████     █       █                                       ▄ 
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 21/06/2025          28/06/2025          05/07/2025          12/07/2025          Now
-13:06               14:06               15:07               16:07               
+13:06               14:06               15:07               17:07               
 ```
 
 ### lowlighter/metrics (beta)
@@ -71,7 +73,7 @@ FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://i
 
 </details>
 
-*Last updated: 19/07/2025, 17:17:59 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 19/07/2025, 18:27:42 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
