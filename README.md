@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I will be online in a few hours or so.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -46,8 +46,6 @@ FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  <img src="https://im
 - Closed pull request [#59](https://github.com/Hans5958/Black-MIDI-Meta/issues/59) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2025-07-02T13:02:36Z)
 - Opened pull request [#1127](https://github.com/openmultiplayer/web/issues/1127) on [openmultiplayer/web](https://github.com/openmultiplayer/web) (2025-06-30T12:21:01Z)
 - Made fork of [openmultiplayer/web](https://github.com/openmultiplayer/web) on [Hans5958/web-1](https://github.com/Hans5958/web-1) (2025-06-30T12:19:58Z)
-- Created comment on a review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-06-30T04:23:30Z)
-- Created review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-06-30T04:23:31Z)
 
 ### Activity graph (beta)
 
@@ -55,11 +53,11 @@ FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
- ▄    █                                                                          
-██    █       █                                   █▄ █                           
+▄    █                                            ▄                              
+█    █       █                                    █  █                           
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-30/06/2025          07/07/2025          15/07/2025          23/07/2025          Now
-04:06               21:07               13:07               06:07               
+30/06/2025          08/07/2025          15/07/2025          23/07/2025          Now
+12:06               03:07               19:07               10:07               
 ```
 
 ### lowlighter/metrics (beta)
@@ -68,7 +66,7 @@ FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 30/07/2025, 23:20:35 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 31/07/2025, 01:50:45 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
