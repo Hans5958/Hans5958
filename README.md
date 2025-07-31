@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -36,7 +36,6 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 - [`16c83d0`](https://github.com/Hans5958/HKBP-Guidebook/commit/16c83d0574ec4803a55e1a1f51b2a8ac981f7d3d) Konfesi HKBP: Pisahkan referensi 1966 ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`35e8d5f`](https://github.com/Hans5958/hans5958.github.io/commit/35e8d5f6a3409b56ae8ef4298a21ab9de25a0597) Update dependencies ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`f803e1e`](https://github.com/Hans5958/blog/commit/f803e1e312ac39b6c7c09c7612d3fea0aa575175) Update dependencies ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
-- [`323c58e`](https://github.com/Hans5958/web-1/commit/323c58e85853fca7d183cf98e57e2238d62bfe9f) Clarify that the edit button is on the bottom ([Hans5958/web-1](https://github.com/Hans5958/web-1), [patch-1](https://github.com/Hans5958/web-1/tree/patch-1))
 
 ### Last ten events
 
@@ -44,8 +43,6 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 - Created comment on issue/PR [#29](https://github.com/Hans5958/mini-htmls/issues/29) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-07-19T15:12:21Z)
 - Closed pull request [#57](https://github.com/Hans5958/HKBP-Guidebook/issues/57) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2025-07-02T13:02:43Z)
 - Closed pull request [#59](https://github.com/Hans5958/Black-MIDI-Meta/issues/59) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2025-07-02T13:02:36Z)
-- Opened pull request [#1127](https://github.com/openmultiplayer/web/issues/1127) on [openmultiplayer/web](https://github.com/openmultiplayer/web) (2025-06-30T12:21:01Z)
-- Made fork of [openmultiplayer/web](https://github.com/openmultiplayer/web) on [Hans5958/web-1](https://github.com/Hans5958/web-1) (2025-06-30T12:19:58Z)
 
 ### Activity graph (beta)
 
@@ -53,11 +50,11 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ```
                                                                                  
-▄    █                                                                           
-█    █       █                                   █▄ █                            
+█                                                                                
+█       █                                      █▄ █                              
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-30/06/2025          08/07/2025          15/07/2025          23/07/2025          Now
-12:06               04:07               20:07               11:07               
+02/07/2025          09/07/2025          16/07/2025          24/07/2025          Now
+13:07               16:07               20:07               00:07               
 ```
 
 ### lowlighter/metrics (beta)
@@ -66,7 +63,7 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 31/07/2025, 03:41:45 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 31/07/2025, 04:42:13 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
