@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,6 +27,7 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ### Last ten commits
 
+- [`6f6fc37`](https://github.com/ScratchAddons/website-v2/commit/6f6fc37d69cbb7ab3aa77f68714b51e8de422c9e) Add description about list of enabled addons (not just in summary) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 - [`bc6a4be`](https://github.com/ScratchAddons/website-v2/commit/bc6a4be187edf0d9f0b037df7cfe0fdb0c9a34e1) Set policy date ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 - [`9c4c1bf`](https://github.com/ScratchAddons/website-v2/commit/9c4c1bf4c4073d29b949e532c9e141e473d48242) Adjust button holding on feedback to reduce duplicate sending ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`02bd6f9`](https://github.com/ScratchAddons/website-v2/commit/02bd6f92b1349cc81778a328c9e63b674b5b7753) Fix "sending a feedback" ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
@@ -36,10 +37,12 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 - [`7e66d44`](https://github.com/Hans5958/HKBP-Guidebook/commit/7e66d44f05f4907b252173da6316d4204f4c8719) RPP HKBP: Tambah pranala pada referensi Alkitab ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`6918289`](https://github.com/Hans5958/HKBP-Guidebook/commit/69182891cde2c7a7eb37d2cf65a43343d455cc2d) RPP HKBP: Pisahkan referensi ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`43ef8d1`](https://github.com/Hans5958/HKBP-Guidebook/commit/43ef8d12724e2edf84a4d30500f99d2d204bf8fc) RPP HKBP: Benarkan jadi "Versi Lama" ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
-- [`8ad327e`](https://github.com/Hans5958/HKBP-Guidebook/commit/8ad327e462da1131f84f293c021e8718309ab5f8) Konfesi HKBP: Tambah pranala pada referensi Alkitab ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 
 ### Last ten events
 
+- Created comment on issue/PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-16T17:14:22Z)
+- Closed pull request [#532](https://github.com/ScratchAddons/website-v2/issues/532) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-16T16:55:16Z)
+- Created comment on issue/PR [#532](https://github.com/ScratchAddons/website-v2/issues/532) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-16T16:55:15Z)
 - Created comment on issue/PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-15T17:07:03Z)
 - Created comment on a review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-13T14:11:38Z)
 - Created review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-13T14:11:39Z)
@@ -53,11 +56,12 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ```
                                                                                  
-                                                                       █         
-█▄ █                                    █                              █     █   
+                                                                                ▄
+                                                                       █        █
+█▄ █                                    █                              █     █  █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 19/07/2025          26/07/2025          02/08/2025          09/08/2025          Now
-10:07               11:07               13:08               14:08               
+10:07               12:07               13:08               15:08               
 ```
 
 ### lowlighter/metrics (beta)
@@ -66,7 +70,7 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 </details>
 
-*Last updated: 16/08/2025, 16:22:21 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 16/08/2025, 17:15:50 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
