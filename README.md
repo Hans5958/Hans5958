@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,8 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`cd81b16`](https://github.com/ScratchAddons/website-v2/commit/cd81b1632aff6ba928c19db0b11465e541f8d7e8) Add changelog ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
+- [`6d6f369`](https://github.com/ScratchAddons/website-v2/commit/6d6f369ec09d58d4b7cee5fc022ba9bcac19d59d) Fix "sending a feedback" 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 - [`6f6fc37`](https://github.com/ScratchAddons/website-v2/commit/6f6fc37d69cbb7ab3aa77f68714b51e8de422c9e) Add description about list of enabled addons (not just in summary) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 - [`bc6a4be`](https://github.com/ScratchAddons/website-v2/commit/bc6a4be187edf0d9f0b037df7cfe0fdb0c9a34e1) Set policy date ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 - [`9c4c1bf`](https://github.com/ScratchAddons/website-v2/commit/9c4c1bf4c4073d29b949e532c9e141e473d48242) Adjust button holding on feedback to reduce duplicate sending ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
@@ -35,11 +37,12 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`bab9761`](https://github.com/Hans5958/hans5958.github.io/commit/bab976199e2d7075d351834aa858b15a0d2c47c4) Update dependencies ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`f12b069`](https://github.com/Hans5958/indie-wiki-buddy/commit/f12b069c65b89d0bcf4bc2e47f8797c0d6cbb3d3) Add Vocaloid Lyrics Wiki (#1179) ([Hans5958/indie-wiki-buddy](https://github.com/Hans5958/indie-wiki-buddy), [main](https://github.com/Hans5958/indie-wiki-buddy/tree/main))
 - [`7e66d44`](https://github.com/Hans5958/HKBP-Guidebook/commit/7e66d44f05f4907b252173da6316d4204f4c8719) RPP HKBP: Tambah pranala pada referensi Alkitab ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
-- [`6918289`](https://github.com/Hans5958/HKBP-Guidebook/commit/69182891cde2c7a7eb37d2cf65a43343d455cc2d) RPP HKBP: Pisahkan referensi ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
-- [`43ef8d1`](https://github.com/Hans5958/HKBP-Guidebook/commit/43ef8d12724e2edf84a4d30500f99d2d204bf8fc) RPP HKBP: Benarkan jadi "Versi Lama" ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 
 ### Last ten events
 
+- Created review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-17T08:22:21Z)
+- Created review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-17T08:21:10Z)
+- Created review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-17T08:21:09Z)
 - Created comment on issue/PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-16T17:14:22Z)
 - Closed pull request [#532](https://github.com/ScratchAddons/website-v2/issues/532) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-16T16:55:16Z)
 - Created comment on issue/PR [#532](https://github.com/ScratchAddons/website-v2/issues/532) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-16T16:55:15Z)
@@ -47,8 +50,6 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - Created comment on a review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-13T14:11:38Z)
 - Created review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-13T14:11:39Z)
 - Created comment on issue/PR [#38](https://github.com/Hans5958/Domino-English-Translation/issues/38) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2025-08-02T13:33:00Z)
-- Created branch `en-siivagunner` on [Hans5958/indie-wiki-buddy](https://github.com/Hans5958/indie-wiki-buddy) (2025-07-20T14:26:24Z)
-- Created comment on issue/PR [#29](https://github.com/Hans5958/mini-htmls/issues/29) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-07-19T15:12:21Z)
 
 ### Activity graph (beta)
 
@@ -56,12 +57,12 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-                                                                              ▄  
-                                                                      █       █  
-█▄ █                                   █                              █     █ █  
+                                                                              ▄ ▄
+                                                                      █       █ █
+█▄ █                                   █                              █    █  █ █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 19/07/2025          26/07/2025          02/08/2025          10/08/2025          Now
-10:07               15:07               20:08               02:08               
+10:07               15:07               21:08               02:08               
 ```
 
 ### lowlighter/metrics (beta)
@@ -70,7 +71,7 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 17/08/2025, 07:18:01 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 17/08/2025, 08:25:34 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
