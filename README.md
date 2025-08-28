@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,7 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten commits
 
+- [`066e746`](https://github.com/Hans5958/test-lists/commit/066e746e47aad00a1fdc9082527277fd675d8bc3) Revert removal of a listed gambling site ([Hans5958/test-lists](https://github.com/Hans5958/test-lists), [master](https://github.com/Hans5958/test-lists/tree/master))
 - [`32c8024`](https://github.com/Hans5958/test-lists/commit/32c80241d5c1420ee2bcd4c8e5828931e2b50f47) Remove usurped domains based on WP:JUDI ([Hans5958/test-lists](https://github.com/Hans5958/test-lists), [master](https://github.com/Hans5958/test-lists/tree/master))
 - [`cd81b16`](https://github.com/ScratchAddons/website-v2/commit/cd81b1632aff6ba928c19db0b11465e541f8d7e8) Add changelog ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 - [`6d6f369`](https://github.com/ScratchAddons/website-v2/commit/6d6f369ec09d58d4b7cee5fc022ba9bcac19d59d) Fix "sending a feedback" 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
@@ -57,11 +58,11 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 ```
                                                                                  
                                             ▄ ▄                                  
-                                   █        █ █           █    ▄              ▄  
-█                                  █     █  █ █          ▄█    █              █  
+                                  █         █ █           █    ▄              █  
+█                                 █      █  █ █          ▄█    █              █  
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 02/08/2025          08/08/2025          15/08/2025          21/08/2025          Now
-13:08               22:08               08:08               17:08               
+13:08               23:08               08:08               18:08               
 ```
 
 ### lowlighter/metrics (beta)
@@ -70,7 +71,7 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 28/08/2025, 03:01:44 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 28/08/2025, 04:22:39 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
