@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I will be online in a few hours or so.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,6 +27,7 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`32c8024`](https://github.com/Hans5958/test-lists/commit/32c80241d5c1420ee2bcd4c8e5828931e2b50f47) Remove usurped domains based on WP:JUDI ([Hans5958/test-lists](https://github.com/Hans5958/test-lists), [master](https://github.com/Hans5958/test-lists/tree/master))
 - [`cd81b16`](https://github.com/ScratchAddons/website-v2/commit/cd81b1632aff6ba928c19db0b11465e541f8d7e8) Add changelog ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 - [`6d6f369`](https://github.com/ScratchAddons/website-v2/commit/6d6f369ec09d58d4b7cee5fc022ba9bcac19d59d) Fix "sending a feedback" 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 - [`6f6fc37`](https://github.com/ScratchAddons/website-v2/commit/6f6fc37d69cbb7ab3aa77f68714b51e8de422c9e) Add description about list of enabled addons (not just in summary) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
@@ -38,6 +39,7 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten events
 
+- Opened pull request [#1999](https://github.com/citizenlab/test-lists/issues/1999) on [citizenlab/test-lists](https://github.com/citizenlab/test-lists) (2025-08-27T14:06:52Z)
 - Created comment on issue/PR [#30](https://github.com/Hans5958/mini-htmls/issues/30) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-08-22T16:08:29Z)
 - Created comment on issue/PR [#29](https://github.com/Hans5958/mini-htmls/issues/29) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-08-22T16:06:18Z)
 - Closed issue [#29](https://github.com/Hans5958/mini-htmls/issues/29) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-08-22T16:06:18Z)
@@ -47,7 +49,6 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 - Created review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-17T08:22:21Z)
 - Created review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-17T08:21:10Z)
 - Created review on PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-17T08:21:09Z)
-- Created comment on issue/PR [#326](https://github.com/ScratchAddons/website-v2/issues/326) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-08-16T17:14:22Z)
 
 ### Activity graph (beta)
 
@@ -56,11 +57,11 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 ```
                                                                                  
                                             ▄ ▄                                  
-                                   █        █ █            █   ▄                 
-█                                  █     █  █ █          ▄ █   █                 
+                                   █        █ █           █    ▄              ▄  
+█                                  █     █  █ █          ▄█    █              █  
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 02/08/2025          08/08/2025          15/08/2025          21/08/2025          Now
-13:08               22:08               07:08               16:08               
+13:08               22:08               08:08               17:08               
 ```
 
 ### lowlighter/metrics (beta)
@@ -69,7 +70,7 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 28/08/2025, 01:25:26 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 28/08/2025, 03:01:44 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
