@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I will be online in a few hours or so.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -35,8 +35,6 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`6d6f369`](https://github.com/ScratchAddons/website-v2/commit/6d6f369ec09d58d4b7cee5fc022ba9bcac19d59d) Fix "sending a feedback" 2 ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 - [`6f6fc37`](https://github.com/ScratchAddons/website-v2/commit/6f6fc37d69cbb7ab3aa77f68714b51e8de422c9e) Add description about list of enabled addons (not just in summary) ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 - [`bc6a4be`](https://github.com/ScratchAddons/website-v2/commit/bc6a4be187edf0d9f0b037df7cfe0fdb0c9a34e1) Set policy date ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
-- [`9c4c1bf`](https://github.com/ScratchAddons/website-v2/commit/9c4c1bf4c4073d29b949e532c9e141e473d48242) Adjust button holding on feedback to reduce duplicate sending ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`02bd6f9`](https://github.com/ScratchAddons/website-v2/commit/02bd6f92b1349cc81778a328c9e63b674b5b7753) Fix "sending a feedback" ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [privacy-policy](https://github.com/ScratchAddons/website-v2/tree/privacy-policy))
 
 ### Last ten events
 
@@ -57,12 +55,12 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-        ▄ ▄                                                                      
-█       █ █         █   ▄            █                 █                         
-█     █ █ █        ▄█   █            █                 █                      █  
+   ▄ ▄                                                                           
+   █ █          █   ▄            █                   █                           
+█  █ █        ▄ █   █            █                   █                       █   
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-13/08/2025          21/08/2025          28/08/2025          05/09/2025          Now
-14:08               04:08               19:08               10:09               
+15/08/2025          22/08/2025          29/08/2025          06/09/2025          Now
+17:08               19:08               21:08               00:09               
 ```
 
 ### lowlighter/metrics (beta)
@@ -71,7 +69,7 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 13/09/2025, 01:17:38 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 13/09/2025, 02:46:14 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
