@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -42,8 +42,6 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 - Closed pull request [#62](https://github.com/Hans5958/Black-MIDI-Meta/issues/62) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2025-09-03T13:27:17Z)
 - Closed pull request [#61](https://github.com/Hans5958/Black-MIDI-Meta/issues/61) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2025-09-03T13:27:10Z)
 - Opened pull request [#1999](https://github.com/citizenlab/test-lists/issues/1999) on [citizenlab/test-lists](https://github.com/citizenlab/test-lists) (2025-08-27T14:06:52Z)
-- Created comment on issue/PR [#30](https://github.com/Hans5958/mini-htmls/issues/30) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-08-22T16:08:29Z)
-- Created comment on issue/PR [#29](https://github.com/Hans5958/mini-htmls/issues/29) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-08-22T16:06:18Z)
 
 ### Activity graph (beta)
 
@@ -51,11 +49,11 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ```
                                                                                  
-▄            █                 █                            █                    
-█            █                 █                      █     █                    
+█                     █                                 █                        
+█                     █                          █      █                        
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-22/08/2025          30/08/2025          06/09/2025          14/09/2025          Now
-16:08               06:08               21:09               12:09               
+27/08/2025          02/09/2025          09/09/2025          15/09/2025          Now
+13:08               23:09               09:09               18:09               
 ```
 
 ### lowlighter/metrics (beta)
@@ -64,7 +62,7 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 22/09/2025, 03:06:41 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 22/09/2025, 04:22:16 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e8d4e1b`](https://github.com/Hans5958/Hans5958/commit/e8d4e1b9022be1042a1d4d7fff1e3acc28e073ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
