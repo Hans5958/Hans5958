@@ -19,7 +19,6 @@ module.exports = async () => {
 	const activityGraphLines = []
 	let mostEvents = 0
 
-	
 	// let response = JSON.parse(fs.readFileSync('data.json'))
 
 	let response = (await octokit.activity.listPublicEventsForUser({
@@ -34,9 +33,10 @@ module.exports = async () => {
 
 	// response = (await axios.get("https://api.github.com/users/Hans5958/events/public")).data
 
-	response.forEach(ghEvent => {
-		const repoLink = `https://github.com/${ghEvent.repo.name}`
-		const repoLinkMarkdown = `[${ghEvent.repo.name}](${repoLink})`
+	for (const ghEvent of response) {
+		const repo = ghEvent.repo
+		const repoLink = `https://github.com/${repo.name}`
+		const repoLinkMarkdown = `[${repo.name}](${repoLink})`
 		const payload = ghEvent.payload
 		const type = ghEvent.type
 		const timestamp = ghEvent.created_at
@@ -89,12 +89,16 @@ module.exports = async () => {
 				break;
 			case "PushEvent":
 				const branch = payload.ref.slice(11)
-				payload.commits.reverse().forEach(commit => {
-					if (commit.author.name === "Hans5958") {
-						const hash = commit.sha
-						commits.push(`[\`${hash.substr(0, 7)}\`](${repoLink}/commit/${hash}) ${commit['message'].split("\n")[0]} (${repoLinkMarkdown}, [${branch}](${repoLink}/tree/${branch}))`)
-					}
-				})
+				console.log(payload.head)
+				const commit = (await octokit.git.getCommit({
+					'owner': repo.name.split('/')[0],
+					'repo': repo.name.split('/')[1],
+					'commit_sha': payload.head
+				})).data
+				if (commit.author.name !== "Hans5958") {
+					const hash = payload.head
+					commits.push(`[\`${hash.substr(0, 7)}\`](${repoLink}/commit/${hash}) ${commit.message.split("\n")[0]} (${repoLinkMarkdown}, [${branch}](${repoLink}/tree/${branch}))`)
+				}
 				break;
 			case "ReleaseEvent":
 				events.push(`${capitalizeFirstLetter(payload.action)} version \`${payload.release.tag_name}\` on ${repoLinkMarkdown} (${timestamp})`)
@@ -107,7 +111,7 @@ module.exports = async () => {
 				events.push(`${type} on ${repoLinkMarkdown} (${timestamp})`)
 				break;
 		}
-	})
+	}
 
 	for (let i = 0; i < 81; i++) {
 		timelineSimplified[i] = 0
