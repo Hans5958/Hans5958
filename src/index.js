@@ -1,4 +1,4 @@
-const print = require("./print")
+import print from "./print.js"
 
 print()
 	.then(result => {

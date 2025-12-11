@@ -1,6 +1,7 @@
-const fs = require("fs")
+import fs from "fs"
+import { exec } from "child-process-promise"
 
-module.exports = async () => {
+export const getLastDevCommit = async () => {
 
 	let lastDevCommit
 
@@ -8,7 +9,7 @@ module.exports = async () => {
 		lastDevCommit = fs.readFileSync("last-dev-commit.txt", "utf8")
 
 	} else {
-		const result = await require('child-process-promise').exec("git rev-parse HEAD")
+		const result = await exec("git rev-parse HEAD")
 		const { stdout } = result
 		lastDevCommit = stdout
 		fs.writeFileSync("last-dev-commit.txt", lastDevCommit)
@@ -16,3 +17,5 @@ module.exports = async () => {
 
 	return lastDevCommit
 }
+
+export default getLastDevCommit

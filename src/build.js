@@ -1,8 +1,10 @@
-const print = require("./print")
-const fs = require("fs")
-const dayjs = require("dayjs")
-dayjs.extend(require('dayjs/plugin/utc'))
-const core = require('@actions/core')
+import print from "./print.js"
+import fs from "fs"
+import dayjs from "dayjs"
+import utc from "dayjs/plugin/utc.js"
+import core from '@actions/core'
+
+dayjs.extend(utc)
 
 print()
 	.then(result => {

@@ -1,13 +1,12 @@
-const fs = require("fs")
-// const axios = require("axios").default
-const dayjs = require("dayjs")
-const { Octokit } = require("@octokit/rest")
-const { timeEnd } = require("console")
-dayjs.extend(require('dayjs/plugin/utc'))
-dayjs.extend(require('dayjs/plugin/timezone'))
+import dayjs from "dayjs"
+import utc from "dayjs/plugin/utc.js"
+import timezone from "dayjs/plugin/timezone.js"
+import { Octokit } from "@octokit/rest"
 
+dayjs.extend(utc)
+dayjs.extend(timezone)
 
-module.exports = async () => {
+export const events = async () => {
 	const octokit = new Octokit({
 		auth: process.env.GITHUB_TOKEN
 	})
@@ -28,8 +27,8 @@ module.exports = async () => {
 	
 	// fs.writeFileSync('data.json', JSON.stringify(response))
 
-	currentDate = dayjs()
-	lastDate = dayjs(response[response.length - 1].created_at)
+	const currentDate = dayjs()
+	const lastDate = dayjs(response[response.length - 1].created_at)
 
 	// response = (await axios.get("https://api.github.com/users/Hans5958/events/public")).data
 
@@ -158,3 +157,5 @@ module.exports = async () => {
 
 	return {commits, events, activityGraphLines}
 }
+
+export default events

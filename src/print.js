@@ -1,10 +1,14 @@
-const fs = require("fs")
-// const axios = require("axios").default
-const dayjs = require("dayjs")
-dayjs.extend(require('dayjs/plugin/utc'))
-dayjs.extend(require('dayjs/plugin/timezone'))
+import fs from "fs"
+import dayjs from "dayjs"
+import utc from "dayjs/plugin/utc.js"
+import timezone from "dayjs/plugin/timezone.js"
+import getEvents from "./modules/events.js"
+import getLastDevCommit from "./modules/last-commit.js"
 
-module.exports = async () => {
+dayjs.extend(utc)
+dayjs.extend(timezone)
+
+export const print = async () => {
 
 	try {
 
@@ -55,7 +59,7 @@ module.exports = async () => {
 
 		// PART 2: RECENT ACTIVITY
 
-		const { commits, events, activityGraphLines } = await require("./modules/events")()
+		const { commits, events, activityGraphLines } = await getEvents()
 
 		commits.splice(0, 10).forEach(line => addLine("- " + line))
 		replace("{{last-commits}}", printLines())
@@ -67,7 +71,7 @@ module.exports = async () => {
 
 		// PART 3: LAST COMMIT
 
-		let lastDevCommit = await require('./modules/last-commit')()
+		let lastDevCommit = await getLastDevCommit()
 
 		replace("{{commit-hash}}", `[\`${lastDevCommit.substring(0, 7)}\`](https://github.com/Hans5958/Hans5958/commit/${lastDevCommit})`)
 
@@ -82,3 +86,5 @@ module.exports = async () => {
 	}
 
 }
+
+export default print
