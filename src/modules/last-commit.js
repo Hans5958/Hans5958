@@ -1,5 +1,5 @@
 import fs from "fs"
-import { exec } from "child-process-promise"
+import { exec } from "promisify-child-process"
 
 export const getLastDevCommit = async () => {
 
