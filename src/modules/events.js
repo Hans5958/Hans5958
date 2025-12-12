@@ -6,10 +6,13 @@ import { Octokit } from "@octokit/rest"
 dayjs.extend(utc)
 dayjs.extend(timezone)
 
+const capitalizeFirstLetter = string => string.charAt(0).toUpperCase() + string.slice(1)
+
+const octokit = new Octokit({
+	auth: process.env.GITHUB_TOKEN
+})
+
 export const events = async (commitAmount = -1) => {
-	const octokit = new Octokit({
-		auth: process.env.GITHUB_TOKEN
-	})
 
 	const commits = []
 	const events = []
@@ -30,8 +33,6 @@ export const events = async (commitAmount = -1) => {
 	const currentDate = dayjs()
 	const lastDate = dayjs(response[response.length - 1].created_at)
 
-	// response = (await axios.get("https://api.github.com/users/Hans5958/events/public")).data
-
 	for (const ghEvent of response) {
 		const repo = ghEvent.repo
 		const repoLink = `https://github.com/${repo.name}`
@@ -44,7 +45,6 @@ export const events = async (commitAmount = -1) => {
 		timeline.push((date - lastDate)/(currentDate - lastDate))
 		// console.log((date - lastDate)/(currentDate - lastDate))
 		let issueNumber, prNumber
-		const capitalizeFirstLetter = string => string.charAt(0).toUpperCase() + string.slice(1)
 
 		switch (type) {
 			case "CreateEvent":
@@ -89,14 +89,14 @@ export const events = async (commitAmount = -1) => {
 			case "PushEvent":
 				if (commitAmount === commits.length) break
 				const branch = payload.ref.slice(11)
+				const hash = payload.head
 				const commit = (await octokit.git.getCommit({
 					'owner': repo.name.split('/')[0],
 					'repo': repo.name.split('/')[1],
-					'commit_sha': payload.head
+					'commit_sha': hash
 				})).data
 				if (commit.author.name === "Hans5958") {
-					const hash = payload.head
-					commits.push(`[\`${hash.substr(0, 7)}\`](${repoLink}/commit/${hash}) ${commit.message.split("\n")[0]} (${repoLinkMarkdown}, [${branch}](${repoLink}/tree/${branch}))`)
+					commits.push(`[\`${hash.substr(0, 7)}\`](${repoLink}/commit/${hash}) ${commit?.message.split("\n")[0] || '*unknown message*'} (${repoLinkMarkdown}, [${branch}](${repoLink}/tree/${branch}))`)
 				}
 				break;
 			case "ReleaseEvent":
