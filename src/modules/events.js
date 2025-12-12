@@ -6,7 +6,7 @@ import { Octokit } from "@octokit/rest"
 dayjs.extend(utc)
 dayjs.extend(timezone)
 
-export const events = async () => {
+export const events = async (commitAmount = -1) => {
 	const octokit = new Octokit({
 		auth: process.env.GITHUB_TOKEN
 	})
@@ -87,6 +87,7 @@ export const events = async () => {
 				events.push(`Made repo ${repoLinkMarkdown} public (${timestamp})`)
 				break;
 			case "PushEvent":
+				if (commitAmount === commits.length) break
 				const branch = payload.ref.slice(11)
 				const commit = (await octokit.git.getCommit({
 					'owner': repo.name.split('/')[0],

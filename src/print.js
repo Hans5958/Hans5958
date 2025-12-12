@@ -59,7 +59,7 @@ export const print = async () => {
 
 		// PART 2: RECENT ACTIVITY
 
-		const { commits, events, activityGraphLines } = await getEvents()
+		const { commits, events, activityGraphLines } = await getEvents(10)
 
 		commits.splice(0, 10).forEach(line => addLine("- " + line))
 		replace("{{last-commits}}", printLines())
