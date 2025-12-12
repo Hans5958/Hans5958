@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,6 +27,7 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`9e1b056`](https://github.com/Hans5958/VocaDB-Wiki/commit/9e1b0569b1b94d9eea72f8dbe403f3b121a534b5) Use button design as the article footer ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout](https://github.com/Hans5958/VocaDB-Wiki/tree/layout))
 - [`e66a989`](https://github.com/Hans5958/Hans5958/commit/e66a9892cd9e68565c17e8127170e86cc41d75ce) Replace "child-process-promise" with "promisify-child-process" ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
 - [`1e5e187`](https://github.com/Hans5958/Hans5958/commit/1e5e187e0b5ff384341c004d4d59db78d20651fd) Some refactoring ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
 - [`675eb27`](https://github.com/Hans5958/Hans5958/commit/675eb27afdc51fa3ddf589295ac58291a7398b22) Update dependencies and use imports ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
@@ -36,10 +37,12 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`15b1bbf`](https://github.com/Hans5958/hans5958.github.io/commit/15b1bbf1eb4f6266fed8e62f8774ce887a3e78a5) Use blue instead of sky for anchor components ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`f0d18bd`](https://github.com/Hans5958/hans5958.github.io/commit/f0d18bd7996b23db9105b54f24dcb0ee59cca4a5) Update dependencies ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`a9825bf`](https://github.com/Hans5958/blog/commit/a9825bfbdd663374ea69b8750790253f33f48324) Update dependencies ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
-- [`d0eaac8`](https://github.com/Hans5958/mini-htmls/commit/d0eaac83912070e2649e988ca7fc7f19f42de826) Add target=_blank for external footer links ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 
 ### Last ten events
 
+- Created comment on issue/PR [#66](https://github.com/VocaDB/Wiki/issues/66) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-12T15:16:40Z)
+- Created review on PR [#66](https://github.com/VocaDB/Wiki/issues/66) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-12T15:14:29Z)
+- Created comment on a review on PR [#66](https://github.com/VocaDB/Wiki/issues/66) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-12T15:14:28Z)
 - Created comment on issue/PR [#25](https://github.com/Hans5958/Hans5958/issues/25) on [Hans5958/Hans5958](https://github.com/Hans5958/Hans5958) (2025-12-12T05:33:33Z)
 - Created comment on issue/PR [#26](https://github.com/Hans5958/Hans5958/issues/26) on [Hans5958/Hans5958](https://github.com/Hans5958/Hans5958) (2025-12-12T05:33:30Z)
 - Closed issue [#24](https://github.com/Hans5958/mini-htmls/issues/24) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-12-11T13:52:08Z)
@@ -47,9 +50,6 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - Created comment on a review on PR [#66](https://github.com/VocaDB/Wiki/issues/66) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-11T06:32:32Z)
 - Reopened issue [#24](https://github.com/Hans5958/mini-htmls/issues/24) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-12-11T06:14:24Z)
 - Created comment on issue/PR [#24](https://github.com/Hans5958/mini-htmls/issues/24) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-12-11T06:14:22Z)
-- Closed issue [#35](https://github.com/Hans5958/mini-htmls/issues/35) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-12-11T06:13:28Z)
-- Created comment on issue/PR [#35](https://github.com/Hans5958/mini-htmls/issues/35) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-12-11T06:13:26Z)
-- Created comment on issue/PR [#35](https://github.com/Hans5958/mini-htmls/issues/35) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-12-10T22:39:52Z)
 
 ### Activity graph (beta)
 
@@ -57,17 +57,17 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-              █                                                            █     
-              █                                                            █     
+                                                                           █     
+                                                                           █     
               █                                                        █   █     
-   █          █                                                        █   █     
-   █          █                                                        █   █▄█   
+   █          █                                                        █   █▄▄   
+   █          █                                                        █   ███   
    ██         █                    ▄                                   █   ███   
-█  ██         █                    █                █                  █   ███▄█ 
-█  ██         █  █        ▄        █                █             ▄    █   █████ 
+   ██        ██                    █                █                  █   ███ ██
+▄  ██        ██  █        ▄        █                █            ▄     █   ███ ██
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 13/11/2025          20/11/2025          28/11/2025          05/12/2025          Now
-15:11               21:11               02:11               08:12               
+16:11               21:11               03:11               09:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -76,7 +76,7 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 12/12/2025, 14:19:33 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 12/12/2025, 15:24:22 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e66a989`](https://github.com/Hans5958/Hans5958/commit/e66a9892cd9e68565c17e8127170e86cc41d75ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
