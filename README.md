@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -40,6 +40,9 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten events
 
+- Created review on PR [#66](https://github.com/VocaDB/Wiki/issues/66) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-13T06:29:10Z)
+- Created comment on a review on PR [#66](https://github.com/VocaDB/Wiki/issues/66) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-13T06:29:08Z)
+- Created branch `article-footer` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-13T05:55:22Z)
 - Created review on PR [#66](https://github.com/VocaDB/Wiki/issues/66) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-13T04:00:39Z)
 - Created comment on a review on PR [#66](https://github.com/VocaDB/Wiki/issues/66) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-13T04:00:38Z)
 - Created comment on issue/PR [#66](https://github.com/VocaDB/Wiki/issues/66) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-12T15:16:40Z)
@@ -47,9 +50,6 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 - Created comment on a review on PR [#66](https://github.com/VocaDB/Wiki/issues/66) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-12T15:14:28Z)
 - Created comment on issue/PR [#25](https://github.com/Hans5958/Hans5958/issues/25) on [Hans5958/Hans5958](https://github.com/Hans5958/Hans5958) (2025-12-12T05:33:33Z)
 - Created comment on issue/PR [#26](https://github.com/Hans5958/Hans5958/issues/26) on [Hans5958/Hans5958](https://github.com/Hans5958/Hans5958) (2025-12-12T05:33:30Z)
-- Closed issue [#24](https://github.com/Hans5958/mini-htmls/issues/24) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2025-12-11T13:52:08Z)
-- Created review on PR [#66](https://github.com/VocaDB/Wiki/issues/66) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-11T06:32:33Z)
-- Created comment on a review on PR [#66](https://github.com/VocaDB/Wiki/issues/66) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-11T06:32:32Z)
 
 ### Activity graph (beta)
 
@@ -57,17 +57,17 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ```
                                                                                  
-           █                                                             ▄       
+           █                                                             █       
            █                                                             █       
            █                                                         █   █       
            █                                                         █   █       
-▄          █                                                         █   █ ▄▄    
-██         █                    ▄                                    █   █▄██    
-██         █                    █                 █                  █   ██████ █
-██         █  █        ▄        █                 █             ▄    █   ██████ █
+           █                                                         █   █▄     ▄
+ █         █                    ▄                                    █   ███▄   █
+██         █                    █                █                   █   ██████ █
+██         █  █        ▄        █                █             ▄     █   ██████ █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 14/11/2025          21/11/2025          28/11/2025          06/12/2025          Now
-17:11               20:11               23:11               02:12               
+17:11               20:11               23:11               03:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -76,7 +76,7 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 13/12/2025, 05:20:31 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 13/12/2025, 06:30:41 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e66a989`](https://github.com/Hans5958/Hans5958/commit/e66a9892cd9e68565c17e8127170e86cc41d75ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
