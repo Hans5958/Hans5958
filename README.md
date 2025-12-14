@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,7 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ### Last ten commits
 
+- [`0efe243`](https://github.com/Hans5958/mini-htmls/commit/0efe243c32e3f50d4702a917b7b494fc9a85a9b5) PreMiD Presence Stats: Fix 0 users from upstream change ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`dd2cb8f`](https://github.com/Hans5958/VocaDB-Wiki/commit/dd2cb8fa0dc5630452db496d797a182e812b7b57) Clarify official translation rule again ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout](https://github.com/Hans5958/VocaDB-Wiki/tree/layout))
 - [`d919fea`](https://github.com/Hans5958/VocaDB-Wiki/commit/d919fea62ae4a1a435191437bdb25ec5e0f642e0) Use BoxGroup directly ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout](https://github.com/Hans5958/VocaDB-Wiki/tree/layout))
 - [`3033b68`](https://github.com/Hans5958/VocaDB-Wiki/commit/3033b68249e454b6971e0affd69f171b00d54b7b) Remove article footer to be spin off later ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout](https://github.com/Hans5958/VocaDB-Wiki/tree/layout))
@@ -36,7 +37,6 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 - [`675eb27`](https://github.com/Hans5958/Hans5958/commit/675eb27afdc51fa3ddf589295ac58291a7398b22) Update dependencies and use imports ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
 - [`c6bebf6`](https://github.com/Hans5958/Hans5958/commit/c6bebf6ed3b2d3768cc7757da09f5f726de78d58) Fix commit info missing from event 2 ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
 - [`28e4055`](https://github.com/Hans5958/Hans5958/commit/28e40551b67f7b5b2f522681fda13306a1bcd532) Remove unused script commands ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
-- [`7d3140c`](https://github.com/Hans5958/blog/commit/7d3140c9240902f84b2518f9dfc9dcc7013edb5f) Use blue instead of sky for anchor components ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
 
 ### Last ten events
 
@@ -58,16 +58,16 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 ```
                                                                                  
                                                                     ▄            
-▄                                                                   █            
-█                                                               █   █        ▄   
-█                                                               █   █ ▄▄     █   
+                                                                    █            
+█                                                               █   █ ▄      ▄   
+█                                                               █   █ █      █   
+█                                                               █   █ █▄     █   
 █                                                               █   █ ██     █   
-█                       ▄                                       █   █ ██    ▄█   
-█                       █                 █                     █   █ ██ ██▄██   
-█▄  █         ▄         █                 █               ▄     █   █▄██ █████   
+█                       ▄                 █                     █   █ ██▄ ████   
+█▄  █         ▄        ██                 █               ▄     █   █▄███▄████  ▄
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 18/11/2025          25/11/2025          01/12/2025          08/12/2025          Now
-13:11               01:11               14:12               02:12               
+13:11               02:11               14:12               03:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -76,7 +76,7 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 </details>
 
-*Last updated: 14/12/2025, 15:18:55 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 14/12/2025, 16:23:59 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e66a989`](https://github.com/Hans5958/Hans5958/commit/e66a9892cd9e68565c17e8127170e86cc41d75ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
