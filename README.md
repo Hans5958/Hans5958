@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,8 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten commits
 
+- [`9f9e0ac`](https://github.com/Hans5958/VocaDB-Wiki/commit/9f9e0acf4665b537a1b0bbf97856a7f8385ee376) Clarify (and expand) fully loanword names rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/fully-loanword-names](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/fully-loanword-names))
+- [`f350e7a`](https://github.com/Hans5958/VocaDB-Wiki/commit/f350e7ab6c847c163ae5378c7e771b894d1a6544) Fix capitalization of "AI-assisted" ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [typo](https://github.com/Hans5958/VocaDB-Wiki/tree/typo))
 - [`29875c5`](https://github.com/Hans5958/VocaDB-Wiki/commit/29875c510721d46ff03ae4acaa3c6880e12de284) Add mention of Cloudflare as a middleman ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-2](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-2))
 - [`f75d3c4`](https://github.com/Hans5958/VocaDB-Wiki/commit/f75d3c4f5d25fcb66e731721d81b5fde7e6154bb) Update SSL domain ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-2](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-2))
 - [`376b440`](https://github.com/Hans5958/VocaDB-Wiki/commit/376b440ba1f96113ad0400e08df0bdcb594aed22) Fix issues after formatting ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [article-footer](https://github.com/Hans5958/VocaDB-Wiki/tree/article-footer))
@@ -35,11 +37,11 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 - [`0efe243`](https://github.com/Hans5958/mini-htmls/commit/0efe243c32e3f50d4702a917b7b494fc9a85a9b5) PreMiD Presence Stats: Fix 0 users from upstream change ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`dd2cb8f`](https://github.com/Hans5958/VocaDB-Wiki/commit/dd2cb8fa0dc5630452db496d797a182e812b7b57) Clarify official translation rule again ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout](https://github.com/Hans5958/VocaDB-Wiki/tree/layout))
 - [`d919fea`](https://github.com/Hans5958/VocaDB-Wiki/commit/d919fea62ae4a1a435191437bdb25ec5e0f642e0) Use BoxGroup directly ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout](https://github.com/Hans5958/VocaDB-Wiki/tree/layout))
-- [`3033b68`](https://github.com/Hans5958/VocaDB-Wiki/commit/3033b68249e454b6971e0affd69f171b00d54b7b) Remove article footer to be spin off later ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout](https://github.com/Hans5958/VocaDB-Wiki/tree/layout))
-- [`9e1b056`](https://github.com/Hans5958/VocaDB-Wiki/commit/9e1b0569b1b94d9eea72f8dbe403f3b121a534b5) Use button design as the article footer ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout](https://github.com/Hans5958/VocaDB-Wiki/tree/layout))
 
 ### Last ten events
 
+- Opened pull request [#72](https://github.com/VocaDB/Wiki/issues/72) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-16T04:29:40Z)
+- Created branch `clarifications/fully-loanword-names` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T04:27:07Z)
 - Deleted branch `layout` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T03:16:59Z)
 - Deleted branch `rule-embed-el` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T03:16:56Z)
 - Deleted branch `patch-1` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T03:16:33Z)
@@ -48,8 +50,6 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 - Created comment on a review on PR [#65](https://github.com/VocaDB/Wiki/issues/65) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-16T03:15:29Z)
 - Opened pull request [#71](https://github.com/VocaDB/Wiki/issues/71) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-16T03:09:36Z)
 - Created branch `no-visited-links` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T03:07:11Z)
-- Opened pull request [#70](https://github.com/VocaDB/Wiki/issues/70) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-16T03:06:16Z)
-- Created branch `typo` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T03:05:26Z)
 
 ### Activity graph (beta)
 
@@ -58,17 +58,19 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 ```
                                                                                  
                                                                                 ▄
-                                                          ▄                     █
-                                                          █                     █
-                                                     █    █           ▄         █
-                                                     █    █   ▄       █         █
-                                                     █    █ ▄ █     █ █         █
-                                                     █    █ █ █     █ █         █
-                         █                           █    █ █ █ █ █ █ █         █
-█                        █                   ▄       █    █▄███ █ █ █ █   ▄   ▄▄█
+                                                                                █
+                                                                                █
+                                                ▄                               █
+                                                █                               █
+                                                █                ▄              █
+                                         █      █                █              █
+                                         █      █     ▄          █              █
+                                         █      █   ▄ █        ▄ █              █
+                                         █      █  ██ █  █ █  ▄█ █              █
+█                            ▄          ██      █ ▄████  █ █  ██ █     ▄     ▄ ▄█
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-26/11/2025          01/12/2025          06/12/2025          11/12/2025          Now
-06:11               05:12               04:12               04:12               
+02/12/2025          05/12/2025          09/12/2025          12/12/2025          Now
+09:12               19:12               06:12               17:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -77,7 +79,7 @@ FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 16/12/2025, 03:24:26 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 16/12/2025, 04:35:17 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e66a989`](https://github.com/Hans5958/Hans5958/commit/e66a9892cd9e68565c17e8127170e86cc41d75ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
