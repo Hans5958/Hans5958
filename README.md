@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I will be online in a few hours or so.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **10:xx** (**10am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,29 +27,29 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`29875c5`](https://github.com/Hans5958/VocaDB-Wiki/commit/29875c510721d46ff03ae4acaa3c6880e12de284) Add mention of Cloudflare as a middleman ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-2](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-2))
+- [`f75d3c4`](https://github.com/Hans5958/VocaDB-Wiki/commit/f75d3c4f5d25fcb66e731721d81b5fde7e6154bb) Update SSL domain ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-2](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-2))
+- [`376b440`](https://github.com/Hans5958/VocaDB-Wiki/commit/376b440ba1f96113ad0400e08df0bdcb594aed22) Fix issues after formatting ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [article-footer](https://github.com/Hans5958/VocaDB-Wiki/tree/article-footer))
+- [`b234d3b`](https://github.com/Hans5958/VocaDB-Wiki/commit/b234d3bd965cbd0e06247e15dde49acb9f0359ac) Use design similar to page footer ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [article-footer](https://github.com/Hans5958/VocaDB-Wiki/tree/article-footer))
+- [`04cc656`](https://github.com/Hans5958/VocaDB-Wiki/commit/04cc656a5972bd9642b95e2218106604d53a7328) Use design similar to page footer ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [article-footer](https://github.com/Hans5958/VocaDB-Wiki/tree/article-footer))
 - [`0efe243`](https://github.com/Hans5958/mini-htmls/commit/0efe243c32e3f50d4702a917b7b494fc9a85a9b5) PreMiD Presence Stats: Fix 0 users from upstream change ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`dd2cb8f`](https://github.com/Hans5958/VocaDB-Wiki/commit/dd2cb8fa0dc5630452db496d797a182e812b7b57) Clarify official translation rule again ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout](https://github.com/Hans5958/VocaDB-Wiki/tree/layout))
 - [`d919fea`](https://github.com/Hans5958/VocaDB-Wiki/commit/d919fea62ae4a1a435191437bdb25ec5e0f642e0) Use BoxGroup directly ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout](https://github.com/Hans5958/VocaDB-Wiki/tree/layout))
 - [`3033b68`](https://github.com/Hans5958/VocaDB-Wiki/commit/3033b68249e454b6971e0affd69f171b00d54b7b) Remove article footer to be spin off later ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout](https://github.com/Hans5958/VocaDB-Wiki/tree/layout))
 - [`9e1b056`](https://github.com/Hans5958/VocaDB-Wiki/commit/9e1b0569b1b94d9eea72f8dbe403f3b121a534b5) Use button design as the article footer ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout](https://github.com/Hans5958/VocaDB-Wiki/tree/layout))
-- [`e66a989`](https://github.com/Hans5958/Hans5958/commit/e66a9892cd9e68565c17e8127170e86cc41d75ce) Replace "child-process-promise" with "promisify-child-process" ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
-- [`1e5e187`](https://github.com/Hans5958/Hans5958/commit/1e5e187e0b5ff384341c004d4d59db78d20651fd) Some refactoring ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
-- [`675eb27`](https://github.com/Hans5958/Hans5958/commit/675eb27afdc51fa3ddf589295ac58291a7398b22) Update dependencies and use imports ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
-- [`c6bebf6`](https://github.com/Hans5958/Hans5958/commit/c6bebf6ed3b2d3768cc7757da09f5f726de78d58) Fix commit info missing from event 2 ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
-- [`28e4055`](https://github.com/Hans5958/Hans5958/commit/28e40551b67f7b5b2f522681fda13306a1bcd532) Remove unused script commands ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
 
 ### Last ten events
 
-- Merged pull request [#66](https://github.com/VocaDB/Wiki/issues/66) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-15T22:43:22Z)
-- Labeled issue [#548](https://github.com/ScratchAddons/website-v2/issues/548) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-12-13T16:15:34Z)
-- Labeled issue [#542](https://github.com/ScratchAddons/website-v2/issues/542) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-12-13T16:15:25Z)
-- Unlabeled issue [#544](https://github.com/ScratchAddons/website-v2/issues/544) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-12-13T16:14:11Z)
-- Labeled issue [#544](https://github.com/ScratchAddons/website-v2/issues/544) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-12-13T16:14:11Z)
-- Labeled issue [#544](https://github.com/ScratchAddons/website-v2/issues/544) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-12-13T16:14:11Z)
-- Created comment on issue/PR [#544](https://github.com/ScratchAddons/website-v2/issues/544) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-12-13T16:12:49Z)
-- Labeled issue [#548](https://github.com/ScratchAddons/website-v2/issues/548) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-12-13T16:08:57Z)
-- Labeled issue [#548](https://github.com/ScratchAddons/website-v2/issues/548) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-12-13T16:08:57Z)
-- Created comment on issue/PR [#555](https://github.com/ScratchAddons/website-v2/issues/555) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2025-12-13T16:07:54Z)
+- Deleted branch `layout` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T03:16:59Z)
+- Deleted branch `rule-embed-el` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T03:16:56Z)
+- Deleted branch `patch-1` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T03:16:33Z)
+- Deleted branch `dev-docs` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T03:16:32Z)
+- Created review on PR [#65](https://github.com/VocaDB/Wiki/issues/65) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-16T03:15:31Z)
+- Created comment on a review on PR [#65](https://github.com/VocaDB/Wiki/issues/65) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-16T03:15:29Z)
+- Opened pull request [#71](https://github.com/VocaDB/Wiki/issues/71) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-16T03:09:36Z)
+- Created branch `no-visited-links` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T03:07:11Z)
+- Opened pull request [#70](https://github.com/VocaDB/Wiki/issues/70) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-16T03:06:16Z)
+- Created branch `typo` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T03:05:26Z)
 
 ### Activity graph (beta)
 
@@ -57,16 +57,18 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-                                                                ▄                
-▄                                                               █        ▄       
-█                                                            █  █ ▄▄     █       
-█                                                            █  █ ██    ██       
-█                     ▄                                      █  █ ██    ██       
-█                     █                 █                    █  █▄██ ██ ██       
-█  █         ▄        █                 █              ▄    ██  ████ ██ ██  ▄  ▄▄
+                                                                                ▄
+                                                          ▄                     █
+                                                          █                     █
+                                                     █    █           ▄         █
+                                                     █    █   ▄       █         █
+                                                     █    █ ▄ █     █ █         █
+                                                     █    █ █ █     █ █         █
+                         █                           █    █ █ █ █ █ █ █         █
+█                        █                   ▄       █    █▄███ █ █ █ █   ▄   ▄▄█
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-18/11/2025          25/11/2025          02/12/2025          09/12/2025          Now
-14:11               11:11               07:12               04:12               
+26/11/2025          01/12/2025          06/12/2025          11/12/2025          Now
+06:11               05:12               04:12               04:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -75,7 +77,7 @@ FYI: It is **08:xx** (**8am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 16/12/2025, 01:45:03 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 16/12/2025, 03:24:26 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e66a989`](https://github.com/Hans5958/Hans5958/commit/e66a9892cd9e68565c17e8127170e86cc41d75ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
