@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -40,6 +40,7 @@ FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ### Last ten events
 
+- Opened pull request [#73](https://github.com/VocaDB/Wiki/issues/73) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-17T17:24:58Z)
 - Created branch `link-card` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-17T17:20:14Z)
 - Opened pull request [#72](https://github.com/VocaDB/Wiki/issues/72) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-16T04:29:40Z)
 - Created branch `clarifications/fully-loanword-names` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T04:27:07Z)
@@ -49,7 +50,6 @@ FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://i
 - Deleted branch `dev-docs` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T03:16:32Z)
 - Created review on PR [#65](https://github.com/VocaDB/Wiki/issues/65) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-16T03:15:31Z)
 - Created comment on a review on PR [#65](https://github.com/VocaDB/Wiki/issues/65) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-16T03:15:29Z)
-- Opened pull request [#71](https://github.com/VocaDB/Wiki/issues/71) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-16T03:09:36Z)
 
 ### Activity graph (beta)
 
@@ -57,20 +57,18 @@ FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ```
                                                                                  
-                                                                    ▄            
-                                                                    █            
-                                                                    █            
-                          ▄                                         █            
-                          █                                         █            
-                          █                      ▄                  █            
-                █         █                      █                  █            
-                █         █   ▄                  █                  █            
-                █         █   █  █           ▄   █                  █            
-                █         █   █  █▄   █  █   █▄  █                  █            
-▄              ██         █ ▄ ██ ██   █  █   ██  █      ▄       ▄ ▄ █        ▄  ▄
+                                                                ▄                
+             ▄                                                  █                
+             █                                                  █                
+             █                           ▄                      █                
+ █           █                           █                      █                
+ █           █    ▄                      █                      █                
+ █           █    █   █                  █                      █                
+ █           █    █   █    ▄   █    ██   █                      ██               
+██           █ ▄  ██ ██▄   █▄  █    ██   █         ▄        ▄  ▄██          ▄   █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-07/12/2025          09/12/2025          12/12/2025          15/12/2025          Now
-08:12               22:12               12:12               03:12               
+09/12/2025          11/12/2025          13/12/2025          15/12/2025          Now
+08:12               10:12               13:12               15:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -79,7 +77,7 @@ FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://i
 
 </details>
 
-*Last updated: 17/12/2025, 17:23:07 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 17/12/2025, 18:33:31 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e66a989`](https://github.com/Hans5958/Hans5958/commit/e66a9892cd9e68565c17e8127170e86cc41d75ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
