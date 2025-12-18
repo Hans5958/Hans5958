@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,7 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`9a6e708`](https://github.com/Hans5958/VocaDB-Wiki/commit/9a6e70864235e8e0bfae38a057c07acad4800c79) Adjust grid column break ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [link-card](https://github.com/Hans5958/VocaDB-Wiki/tree/link-card))
 - [`003992a`](https://github.com/Hans5958/VocaDB-Wiki/commit/003992aaf9b288f9b26476551abd1a77eb2a8cb6) Run formatter ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [typo](https://github.com/Hans5958/VocaDB-Wiki/tree/typo))
 - [`003992a`](https://github.com/Hans5958/VocaDB-Wiki/commit/003992aaf9b288f9b26476551abd1a77eb2a8cb6) Run formatter ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [docs/typo](https://github.com/Hans5958/VocaDB-Wiki/tree/docs/typo))
 - [`782d674`](https://github.com/Hans5958/VocaDB-Wiki/commit/782d674f560e54b4369701c1db7983d8a4fff4b3) Fix formatting errors ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/format-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/format-ci))
@@ -36,7 +37,6 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`4b5545c`](https://github.com/Hans5958/VocaDB-Wiki/commit/4b5545c3fb105e54738c1bd954256766c09a0800) Grammar fixes ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/fully-loanword-names](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/fully-loanword-names))
 - [`191eb4c`](https://github.com/Hans5958/VocaDB-Wiki/commit/191eb4c2f0d88d059a68fd3c409245c2f42406db) Clarify index link some more ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [link-card](https://github.com/Hans5958/VocaDB-Wiki/tree/link-card))
 - [`b01149c`](https://github.com/Hans5958/VocaDB-Wiki/commit/b01149cbc367f2f22e2d43d7a810afadd7159d99) Add mention of Cloudflare as a middleman ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-2](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-2))
-- [`9f9e0ac`](https://github.com/Hans5958/VocaDB-Wiki/commit/9f9e0acf4665b537a1b0bbf97856a7f8385ee376) Clarify (and expand) fully loanword names rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/fully-loanword-names](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/fully-loanword-names))
 
 ### Last ten events
 
@@ -57,18 +57,18 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-                                                         ▄                       
                                                          █                       
-                                                         █                       
-▄                              ▄                         █                     █ 
+                                                         █                     █ 
+                                                         █                     █ 
+                               ▄                         █                     █ 
 █                              █                         █                     █ 
 █     ▄                        █                         █                     █ 
-█     █   ▄                    █                         █                     █ 
-█     █   █     █   █     ██   █                         ██                    ██
-█ ▄   ██ ███    █   █     ██   █          ▄         ▄  ▄ ██            ▄  █    ██
+█     █   █                    █                         █                     █ 
+█     █   █     █   █     ██   █                         █▄                    █ 
+█ ▄   ██ ██▄    █   █     ██   █          ▄         ▄  ▄ ██           ▄   █    █▄
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 10/12/2025          12/12/2025          14/12/2025          16/12/2025          Now
-17:12               14:12               11:12               09:12               
+17:12               14:12               12:12               09:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -77,7 +77,7 @@ FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 18/12/2025, 06:34:15 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 18/12/2025, 07:22:09 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e66a989`](https://github.com/Hans5958/Hans5958/commit/e66a9892cd9e68565c17e8127170e86cc41d75ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
