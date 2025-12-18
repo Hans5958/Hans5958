@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,9 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten commits
 
+- [`782d674`](https://github.com/Hans5958/VocaDB-Wiki/commit/782d674f560e54b4369701c1db7983d8a4fff4b3) Fix formatting errors ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/format-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/format-ci))
+- [`fd786f0`](https://github.com/Hans5958/VocaDB-Wiki/commit/fd786f0e80978e36234a37cd890d2d8e512c5bfb) Fix formatting errors ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/format-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/format-ci))
+- [`3a37794`](https://github.com/Hans5958/VocaDB-Wiki/commit/3a37794db0d269cdb6d95b04d146892b6e7b8a81) Add workflow to check code formatting ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/format-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/format-ci))
 - [`a88c264`](https://github.com/Hans5958/VocaDB-Wiki/commit/a88c264069d202eaf420e73b793e4b095ee073b2) Run formatter ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [link-card](https://github.com/Hans5958/VocaDB-Wiki/tree/link-card))
 - [`4b5545c`](https://github.com/Hans5958/VocaDB-Wiki/commit/4b5545c3fb105e54738c1bd954256766c09a0800) Grammar fixes ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/fully-loanword-names](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/fully-loanword-names))
 - [`191eb4c`](https://github.com/Hans5958/VocaDB-Wiki/commit/191eb4c2f0d88d059a68fd3c409245c2f42406db) Clarify index link some more ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [link-card](https://github.com/Hans5958/VocaDB-Wiki/tree/link-card))
@@ -34,12 +37,11 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 - [`9f9e0ac`](https://github.com/Hans5958/VocaDB-Wiki/commit/9f9e0acf4665b537a1b0bbf97856a7f8385ee376) Clarify (and expand) fully loanword names rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/fully-loanword-names](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/fully-loanword-names))
 - [`f350e7a`](https://github.com/Hans5958/VocaDB-Wiki/commit/f350e7ab6c847c163ae5378c7e771b894d1a6544) Fix capitalization of "AI-assisted" ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [typo](https://github.com/Hans5958/VocaDB-Wiki/tree/typo))
 - [`29875c5`](https://github.com/Hans5958/VocaDB-Wiki/commit/29875c510721d46ff03ae4acaa3c6880e12de284) Add mention of Cloudflare as a middleman ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-2](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-2))
-- [`f75d3c4`](https://github.com/Hans5958/VocaDB-Wiki/commit/f75d3c4f5d25fcb66e731721d81b5fde7e6154bb) Update SSL domain ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-2](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-2))
-- [`376b440`](https://github.com/Hans5958/VocaDB-Wiki/commit/376b440ba1f96113ad0400e08df0bdcb594aed22) Fix issues after formatting ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [article-footer](https://github.com/Hans5958/VocaDB-Wiki/tree/article-footer))
-- [`b234d3b`](https://github.com/Hans5958/VocaDB-Wiki/commit/b234d3bd965cbd0e06247e15dde49acb9f0359ac) Use design similar to page footer ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [article-footer](https://github.com/Hans5958/VocaDB-Wiki/tree/article-footer))
 
 ### Last ten events
 
+- Opened pull request [#75](https://github.com/VocaDB/Wiki/issues/75) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-18T04:36:18Z)
+- Deleted branch `layout/link-card` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-18T04:35:09Z)
 - Created branch `layout/format-ci` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-18T04:32:20Z)
 - Created branch `layout/link-card` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-18T04:23:57Z)
 - Opened pull request [#74](https://github.com/VocaDB/Wiki/issues/74) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-18T04:17:49Z)
@@ -48,8 +50,6 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 - Created branch `link-card` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-17T17:20:14Z)
 - Opened pull request [#72](https://github.com/VocaDB/Wiki/issues/72) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-16T04:29:40Z)
 - Created branch `clarifications/fully-loanword-names` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T04:27:07Z)
-- Deleted branch `layout` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T03:16:59Z)
-- Deleted branch `rule-embed-el` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-16T03:16:56Z)
 
 ### Activity graph (beta)
 
@@ -57,18 +57,20 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ```
                                                                                  
-                                                             █                   
-                                                             █                   
-                                                             █                   
-                                       ▄                     █                   
-                                       █                     █                   
-           █▄                          █                     █                  ▄
-▄          ██    ▄                     █                     █                  █
-█          ██   ██  █▄   █   █    ██   █                     █▄                 █
-█          ██ ▄ ██ ███   █   █    ██   █        ▄        ▄ ▄ ██          ▄  █   █
+                                                          ▄                      
+                                                          █                      
+                                                          █                      
+                                                          █                      
+█                                                         █                      
+█                               ▄                         █                     ▄
+█                               █                         █                     █
+█     ▄                         █                         █                     █
+█     █                         █                         █                     █
+█     █   █▄    █    █    ██    █                         █                     █
+█▄ ▄  ██ ███    █    █    ██    █         ▄         ▄   ▄ █            ▄   █   ▄█
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-09/12/2025          11/12/2025          13/12/2025          16/12/2025          Now
-11:12               15:12               19:12               00:12               
+10/12/2025          12/12/2025          14/12/2025          16/12/2025          Now
+16:12               13:12               11:12               08:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -77,7 +79,7 @@ FYI: It is **11:xx** (**11am**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 18/12/2025, 04:33:56 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 18/12/2025, 05:22:38 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e66a989`](https://github.com/Hans5958/Hans5958/commit/e66a9892cd9e68565c17e8127170e86cc41d75ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
