@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,6 +27,8 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`9f0f872`](https://github.com/Hans5958/VocaDB-Wiki/commit/9f0f872a362864d5e898c40b7d74be884099dd62) Add mention of clearing cookies when site doesn't work ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/faq](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/faq))
+- [`ec33106`](https://github.com/Hans5958/VocaDB-Wiki/commit/ec331067cdb14633d278a9d946f4d1d76b6d602d) Fix typo on "No name duplication" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarification/no-name-duplication](https://github.com/Hans5958/VocaDB-Wiki/tree/clarification/no-name-duplication))
 - [`ddedd2a`](https://github.com/Hans5958/VocaDB-Wiki/commit/ddedd2a80cfcd23eeef4f31ba6bd43ddbcd93025) Adjust "No name duplication" a bit to make it more clearer ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarification/no-name-duplication](https://github.com/Hans5958/VocaDB-Wiki/tree/clarification/no-name-duplication))
 - [`08def99`](https://github.com/Hans5958/VocaDB-Wiki/commit/08def99f57440ccab189649cfd1093c5fddcadcf) Clarify "Loanword romanization" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarification/no-name-duplication](https://github.com/Hans5958/VocaDB-Wiki/tree/clarification/no-name-duplication))
 - [`ac756cc`](https://github.com/Hans5958/VocaDB-Wiki/commit/ac756cc00c4702b9c42c5e6ecd4e87dbea222a6e) Clarify "No AI-generated songs" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/no-ai-generated-songs](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/no-ai-generated-songs))
@@ -35,8 +37,6 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`1f35355`](https://github.com/Hans5958/VocaDB-Wiki/commit/1f3535522792104980d8b9aaabda80aa3aa53543) Add question about content removal ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/faq](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/faq))
 - [`b7a0631`](https://github.com/Hans5958/VocaDB-Wiki/commit/b7a0631dc4bbed039533102589e2673586f7b675) Add direct links to song types ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/song-type-priority](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/song-type-priority))
 - [`b1eb844`](https://github.com/Hans5958/VocaDB-Wiki/commit/b1eb84452169e5daa6c5b47f7d617b495001fdf7) Clarify "Song type priority" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/song-type-priority](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/song-type-priority))
-- [`c65569b`](https://github.com/Hans5958/VocaDB-Wiki/commit/c65569b139938c4e44ce2a16ca843e875fc2a91a) Start clarifying "Song type priority" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/song-type-priority](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/song-type-priority))
-- [`6354906`](https://github.com/Hans5958/VocaDB-Wiki/commit/63549062eb3b7d5a9e830577a719a844fc36c576) Clarify rules and docs related to PV type/classification (2) ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/pv-classification](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/pv-classification))
 
 ### Last ten events
 
@@ -57,18 +57,20 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
+               ▄                                                                 
+               █                                                                 
                █            ▄                                                    
                █            █                                                    
-               █            █                                                    
-               █            █                                                   █
-▄              █            █                                                   █
-█              █            █         █                                         █
-█              █            █      ▄  █                                        ██
-█              █▄           █      █ ▄█ █      ▄                               ██
-█     ▄     ▄ ▄██      ▄ █  █  ▄ ▄ █ ██ ██     █      █                        ██
+               █            █                                                  ▄ 
+               █            █        ▄                                         █ 
+               █            █        █                                         █ 
+▄              █            █        █                                         █▄
+█              █            █      ▄ █  █                                      ██
+█              █            █      █ █  █     ▄                                ██
+█     ▄     ▄ ▄█       ▄ █  █  ▄ ▄ █ █  █     █       █                        ██
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 13/12/2025          16/12/2025          20/12/2025          23/12/2025          Now
-16:12               21:12               03:12               08:12               
+16:12               22:12               03:12               09:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -77,7 +79,7 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 26/12/2025, 14:20:03 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 26/12/2025, 15:21:11 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e66a989`](https://github.com/Hans5958/Hans5958/commit/e66a9892cd9e68565c17e8127170e86cc41d75ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
