@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,8 @@ FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`b7a0631`](https://github.com/Hans5958/VocaDB-Wiki/commit/b7a0631dc4bbed039533102589e2673586f7b675) Add direct links to song types ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/song-type-priority](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/song-type-priority))
+- [`b1eb844`](https://github.com/Hans5958/VocaDB-Wiki/commit/b1eb84452169e5daa6c5b47f7d617b495001fdf7) Clarify "Song type priority" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/song-type-priority](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/song-type-priority))
 - [`c65569b`](https://github.com/Hans5958/VocaDB-Wiki/commit/c65569b139938c4e44ce2a16ca843e875fc2a91a) Start clarifying "Song type priority" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/song-type-priority](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/song-type-priority))
 - [`6354906`](https://github.com/Hans5958/VocaDB-Wiki/commit/63549062eb3b7d5a9e830577a719a844fc36c576) Clarify rules and docs related to PV type/classification (2) ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/pv-classification](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/pv-classification))
 - [`67364a6`](https://github.com/Hans5958/VocaDB-Wiki/commit/67364a6871925544ac580e281d81fc5aebc27252) Clarify rules and docs related to PV type/classification (2) ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/pv-classification](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/pv-classification))
@@ -35,11 +37,12 @@ FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`5e11ec3`](https://github.com/Hans5958/VocaDB-Wiki/commit/5e11ec3b44f312fbdadd9761afdcbd67158deda4) Merge branch 'main' into clarifications/pv-classification ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/pv-classification](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/pv-classification))
 - [`c67d95e`](https://github.com/Hans5958/VocaDB-Wiki/commit/c67d95e48c610813d7ba4532dedc94c305c9d946) Clarify rules and docs related to PV type/classification ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/pv-classification](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/pv-classification))
 - [`671974b`](https://github.com/Hans5958/VocaDB-Wiki/commit/671974bc6adb32dd12cf0a2873be4e26f444e4a7) Fix capitalization of "Vocaloid" et al ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [typo](https://github.com/Hans5958/VocaDB-Wiki/tree/typo))
-- [`1389c41`](https://github.com/Hans5958/VocaDB-Wiki/commit/1389c4100ed261356de9ec8843c1bf2c05a9bfa0) Fix smart quotes ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [typo](https://github.com/Hans5958/VocaDB-Wiki/tree/typo))
-- [`f8d0e65`](https://github.com/Hans5958/VocaDB-Wiki/commit/f8d0e65456c3f75837ca9846056f99e9c3d7b066) Fix smart quotes ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [typo](https://github.com/Hans5958/VocaDB-Wiki/tree/typo))
 
 ### Last ten events
 
+- Opened pull request [#80](https://github.com/VocaDB/Wiki/issues/80) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-26T12:23:29Z)
+- Opened pull request [#79](https://github.com/VocaDB/Wiki/issues/79) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-26T12:06:44Z)
+- Created branch `clarifications/no-ai-generated-songs` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-26T12:06:14Z)
 - Created comment on issue/PR [#50](https://github.com/Hans5958/hans5958.github.io/issues/50) on [Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io) (2025-12-22T11:09:21Z)
 - Created comment on issue/PR [#1](https://github.com/Hans5958/Black-MIDI-Meta-No-History/issues/1) on [Hans5958/Black-MIDI-Meta-No-History](https://github.com/Hans5958/Black-MIDI-Meta-No-History) (2025-12-22T10:51:04Z)
 - Created branch `clarifications/song-type-priority` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-21T04:53:42Z)
@@ -47,9 +50,6 @@ FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - Created branch `clarifications/forbidden-artists` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-20T05:33:46Z)
 - Opened pull request [#77](https://github.com/VocaDB/Wiki/issues/77) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-20T05:00:57Z)
 - Merged pull request [#76](https://github.com/VocaDB/Wiki/issues/76) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-19T17:38:41Z)
-- Merged pull request [#70](https://github.com/VocaDB/Wiki/issues/70) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-19T17:37:27Z)
-- Merged pull request [#72](https://github.com/VocaDB/Wiki/issues/72) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-19T17:36:10Z)
-- Merged pull request [#74](https://github.com/VocaDB/Wiki/issues/74) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-19T17:35:29Z)
 
 ### Activity graph (beta)
 
@@ -57,20 +57,20 @@ FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-                      ▄                                                          
-                      █                                                          
-                      █                                                          
-                      █                                                          
-                      █                                                          
-        ▄             █                   ▄                                      
-        █             █          █        █                                      
-        █             █          █▄       █                                      
-        █             █          ██     ▄ █  ▄                                   
-█ █  ██ █             █          ██     █ █  █    ▄                              
-█ █  ██ █     ▄    ▄ ▄█      ▄ █ ██ ▄ ▄ █ █ ▄█    █      █                       
+                    ▄                                                            
+                    █                                                            
+                    █           ▄                                                
+                    █           █                                                
+                    █           █                                                
+      ▄             █           █        ▄                                       
+      █             █           █        █                                       
+      █             █           █        █                                       
+      █             █           █        █  ▄                                   █
+   ██ █             █           █      █ █  █    ▄                              █
+█  ██ █     ▄    ▄ ▄█      ▄ █  █  ▄ ▄▄█ █ ▄█    █       █                      █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-12/12/2025          15/12/2025          19/12/2025          22/12/2025          Now
-05:12               18:12               08:12               21:12               
+12/12/2025          16/12/2025          19/12/2025          23/12/2025          Now
+15:12               02:12               13:12               01:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -79,7 +79,7 @@ FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 26/12/2025, 11:18:40 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 26/12/2025, 12:42:12 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e66a989`](https://github.com/Hans5958/Hans5958/commit/e66a9892cd9e68565c17e8127170e86cc41d75ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
