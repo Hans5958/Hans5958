@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,7 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ### Last ten commits
 
+- [`8c8a937`](https://github.com/Hans5958/VocaDB-Wiki/commit/8c8a937b6004511af7b670e0f02c8020696880d1) Reduce margin between alert title and desc ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/alert-margin-fix](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/alert-margin-fix))
 - [`1610f95`](https://github.com/Hans5958/VocaDB-Wiki/commit/1610f95851091540ccdf02957ada8876e4ffcb82) Increase Pagefind weight for RuleEmbed outside rule pages ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/pagefind-weighting](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/pagefind-weighting))
 - [`f4dae43`](https://github.com/Hans5958/VocaDB-Wiki/commit/f4dae43b85d162e3231a5d1d444d7608d9dd7ee2) Only ignore RuleEmbed title on Pagefind on rule page ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/pagefind-weighting](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/pagefind-weighting))
 - [`1274873`](https://github.com/Hans5958/VocaDB-Wiki/commit/1274873b245d284d03b3966db7e86310615ab192) Add excerpt for Drama PV and Other song types ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/song-type-classification](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/song-type-classification))
@@ -36,10 +37,11 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 - [`a3f596f`](https://github.com/Hans5958/VocaDB-Wiki/commit/a3f596f86a4b916910d410491b51103ca922a8df) Add related rule "No duplicate information" on "No name duplication" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarification/no-name-duplication](https://github.com/Hans5958/VocaDB-Wiki/tree/clarification/no-name-duplication))
 - [`5e20a2a`](https://github.com/Hans5958/VocaDB-Wiki/commit/5e20a2a90bedc146c5291e1509c0c4c74b1687d5) Add related rule "No duplicate information" on "No name duplication" ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarification/no-name-duplication](https://github.com/Hans5958/VocaDB-Wiki/tree/clarification/no-name-duplication))
 - [`726d83f`](https://github.com/Hans5958/VocaDB-Wiki/commit/726d83fd8f1529aa15d83375ab592dfff95e72aa) Add related rule "No duplicate information" on "No name duplication" ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarification/no-name-duplication](https://github.com/Hans5958/VocaDB-Wiki/tree/clarification/no-name-duplication))
-- [`fcc477e`](https://github.com/Hans5958/vocadb/commit/fcc477e0e653e15239cea7fdda7afba1da865dbf) Update README after .NET 8 upgrade ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [patch-1](https://github.com/Hans5958/vocadb/tree/patch-1))
 
 ### Last ten events
 
+- Opened pull request [#90](https://github.com/VocaDB/Wiki/issues/90) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-27T15:22:33Z)
+- Opened pull request [#89](https://github.com/VocaDB/Wiki/issues/89) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-27T15:22:27Z)
 - Created branch `layout/redirect` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-27T15:17:33Z)
 - Merged pull request [#82](https://github.com/VocaDB/Wiki/issues/82) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-27T14:52:25Z)
 - Merged pull request [#81](https://github.com/VocaDB/Wiki/issues/81) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-27T14:51:27Z)
@@ -48,8 +50,6 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 - Merged pull request [#77](https://github.com/VocaDB/Wiki/issues/77) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-27T14:47:58Z)
 - Merged pull request [#87](https://github.com/VocaDB/Wiki/issues/87) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-27T14:45:07Z)
 - Created branch `layout/pagefind-weighting` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-27T14:19:48Z)
-- Opened pull request [#88](https://github.com/VocaDB/Wiki/issues/88) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2025-12-27T11:49:14Z)
-- Created branch `clarifications/song-type-classification` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2025-12-27T11:46:15Z)
 
 ### Activity graph (beta)
 
@@ -57,18 +57,17 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ```
                                                                                  
-    ▄                                                                            
-    █                                                                  █      ▄  
-    █                                                                  █      █  
-    █           ▄                                                      █      █  
-    █           █                                                      █      █ █
-    █           █                                                      █      █▄█
-    █        ▄  █   █                                                  █      ███
-    █        █  █   █       ▄                                          ██     ███
-█   █   ▄ ▄  █  █   █       █         █                                ██     ███
+▄                                                                                
+█                                                                                
+█            ▄                                                        █      █   
+█            █                                                        █      ██  
+█            █                                                        ██     ███ 
+█         ▄  █   █                                                    ██     ███▄
+█         █  █   █                                                    ██     ████
+█▄  ▄  ▄  █  █   █       █▄         █                                 ██     ████
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-17/12/2025          20/12/2025          22/12/2025          25/12/2025          Now
-17:12               04:12               16:12               03:12               
+18/12/2025          20/12/2025          22/12/2025          25/12/2025          Now
+04:12               13:12               22:12               07:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -77,7 +76,7 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 </details>
 
-*Last updated: 27/12/2025, 15:19:03 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 27/12/2025, 16:24:36 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`e66a989`](https://github.com/Hans5958/Hans5958/commit/e66a9892cd9e68565c17e8127170e86cc41d75ce
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
