@@ -57,18 +57,16 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-                                                   ▄█                            
-                                              █    ██                            
-                                              █    ██                            
-        ▄                                     █    ██                            
-        █                                     █    ██                            
-        █                                     █    ██                            
-      ▄ █  █                                  █    ██                    ▄ ▄     
-      █ █  █     ▄                            ██   ██                    █ █     
-█ ▄ ▄ █ █  █     █      █                     ██   ██ ▄               ▄ ▄█ █    ▄
+                                                  ▄                              
+  ▄                                         █   █ █                              
+  █                                         █   ███                             ▄
+  █                                        ██   ███                             █
+  █  █                                     ██   ███                     █       █
+  █  █     ▄                               ██   ███                     █  ▄    █
+▄ █  █     █       █                       ██   ███ ▄                ▄  █ ██    █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-18/12/2025          21/12/2025          25/12/2025          28/12/2025          Now
-05:12               19:12               09:12               23:12               
+19/12/2025          22/12/2025          25/12/2025          29/12/2025          Now
+08:12               15:12               23:12               06:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -77,7 +75,7 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 01/01/2026, 14:01:19 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 01/01/2026, 14:20:02 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`648fea3`](https://github.com/Hans5958/Hans5958/commit/648fea31bc8aa36dde003260cc12297b89b55d7f
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
