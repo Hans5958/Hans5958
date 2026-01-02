@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,6 +27,7 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ### Last ten commits
 
+- [`e860cdb`](https://github.com/Hans5958/hans5958.github.io/commit/e860cdbb4b25781fb6ff539a881ffe19eb114cd2) Add accounts, update icons and notes ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`d408b5d`](https://github.com/Hans5958/hans5958.github.io/commit/d408b5d581d9df95b0022057f088fd2a0f88ad68) Add more on volunteering accounts ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`2e87884`](https://github.com/Hans5958/hans5958.github.io/commit/2e87884c837cbde8cdd83ea4ebd3bc86b2ed45b6) Optimize index images on build ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`3ae683d`](https://github.com/Hans5958/VocaDB-Wiki/commit/3ae683d74ff01c0dc0936126f912ec747ff32801) Add related links and rules ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/voicebank-artist-entry-rules](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/voicebank-artist-entry-rules))
@@ -36,7 +37,6 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 - [`1f81c13`](https://github.com/Hans5958/VocaDB-Wiki/commit/1f81c136341663107ce64d52030dfc43cddd8281) Link to /Artist/Create ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/voicebank-artist-entry-rules](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/voicebank-artist-entry-rules))
 - [`ff5d463`](https://github.com/Hans5958/VocaDB-Wiki/commit/ff5d46398e353481509f2fb81000223b92740fc6) Add some relevant meta tag ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/auto-description](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/auto-description))
 - [`8c8a937`](https://github.com/Hans5958/VocaDB-Wiki/commit/8c8a937b6004511af7b670e0f02c8020696880d1) Reduce margin between alert title and desc ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/alert-margin-fix](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/alert-margin-fix))
-- [`1610f95`](https://github.com/Hans5958/VocaDB-Wiki/commit/1610f95851091540ccdf02957ada8876e4ffcb82) Increase Pagefind weight for RuleEmbed outside rule pages ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/pagefind-weighting](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/pagefind-weighting))
 
 ### Last ten events
 
@@ -57,19 +57,20 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ```
                                                                                  
-                                       █    ▄                                    
+                                            █                                    
                                        █    █                                    
+                                       █    █                                    
+                                       █    █                                    
+                                       █    █▄                                   
                                        █    ██                                   
                                        █    ██                                   
-                                       █    ██                                   
-                                       █    ██                            █      
-                                       █    ██                            █  ▄   
+                                       █    ██                            ▄  ▄   
    ▄                                   █    ██                    █       █  █   
-█  █    ▄                              █    ██                    █  ▄    █  █   
-█ ▄█    █       █                      █    ██ ▄               ▄  █ ██    █  █   
+▄  █    ▄                              █    ██                    █  ▄   ▄█  █   
+█ ▄█    █       █                      █    ██ ▄               ▄  █ ██   ██  █  ▄
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 19/12/2025          23/12/2025          26/12/2025          30/12/2025          Now
-17:12               05:12               17:12               04:12               
+17:12               05:12               17:12               05:12               
 ```
 
 ### lowlighter/metrics (beta)
@@ -78,7 +79,7 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 </details>
 
-*Last updated: 02/01/2026, 16:26:30 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 02/01/2026, 17:17:59 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`648fea3`](https://github.com/Hans5958/Hans5958/commit/648fea31bc8aa36dde003260cc12297b89b55d7f
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
