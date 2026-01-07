@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,16 +27,16 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`c484980`](https://github.com/Hans5958/VocaDB-Wiki/commit/c484980519c981ea9879764705727593c3e8913a) Use Node.js 18 for CI ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
+- [`1f60408`](https://github.com/Hans5958/VocaDB-Wiki/commit/1f60408913c8d80280a1a4de6fcee4450fa8d471) Use Node.js 18 ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
+- [`c80714a`](https://github.com/Hans5958/VocaDB-Wiki/commit/c80714a2ba22365608448490e8b0fa8f5c6c650f) Fix lint issues ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
+- [`cfcfebf`](https://github.com/Hans5958/VocaDB-Wiki/commit/cfcfebfb6edff153c7cb08a379f036e9d89ac260) error test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
+- [`0c18597`](https://github.com/Hans5958/VocaDB-Wiki/commit/0c185976530b921bf5ec7fde2c379821980019a0) error test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
+- [`093bbc7`](https://github.com/Hans5958/VocaDB-Wiki/commit/093bbc7313c679d01bab8dd0fbba705ea1ca224f) error test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
+- [`0574fc4`](https://github.com/Hans5958/VocaDB-Wiki/commit/0574fc489b85d6fadf8abd88b6bc36591fc429e0) error test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
 - [`c19ddb8`](https://github.com/Hans5958/VocaDB-Wiki/commit/c19ddb86ac9f92afb273a588cd5ef96c6e84c7a5) Fix "Vocaloid" capitalization ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [docs/index](https://github.com/Hans5958/VocaDB-Wiki/tree/docs/index))
 - [`211f7f8`](https://github.com/Hans5958/VocaDB-Wiki/commit/211f7f8ed909cfe411cdc6785b8b8b3caba34146) Align Link Card arrow ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/link-card](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/link-card))
 - [`bc6533d`](https://github.com/Hans5958/VocaDB-Wiki/commit/bc6533df31e41567d37d3850c0f7f276198a3ccb) Add description for "Romanization walkthrough" ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/auto-description](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/auto-description))
-- [`b73c3fb`](https://github.com/Hans5958/VocaDB-Wiki/commit/b73c3fbc7d44376b6d8ae0cc5f6a017d7409200c) Add some relevant meta tag ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/auto-description](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/auto-description))
-- [`ea840e4`](https://github.com/Hans5958/hans5958.github.io/commit/ea840e48b8af0188354139400ba8a3c121aae099) Rename .notes to .note ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
-- [`e860cdb`](https://github.com/Hans5958/hans5958.github.io/commit/e860cdbb4b25781fb6ff539a881ffe19eb114cd2) Add accounts, update icons and notes ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
-- [`d408b5d`](https://github.com/Hans5958/hans5958.github.io/commit/d408b5d581d9df95b0022057f088fd2a0f88ad68) Add more on volunteering accounts ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
-- [`2e87884`](https://github.com/Hans5958/hans5958.github.io/commit/2e87884c837cbde8cdd83ea4ebd3bc86b2ed45b6) Optimize index images on build ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
-- [`3ae683d`](https://github.com/Hans5958/VocaDB-Wiki/commit/3ae683d74ff01c0dc0936126f912ec747ff32801) Add related links and rules ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/voicebank-artist-entry-rules](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/voicebank-artist-entry-rules))
-- [`2d94bea`](https://github.com/Hans5958/VocaDB-Wiki/commit/2d94beae6b51e07dd4af031a537d7dfcf938f03a) Improve language some more ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/song-type-classification](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/song-type-classification))
 
 ### Last ten events
 
@@ -49,7 +49,7 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - Created branch `layout/link-card` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-07T11:18:48Z)
 - Deleted branch `clarifications/fully-loanword-names` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-07T11:05:23Z)
 - Deleted branch `typo` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-07T11:05:19Z)
-- Deleted branch `clarifications/forbidden-artists` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-07T11:05:18Z)
+- Deleted branch `clarifications/pv-classification` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-07T11:05:18Z)
 
 ### Activity graph (beta)
 
@@ -61,16 +61,19 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
                                                                                █ 
                                                                                █ 
                                                                                █ 
-▄                                                                              █ 
-█                                                                              █▄
-█                                                                  ▄           ██
-█                                                                  █           ██
-█                          █        █   ▄                         ▄█    ▄      ██
-█                          █  █     █▄  █                         ██    █      ██
-█ ▄                    ▄   █  █▄    ██▄ ██   █               ▄    ██  █ █      ██
+                                                                               █ 
+                                                                               █ 
+                                                                               █ 
+                                                                               █ 
+                                                                  █            █▄
+                                    ▄                             █            ██
+                                    █                             █            ██
+█                                   █   ▄                         █            ██
+█                          █  █     █   █                         █    █       ██
+█ ▄                    ▄  ██ ▄█     █▄  ██   █               ▄    ██ ▄▄█▄     ▄██
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 27/12/2025          30/12/2025          02/01/2026          04/01/2026          Now
-14:12               07:12               01:01               19:01               
+14:12               08:12               02:01               19:01               
 ```
 
 ### lowlighter/metrics (beta)
@@ -79,7 +82,7 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 07/01/2026, 12:47:32 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 07/01/2026, 13:39:25 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`648fea3`](https://github.com/Hans5958/Hans5958/commit/648fea31bc8aa36dde003260cc12297b89b55d7f
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
