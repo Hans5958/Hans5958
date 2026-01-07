@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **06:xx** (**6am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -49,7 +49,7 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 - Created branch `layout/link-card` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-07T11:18:48Z)
 - Deleted branch `clarifications/fully-loanword-names` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-07T11:05:23Z)
 - Deleted branch `typo` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-07T11:05:19Z)
-- Deleted branch `clarifications/pv-classification` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-07T11:05:18Z)
+- Deleted branch `clarifications/forbidden-artists` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-07T11:05:18Z)
 
 ### Activity graph (beta)
 
@@ -57,29 +57,22 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-                                                                             ▄   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                             █   
-                                                                █            █   
-                                                                █            █   
-                                   ▄                            █            █   
-                                   █                            █            █   
-█                         █        █   ▄                        █    ▄       █   
-█                         █  █     █   █                        █    █       █   
-█ ▄                   ▄   █ ▄█     █▄  ██  █               ▄    █  ▄▄█      ▄█   
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                            █    
+                                                                █           ██   
+                                                                █           ██   
+                                   ▄                            █           ██   
+                                   █   ▄                        █           ██   
+█                         ▄        █   █                        █    ▄      ██   
+█                         █  ▄     █   █                        █    █      ██   
+█ ▄                   ▄  ▄█ ██     █▄  █   █               ▄    █  █ █      ██   
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 27/12/2025          30/12/2025          02/01/2026          05/01/2026          Now
-14:12               10:12               06:01               02:01               
+14:12               10:12               07:01               03:01               
 ```
 
 ### lowlighter/metrics (beta)
@@ -88,7 +81,7 @@ FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 07/01/2026, 22:20:56 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 07/01/2026, 23:20:15 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`648fea3`](https://github.com/Hans5958/Hans5958/commit/648fea31bc8aa36dde003260cc12297b89b55d7f
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
