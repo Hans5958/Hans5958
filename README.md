@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -40,6 +40,7 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ### Last ten events
 
+- Created comment on issue/PR [#102](https://github.com/VocaDB/Wiki/issues/102) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-09T16:35:52Z)
 - Opened pull request [#103](https://github.com/VocaDB/Wiki/issues/103) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-09T15:42:34Z)
 - Created branch `clarifications/album-source-required` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-09T15:40:50Z)
 - Opened pull request [#102](https://github.com/VocaDB/Wiki/issues/102) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-09T15:28:34Z)
@@ -49,7 +50,6 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 - Created branch `layout/lint-ci` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-07T12:16:10Z)
 - Opened pull request [#100](https://github.com/VocaDB/Wiki/issues/100) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-07T11:51:16Z)
 - Created branch `docs/index` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-07T11:47:48Z)
-- Opened pull request [#99](https://github.com/VocaDB/Wiki/issues/99) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-07T11:20:34Z)
 
 ### Activity graph (beta)
 
@@ -57,22 +57,26 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ```
                                                                                  
+                                                                  ▄              
                                                                   █              
                                                                   █              
                                                                   █              
                                                                   █              
                                                                   █              
                                                                   █              
-                                                                  ██             
-                                                                  ██             
-                              ▄                                   ██             
-                              █   ▄                     █         ██             
-                      █       █   █                    ██   ▄     ██             
-                      █  █    █   █                    ██   █     ██            █
-█ ▄                ▄  █ ▄█    █▄  █  █             ▄   ██ █ █     ██            █
+                                                                  █              
+                                                                  █              
+                                                                  █              
+                                                                  █              
+                                                       ▄          █              
+                              ▄                        █          █              
+                              █                        █          █▄             
+                      █       █                        █    ▄     ██             
+                      █  █    █  █▄                    █▄   █     ██            █
+▄▄                 ▄  █ ▄█    █▄ ██  █             ▄   ██ █ █     ██           ▄█
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 27/12/2025          30/12/2025          03/01/2026          06/01/2026          Now
-15:12               21:12               03:01               10:01               
+15:12               21:12               04:01               10:01               
 ```
 
 ### lowlighter/metrics (beta)
@@ -81,7 +85,7 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 </details>
 
-*Last updated: 09/01/2026, 16:28:38 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 09/01/2026, 17:23:20 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`648fea3`](https://github.com/Hans5958/Hans5958/commit/648fea31bc8aa36dde003260cc12297b89b55d7f
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
