@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,7 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`f8d7e37`](https://github.com/Hans5958/VocaDB-Wiki/commit/f8d7e378401c8fbf1819429ebd41f0e7f111328b) Put Piapro examples on 240px, add older Piapro example ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/no-default-avatars](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/no-default-avatars))
 - [`c484980`](https://github.com/Hans5958/VocaDB-Wiki/commit/c484980519c981ea9879764705727593c3e8913a) Use Node.js 18 for CI ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
 - [`1f60408`](https://github.com/Hans5958/VocaDB-Wiki/commit/1f60408913c8d80280a1a4de6fcee4450fa8d471) Use Node.js 18 ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
 - [`c80714a`](https://github.com/Hans5958/VocaDB-Wiki/commit/c80714a2ba22365608448490e8b0fa8f5c6c650f) Fix lint issues ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
@@ -36,7 +37,6 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`0574fc4`](https://github.com/Hans5958/VocaDB-Wiki/commit/0574fc489b85d6fadf8abd88b6bc36591fc429e0) error test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
 - [`c19ddb8`](https://github.com/Hans5958/VocaDB-Wiki/commit/c19ddb86ac9f92afb273a588cd5ef96c6e84c7a5) Fix "Vocaloid" capitalization ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [docs/index](https://github.com/Hans5958/VocaDB-Wiki/tree/docs/index))
 - [`211f7f8`](https://github.com/Hans5958/VocaDB-Wiki/commit/211f7f8ed909cfe411cdc6785b8b8b3caba34146) Align Link Card arrow ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/link-card](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/link-card))
-- [`bc6533d`](https://github.com/Hans5958/VocaDB-Wiki/commit/bc6533df31e41567d37d3850c0f7f276198a3ccb) Add description for "Romanization walkthrough" ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/auto-description](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/auto-description))
 
 ### Last ten events
 
@@ -57,22 +57,29 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
+                                                               ▄                 
                                                                █                 
                                                                █                 
                                                                █                 
                                                                █                 
                                                                █                 
                                                                █                 
-                                                     █         ██                
-                                                     █         ██                
-                             ▄                       █         ██                
-                             █                       █         ██                
-                     █       █  ▄                    █   ▄     ██           ▄    
-                     █  ▄    █  █                    █   █     ██           █    
-▄▄                ▄  █ ██    █▄ ██  █            ▄   █ ▄▄█     ██           █    
+                                                               █                 
+                                                               █                 
+                                                               █                 
+                                                               █                 
+                                                               █                 
+                                                               █                 
+                                                    ▄          █                 
+                                                    █          █                 
+                            ▄                       █          █                 
+                            █                       █          █                 
+                    █       █  ▄                    █          █            ▄    
+                    █  ▄    █  █                    █    ▄     █            █    
+▄                ▄  █ ██    █▄ ██  █            ▄   █▄ ███    ▄█            █   ▄
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 27/12/2025          31/12/2025          03/01/2026          06/01/2026          Now
-15:12               01:12               11:01               21:01               
+21:12               06:12               14:01               23:01               
 ```
 
 ### lowlighter/metrics (beta)
@@ -81,7 +88,7 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 10/01/2026, 07:19:31 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 10/01/2026, 08:27:26 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`648fea3`](https://github.com/Hans5958/Hans5958/commit/648fea31bc8aa36dde003260cc12297b89b55d7f
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
