@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **16:xx** (**4pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,7 @@ FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`31cd154`](https://github.com/Hans5958/VocaDB-Wiki/commit/31cd1542413c5fa2fc9973520711f2a5a697d726) Clarify voicebank credit rules ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/voicebank-credit](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/voicebank-credit))
 - [`f8d7e37`](https://github.com/Hans5958/VocaDB-Wiki/commit/f8d7e378401c8fbf1819429ebd41f0e7f111328b) Put Piapro examples on 240px, add older Piapro example ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/no-default-avatars](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/no-default-avatars))
 - [`c484980`](https://github.com/Hans5958/VocaDB-Wiki/commit/c484980519c981ea9879764705727593c3e8913a) Use Node.js 18 for CI ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
 - [`1f60408`](https://github.com/Hans5958/VocaDB-Wiki/commit/1f60408913c8d80280a1a4de6fcee4450fa8d471) Use Node.js 18 ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
@@ -36,20 +37,19 @@ FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`093bbc7`](https://github.com/Hans5958/VocaDB-Wiki/commit/093bbc7313c679d01bab8dd0fbba705ea1ca224f) error test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
 - [`0574fc4`](https://github.com/Hans5958/VocaDB-Wiki/commit/0574fc489b85d6fadf8abd88b6bc36591fc429e0) error test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
 - [`c19ddb8`](https://github.com/Hans5958/VocaDB-Wiki/commit/c19ddb86ac9f92afb273a588cd5ef96c6e84c7a5) Fix "Vocaloid" capitalization ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [docs/index](https://github.com/Hans5958/VocaDB-Wiki/tree/docs/index))
-- [`211f7f8`](https://github.com/Hans5958/VocaDB-Wiki/commit/211f7f8ed909cfe411cdc6785b8b8b3caba34146) Align Link Card arrow ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/link-card](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/link-card))
 
 ### Last ten events
 
+- Opened pull request [#2](https://github.com/VocaDB/blog/issues/2) on [VocaDB/blog](https://github.com/VocaDB/blog) (2026-01-10T09:09:55Z)
+- Created branch `meta-tags` on [Hans5958/VocaDB-blog](https://github.com/Hans5958/VocaDB-blog) (2026-01-10T09:06:34Z)
+- Made fork of [VocaDB/blog](https://github.com/VocaDB/blog) on [Hans5958/VocaDB-blog](https://github.com/Hans5958/VocaDB-blog) (2026-01-10T09:02:17Z)
+- Opened pull request [#104](https://github.com/VocaDB/Wiki/issues/104) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-10T08:42:52Z)
+- Created branch `clarifications/voicebank-credit` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-10T08:39:04Z)
 - Created comment on issue/PR [#102](https://github.com/VocaDB/Wiki/issues/102) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-09T16:35:52Z)
 - Opened pull request [#103](https://github.com/VocaDB/Wiki/issues/103) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-09T15:42:34Z)
 - Created branch `clarifications/album-source-required` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-09T15:40:50Z)
 - Opened pull request [#102](https://github.com/VocaDB/Wiki/issues/102) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-09T15:28:34Z)
 - Created branch `clarifications/no-default-avatars` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-09T15:23:11Z)
-- Created comment on issue/PR [#8762](https://github.com/ScratchAddons/ScratchAddons/issues/8762) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2026-01-07T12:22:36Z)
-- Opened pull request [#101](https://github.com/VocaDB/Wiki/issues/101) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-07T12:17:02Z)
-- Created branch `layout/lint-ci` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-07T12:16:10Z)
-- Opened pull request [#100](https://github.com/VocaDB/Wiki/issues/100) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-07T11:51:16Z)
-- Created branch `docs/index` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-07T11:47:48Z)
 
 ### Activity graph (beta)
 
@@ -57,29 +57,25 @@ FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-                                                               ▄                 
-                                                               █                 
-                                                               █                 
-                                                               █                 
-                                                               █                 
-                                                               █                 
-                                                               █                 
-                                                               █                 
-                                                               █                 
-                                                               █                 
-                                                               █                 
-                                                               █                 
-                                                               █                 
-                                                    ▄          █                 
-                                                    █          █                 
-                            ▄                       █          █                 
-                            █                       █          █                 
-                    █       █  ▄                    █          █            ▄    
-                    █  ▄    █  █                    █    ▄     █            █    
-▄                ▄  █ ██    █▄ ██  █            ▄   █▄ ███    ▄█            █   ▄
+                                                         █                       
+                                                         █                       
+                                                         █                       
+                                                         █                       
+                                                         █                       
+                                                         █                       
+                                                         █                       
+                                                         █                       
+                                                         █                       
+                                           █             █                       
+                                           █             █                       
+          ▄                                █             █                       
+          █    ▄                           █             █▄                      
+          █    █                           █             ██               ▄     █
+    ▄     █    █                           █    █        ██               █     █
+█  ██     █ ▄  █   █                 ▄     █  ▄▄█▄      ▄██               █    ▄█
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-27/12/2025          31/12/2025          03/01/2026          06/01/2026          Now
-21:12               06:12               14:01               23:01               
+31/12/2025          02/01/2026          05/01/2026          07/01/2026          Now
+06:12               19:01               07:01               20:01               
 ```
 
 ### lowlighter/metrics (beta)
@@ -88,7 +84,7 @@ FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 10/01/2026, 08:27:26 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 10/01/2026, 09:20:29 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`648fea3`](https://github.com/Hans5958/Hans5958/commit/648fea31bc8aa36dde003260cc12297b89b55d7f
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
