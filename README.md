@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,19 +27,20 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten commits
 
-- [`4126de1`](https://github.com/Hans5958/VocaDB-Wiki/commit/4126de172b2000ba6661a27134c7917e34cd7221) Fix wording in "No machine translations" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-1](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-1))
-- [`31cd154`](https://github.com/Hans5958/VocaDB-Wiki/commit/31cd1542413c5fa2fc9973520711f2a5a697d726) Clarify voicebank credit rules ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/voicebank-credit](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/voicebank-credit))
-- [`f8d7e37`](https://github.com/Hans5958/VocaDB-Wiki/commit/f8d7e378401c8fbf1819429ebd41f0e7f111328b) Put Piapro examples on 240px, add older Piapro example ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/no-default-avatars](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/no-default-avatars))
-- [`c484980`](https://github.com/Hans5958/VocaDB-Wiki/commit/c484980519c981ea9879764705727593c3e8913a) Use Node.js 18 for CI ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
-- [`1f60408`](https://github.com/Hans5958/VocaDB-Wiki/commit/1f60408913c8d80280a1a4de6fcee4450fa8d471) Use Node.js 18 ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
-- [`c80714a`](https://github.com/Hans5958/VocaDB-Wiki/commit/c80714a2ba22365608448490e8b0fa8f5c6c650f) Fix lint issues ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
-- [`cfcfebf`](https://github.com/Hans5958/VocaDB-Wiki/commit/cfcfebfb6edff153c7cb08a379f036e9d89ac260) error test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
-- [`0c18597`](https://github.com/Hans5958/VocaDB-Wiki/commit/0c185976530b921bf5ec7fde2c379821980019a0) error test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
-- [`093bbc7`](https://github.com/Hans5958/VocaDB-Wiki/commit/093bbc7313c679d01bab8dd0fbba705ea1ca224f) error test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
-- [`0574fc4`](https://github.com/Hans5958/VocaDB-Wiki/commit/0574fc489b85d6fadf8abd88b6bc36591fc429e0) error test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
+- [`2568b36`](https://github.com/Hans5958/VocaDB-Wiki/commit/2568b3671eb8d47a2a196f5e24616df84c89a0d2) Clarify "Album source required" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/album-source-required](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/album-source-required))
+- [`8355dc6`](https://github.com/Hans5958/VocaDB-Wiki/commit/8355dc6084f4cd7a00f83e6699b469bcfbd7a291) Align Link Card arrow ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/link-card](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/link-card))
+- [`81bfb1d`](https://github.com/Hans5958/VocaDB-Wiki/commit/81bfb1d8b922f9cf3af2bf46a5d750dfa3ef93eb) Put Piapro examples on 240px, add older Piapro example ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/no-default-avatars](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/no-default-avatars))
+- [`bfbb6d6`](https://github.com/Hans5958/VocaDB-Wiki/commit/bfbb6d63f9731a7e950dd332c2e66aeff914d68e) Clarify voicebank credit rules ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/voicebank-credit](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/voicebank-credit))
+- [`ea4925e`](https://github.com/Hans5958/VocaDB-Wiki/commit/ea4925e34ad1488d8b3826991a80ed2b30da6795) Fix "Vocaloid" capitalization ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [docs/index](https://github.com/Hans5958/VocaDB-Wiki/tree/docs/index))
+- [`db28c9f`](https://github.com/Hans5958/VocaDB-Wiki/commit/db28c9fdd55920c19ab56170751be5853289272e) Fix lint issues ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
+- [`327d8aa`](https://github.com/Hans5958/VocaDB-Wiki/commit/327d8aa1b0d6df3ddd30e5ad91d992bf565627bc) Align Link Card arrow ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/link-card](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/link-card))
+- [`e1d4134`](https://github.com/Hans5958/VocaDB-Wiki/commit/e1d41344f500b6fb175644170e5d12abe61c4141) Fix "Vocaloid" capitalization ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [docs/index](https://github.com/Hans5958/VocaDB-Wiki/tree/docs/index))
+- [`55a8d84`](https://github.com/Hans5958/VocaDB-Wiki/commit/55a8d84a2167b09775ceda5b07c7850b71dc629b) Clarify voicebank credit rules ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/voicebank-credit](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/voicebank-credit))
+- [`b96e7f2`](https://github.com/Hans5958/VocaDB-Wiki/commit/b96e7f2bb400e270b4ccecbc7ccbe6d8b69906d0) Put Piapro examples on 240px, add older Piapro example ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/no-default-avatars](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/no-default-avatars))
 
 ### Last ten events
 
+- Opened pull request [#106](https://github.com/VocaDB/Wiki/issues/106) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-15T05:59:26Z)
 - Merged pull request [#101](https://github.com/VocaDB/Wiki/issues/101) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-14T06:05:04Z)
 - Merged pull request [#105](https://github.com/VocaDB/Wiki/issues/105) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-13T07:18:05Z)
 - Opened pull request [#105](https://github.com/VocaDB/Wiki/issues/105) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-13T03:52:17Z)
@@ -49,7 +50,6 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 - Opened pull request [#104](https://github.com/VocaDB/Wiki/issues/104) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-10T08:42:52Z)
 - Created branch `clarifications/voicebank-credit` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-10T08:39:04Z)
 - Created comment on issue/PR [#102](https://github.com/VocaDB/Wiki/issues/102) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-09T16:35:52Z)
-- Opened pull request [#103](https://github.com/VocaDB/Wiki/issues/103) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-09T15:42:34Z)
 
 ### Activity graph (beta)
 
@@ -57,26 +57,23 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ```
                                                                                  
-                                     ▄                                           
-                                     █                                           
-                                     █                                           
-                                     █                                           
-                                     █                                           
-                                     █                                           
-                                     █                                           
-                                     █                                           
-                                     █                                           
-                                     █                                           
-                           █         █                                           
-                           █         █                                           
-     █                     █         █                                           
-     █  ▄                  █         █▄              ▄                           
-     █  █                  █   ▄     ██          ▄   █                           
-▄    █  █                  █   █     ██          █   █               ▄           
-█    █  █  █           ▄   █  ██     ██          █   █               █     ▄     
+                                  █                                              
+                                  █                                              
+                                  █                                              
+                                  █                                              
+                                  █                                              
+                                  █                                              
+                                  █                                              
+                        █         █                                              
+                        █         ██                                            ▄
+                        █         ██                                            █
+                        █         ██               ▄                            █
+   ▄                    █   ▄     ██           ▄   █                            █
+   █                    █   █     ██           █   █                ▄           █
+▄▄ ██  █            ▄   █ ▄▄█     ██           █   █                █     ▄     █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-31/12/2025          04/01/2026          07/01/2026          11/01/2026          Now
-18:12               09:01               23:01               14:01               
+01/01/2026          05/01/2026          08/01/2026          11/01/2026          Now
+14:01               00:01               10:01               20:01               
 ```
 
 ### lowlighter/metrics (beta)
@@ -85,7 +82,7 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 15/01/2026, 05:25:54 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 15/01/2026, 06:34:55 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`648fea3`](https://github.com/Hans5958/Hans5958/commit/648fea31bc8aa36dde003260cc12297b89b55d7f
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
