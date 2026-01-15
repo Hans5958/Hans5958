@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -31,12 +31,12 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`eca08f2`](https://github.com/Hans5958/VocaDB-Wiki/commit/eca08f20d88a54221fbd2966949cb61ed05c27f1) Clarify "Album source required" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/album-source-required](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/album-source-required))
 - [`9f7987c`](https://github.com/Hans5958/VocaDB-Wiki/commit/9f7987c3a8b24bea9a0a9d0872c0f672b8b8ce65) Clarify voicebank credit rules ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/voicebank-credit](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/voicebank-credit))
 - [`8355dc6`](https://github.com/Hans5958/VocaDB-Wiki/commit/8355dc6084f4cd7a00f83e6699b469bcfbd7a291) Align Link Card arrow ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/link-card](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/link-card))
-- [`2568b36`](https://github.com/Hans5958/VocaDB-Wiki/commit/2568b3671eb8d47a2a196f5e24616df84c89a0d2) Clarify "Album source required" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/album-source-required](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/album-source-required))
 - [`81bfb1d`](https://github.com/Hans5958/VocaDB-Wiki/commit/81bfb1d8b922f9cf3af2bf46a5d750dfa3ef93eb) Put Piapro examples on 240px, add older Piapro example ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/no-default-avatars](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/no-default-avatars))
-- [`bfbb6d6`](https://github.com/Hans5958/VocaDB-Wiki/commit/bfbb6d63f9731a7e950dd332c2e66aeff914d68e) Clarify voicebank credit rules ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/voicebank-credit](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/voicebank-credit))
+- [`2568b36`](https://github.com/Hans5958/VocaDB-Wiki/commit/2568b3671eb8d47a2a196f5e24616df84c89a0d2) Clarify "Album source required" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/album-source-required](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/album-source-required))
 - [`ea4925e`](https://github.com/Hans5958/VocaDB-Wiki/commit/ea4925e34ad1488d8b3826991a80ed2b30da6795) Fix "Vocaloid" capitalization ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [docs/index](https://github.com/Hans5958/VocaDB-Wiki/tree/docs/index))
+- [`bfbb6d6`](https://github.com/Hans5958/VocaDB-Wiki/commit/bfbb6d63f9731a7e950dd332c2e66aeff914d68e) Clarify voicebank credit rules ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/voicebank-credit](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/voicebank-credit))
 - [`db28c9f`](https://github.com/Hans5958/VocaDB-Wiki/commit/db28c9fdd55920c19ab56170751be5853289272e) Fix lint issues ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
-- [`327d8aa`](https://github.com/Hans5958/VocaDB-Wiki/commit/327d8aa1b0d6df3ddd30e5ad91d992bf565627bc) Align Link Card arrow ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/link-card](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/link-card))
+- [`e1d4134`](https://github.com/Hans5958/VocaDB-Wiki/commit/e1d41344f500b6fb175644170e5d12abe61c4141) Fix "Vocaloid" capitalization ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [docs/index](https://github.com/Hans5958/VocaDB-Wiki/tree/docs/index))
 
 ### Last ten events
 
@@ -70,16 +70,16 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
                                 █                                                
                                 █                                                
                                 █                                                
-                     ▄          █                                                
+                     █          █                                                
                      █          █                                             ▄  
                      █          █                                             █  
                      █          █                ▄                            █  
                      █          █            ▄   █                            █  
-█                    █    █     █            █   █                            █▄ 
-██  █            ▄   █▄ █▄█    ▄█            █   █                █▄    ▄     ██ 
+█                    █   █      █            █   █                            █▄ 
+██  █            ▄   █  ██▄    ▄█            █   █                █▄    ▄     ██ 
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 02/01/2026          05/01/2026          08/01/2026          12/01/2026          Now
-02:01               11:01               19:01               04:01               
+02:01               11:01               20:01               04:01               
 ```
 
 ### lowlighter/metrics (beta)
@@ -88,7 +88,7 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 15/01/2026, 12:47:52 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 15/01/2026, 13:39:26 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`648fea3`](https://github.com/Hans5958/Hans5958/commit/648fea31bc8aa36dde003260cc12297b89b55d7f
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
