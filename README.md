@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,19 +27,20 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ### Last ten commits
 
+- [`b0b37bc`](https://github.com/Hans5958/VocaDB-Wiki/commit/b0b37bc30f809fd91bad5b4a48eac5eb62b4bdb5) Add auto-fix lint workflow ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [main](https://github.com/Hans5958/VocaDB-Wiki/tree/main))
+- [`8b1a554`](https://github.com/Hans5958/VocaDB-Wiki/commit/8b1a554e2fe1078d0f39af72e52ffc3db76c0ff5) test to fix ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [main](https://github.com/Hans5958/VocaDB-Wiki/tree/main))
+- [`8b1a554`](https://github.com/Hans5958/VocaDB-Wiki/commit/8b1a554e2fe1078d0f39af72e52ffc3db76c0ff5) test to fix ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
+- [`b0b37bc`](https://github.com/Hans5958/VocaDB-Wiki/commit/b0b37bc30f809fd91bad5b4a48eac5eb62b4bdb5) Add auto-fix lint workflow ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
+- [`05391eb`](https://github.com/Hans5958/VocaDB-Wiki/commit/05391eb6893cc8b26cbe328b4c8c92981469a9e5) Add example and notes on "No honorifics" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/no-honorifics](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/no-honorifics))
 - [`f1c7c48`](https://github.com/Hans5958/VocaDB-Wiki/commit/f1c7c48c4bb3f12d68f50f5b19b836afa86f46f3) Add new partners ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-3](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-3))
 - [`c0427d7`](https://github.com/Hans5958/VocaDB-Wiki/commit/c0427d721f77a767ddf5d87b3150aeda26e0d18c) Add new partners ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-3](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-3))
 - [`e70639e`](https://github.com/Hans5958/VocaDB-Wiki/commit/e70639eade5e6f6eaa8aee1cff67cf04c838949d) Fix link to "Partner websites" ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-2](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-2))
 - [`f3e7860`](https://github.com/Hans5958/hyper-flexible-timer/commit/f3e78602893dfeeb984720a2d060dd53262f0bf6) Bump version to 3.0.16 ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
 - [`242556d`](https://github.com/Hans5958/hyper-flexible-timer/commit/242556d47eba5d52834704df5a48649d29ff722a) Bump version to 3.0.16 ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
-- [`919b3fd`](https://github.com/Hans5958/hyper-flexible-timer/commit/919b3fdbda597c89f22941e48b6ef3af285b5d08) Bump version to v3.0.16 ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
-- [`1aec292`](https://github.com/Hans5958/hyper-flexible-timer/commit/1aec2923c5399528dd1fbcd7d294663439e4e07c) Fix broken import ([Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer), [master](https://github.com/Hans5958/hyper-flexible-timer/tree/master))
-- [`6a9e7ad`](https://github.com/Hans5958/VocaDB-Wiki/commit/6a9e7ada9979b3f502028e70640c44c37709dc74) Add new partners ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-3](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-3))
-- [`c5044da`](https://github.com/Hans5958/VocaDB-Wiki/commit/c5044da52ba83992aafac88a8a1cda613828b17e) Fix link to "Partner websites" ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-2](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-2))
-- [`4b268d3`](https://github.com/Hans5958/mini-htmls/commit/4b268d37a92d37dc5f4b41163082d48e3f615e71) PreMiD Presence Stats: Adjust after GraphQL API removal ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 
 ### Last ten events
 
+- Opened pull request [#109](https://github.com/VocaDB/Wiki/issues/109) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-17T17:02:08Z)
 - Created branch `clarifications/no-honorifics` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-01-16T05:30:46Z)
 - Deleted tag `v3.0.16` on [Hans5958/hyper-flexible-timer](https://github.com/Hans5958/hyper-flexible-timer) (2026-01-16T05:15:30Z)
 - Opened pull request [#108](https://github.com/VocaDB/Wiki/issues/108) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-16T04:09:22Z)
@@ -49,7 +50,6 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 - Merged pull request [#105](https://github.com/VocaDB/Wiki/issues/105) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-13T07:18:05Z)
 - Opened pull request [#105](https://github.com/VocaDB/Wiki/issues/105) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-01-13T03:52:17Z)
 - Opened pull request [#2](https://github.com/VocaDB/blog/issues/2) on [VocaDB/blog](https://github.com/VocaDB/blog) (2026-01-10T09:09:55Z)
-- Created branch `meta-tags` on [Hans5958/VocaDB-blog](https://github.com/Hans5958/VocaDB-blog) (2026-01-10T09:06:34Z)
 
 ### Activity graph (beta)
 
@@ -70,16 +70,16 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
             █                                                                    
             █                                                                    
             █                                                                    
-            █                                                   █     ▄          
+            █                                                         ▄          
+            █                                                         █          
             █                                                   █     █          
-▄           █                                                   █     █          
-█           █                  ▄                                █     █          
-█    ▄      █                  █                                █     █          
-█    █      █             █    █                                █     █          
-█  █ █     ▄█             █▄   █                  █▄     ▄      █  ▄  █          
+            █                  ▄                                █     █          
+            █             ▄    █                                █     █         █
+▄    ▄      █             █    █                               ██     █         █
+█  ███     ▄█             █    █                  █▄     ▄     ██ ▄   █         █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 05/01/2026          08/01/2026          11/01/2026          14/01/2026          Now
-16:01               16:01               16:01               16:01               
+17:01               17:01               17:01               17:01               
 ```
 
 ### lowlighter/metrics (beta)
@@ -88,7 +88,7 @@ FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 </details>
 
-*Last updated: 17/01/2026, 16:23:49 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 17/01/2026, 17:17:36 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`648fea3`](https://github.com/Hans5958/Hans5958/commit/648fea31bc8aa36dde003260cc12297b89b55d7f
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
