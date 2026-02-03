@@ -2,7 +2,7 @@ import print from "./print.js"
 import fs from "fs"
 import dayjs from "dayjs"
 import utc from "dayjs/plugin/utc.js"
-import core from '@actions/core'
+import * as core from "@actions/core"
 
 dayjs.extend(utc)
 
