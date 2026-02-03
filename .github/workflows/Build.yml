@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-  workflow_dispatc
+  workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
 
@@ -41,4 +41,5 @@ jobs:
           author_email: 69833949+Auto5958@users.noreply.github.com
           add: README.md last-dev-commit.txt --force
         env:
+
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
