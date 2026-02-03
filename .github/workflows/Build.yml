@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+  workflow_dispatc
   schedule:
     - cron: "0 * * * *"
 

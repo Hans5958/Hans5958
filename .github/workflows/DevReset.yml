@@ -1,9 +1,10 @@
 name: Reset to `dev` Branch
 
-on: 
+on:
   push:
     branches:
       - dev
+  workflow_dispatch:
 
 jobs:
   reset:
