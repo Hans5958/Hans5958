@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **00:xx** (**12am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,6 +27,7 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 ### Last ten commits
 
+- [`1fa71c5`](https://github.com/Hans5958/VocaDB-Wiki/commit/1fa71c58f31b51b6d4c1607a25b8a5f251f3093c) Format code ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/no-default-avatars](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/no-default-avatars))
 - [`8cb74d6`](https://github.com/Hans5958/VocaDB-Wiki/commit/8cb74d692b00e131c7a55df9d32d9ba9c3d60936) Increase Pagefind weight for RuleEmbed outside rule pages ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/pagefind-weighting](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/pagefind-weighting))
 - [`9cab873`](https://github.com/Hans5958/VocaDB-Wiki/commit/9cab873ab0e53d2d22fde89a4a3f3ef6865d0d98) Clarify voicebank credit rules ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/voicebank-credit](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/voicebank-credit))
 - [`88d3c32`](https://github.com/Hans5958/vocadb/commit/88d3c3271ad108743b9387de8317f6cf0c45dff7) Add more YouTube link matchers ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [patch-2](https://github.com/Hans5958/vocadb/tree/patch-2))
@@ -36,7 +37,6 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 - [`1ee3fe2`](https://github.com/Hans5958/VocaDB-Wiki/commit/1ee3fe2af9f2303927fdfb45b98cf9fe8ed3b3ce) Defer hydration, use NavContents directly ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/simplify-out](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/simplify-out))
 - [`b0caac0`](https://github.com/Hans5958/VocaDB-Wiki/commit/b0caac0bf04d989788e9af10b1285862e8b59676) Skip defining MobileNavbarProps separately ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/simplify-out](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/simplify-out))
 - [`2c09a31`](https://github.com/Hans5958/VocaDB-Wiki/commit/2c09a3183c7a155e5b16cb75e3108528f1ed83a3) Fix mobile nav style not used ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/simplify-out](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/simplify-out))
-- [`7dee84a`](https://github.com/Hans5958/VocaDB-Wiki/commit/7dee84afd8d0f315f43a6dba9d9d30965592dec4) Refactor parts regarding docs collection ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/simplify-out](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/simplify-out))
 
 ### Last ten events
 
@@ -61,16 +61,16 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
      █                                                                           
      █                                                                           
      █                                                                      ▄    
-▄    █                                                                      █    
+     █                                                                      █    
 █    █                  ▄                                 █                 █    
-█    █                  █                                 █                 █    
-█    █                  █                                 █                 █    
-█    █                  █                      █          █                 █  █ 
-█    █                  █                      █▄         █          ▄   █▄ █  █ 
-█    █                  █                      ██   ▄     █          █   ██ █  ██
+█    █                  █                      ▄          █                 █    
+█    █                  █                      █          █                 █    
+█    █                  █                      █          █                 █ █  
+█    █                  █                      █          █              █▄ █ █ ▄
+█    █                  █                      █    ▄     █         █▄   ██ █ █ █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 16/01/2026          22/01/2026          28/01/2026          04/02/2026          Now
-04:01               12:01               21:01               06:02               
+04:01               13:01               22:01               07:02               
 ```
 
 ### lowlighter/metrics (beta)
@@ -79,7 +79,7 @@ FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://i
 
 </details>
 
-*Last updated: 10/02/2026, 15:02:26 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 10/02/2026, 17:06:09 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`f633044`](https://github.com/Hans5958/Hans5958/commit/f6330448f7b0a7eca9c6a12b74b263696ea12b19
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
