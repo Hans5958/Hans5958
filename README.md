@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,29 +27,29 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`3286813`](https://github.com/ScratchAddons/contributors/commit/3286813cbf6d5556572819e04f467a974a30188c) Rename thenatally to tallypaws ([ScratchAddons/contributors](https://github.com/ScratchAddons/contributors), [master](https://github.com/ScratchAddons/contributors/tree/master))
+- [`55dcf56`](https://github.com/ScratchAddons/website-v2/commit/55dcf5663674115ae8d7f66e41c4a110d06f8974) Merge pull request #564 from mxmou/cover-images ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`5de9543`](https://github.com/ScratchAddons/website-v2/commit/5de95432d89f1485d571f332c58b35dc1194f362) Remove folders feedback presend warning ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`b2f73cb`](https://github.com/ScratchAddons/website-v2/commit/b2f73cbf1cba6807e28f2f5da7a0db598823ca55) Remove analytics code ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
+- [`652672e`](https://github.com/ScratchAddons/website-v2/commit/652672e6f2b6c9cdcb7e479ae5b2b5342ac11537) Bump Hugo to 0.151.2, add version note on README ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`1fa71c5`](https://github.com/Hans5958/VocaDB-Wiki/commit/1fa71c58f31b51b6d4c1607a25b8a5f251f3093c) Format code ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/no-default-avatars](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/no-default-avatars))
 - [`8cb74d6`](https://github.com/Hans5958/VocaDB-Wiki/commit/8cb74d692b00e131c7a55df9d32d9ba9c3d60936) Increase Pagefind weight for RuleEmbed outside rule pages ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/pagefind-weighting](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/pagefind-weighting))
 - [`9cab873`](https://github.com/Hans5958/VocaDB-Wiki/commit/9cab873ab0e53d2d22fde89a4a3f3ef6865d0d98) Clarify voicebank credit rules ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/voicebank-credit](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/voicebank-credit))
 - [`88d3c32`](https://github.com/Hans5958/vocadb/commit/88d3c3271ad108743b9387de8317f6cf0c45dff7) Add more YouTube link matchers ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [patch-2](https://github.com/Hans5958/vocadb/tree/patch-2))
 - [`5d24cec`](https://github.com/Hans5958/VocaDB-Wiki/commit/5d24cecf57bc2d6f56b1e5ece69f665a8a47293e) Adjust navbar style ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/mobile-navbar](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/mobile-navbar))
-- [`18f0ea4`](https://github.com/Hans5958/VocaDB-Wiki/commit/18f0ea467a67904cb19b7bbff5545da830f12457) Adjsut navbar style ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/mobile-navbar](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/mobile-navbar))
-- [`420643d`](https://github.com/Hans5958/VocaDB-Wiki/commit/420643d3da2edc29ee7bbc71222ff80fd312e74a) Format code ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/simplify-out](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/simplify-out))
-- [`1ee3fe2`](https://github.com/Hans5958/VocaDB-Wiki/commit/1ee3fe2af9f2303927fdfb45b98cf9fe8ed3b3ce) Defer hydration, use NavContents directly ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/simplify-out](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/simplify-out))
-- [`b0caac0`](https://github.com/Hans5958/VocaDB-Wiki/commit/b0caac0bf04d989788e9af10b1285862e8b59676) Skip defining MobileNavbarProps separately ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/simplify-out](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/simplify-out))
-- [`2c09a31`](https://github.com/Hans5958/VocaDB-Wiki/commit/2c09a3183c7a155e5b16cb75e3108528f1ed83a3) Fix mobile nav style not used ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/simplify-out](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/simplify-out))
 
 ### Last ten events
 
-- Created comment on issue/PR [#555](https://github.com/ScratchAddons/website-v2/issues/555) on [ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2) (2026-02-16T14:43:42Z)
-- Labeled issue [#2097](https://github.com/VocaDB/vocadb/issues/2097) on [VocaDB/vocadb](https://github.com/VocaDB/vocadb) (2026-02-15T04:14:52Z)
-- Opened issue [#2097](https://github.com/VocaDB/vocadb/issues/2097) on [VocaDB/vocadb](https://github.com/VocaDB/vocadb) (2026-02-15T04:14:52Z)
-- Created comment on issue/PR [#1583](https://github.com/VocaDB/vocadb/issues/1583) on [VocaDB/vocadb](https://github.com/VocaDB/vocadb) (2026-02-10T04:52:32Z)
-- Labeled issue [#2083](https://github.com/VocaDB/vocadb/issues/2083) on [VocaDB/vocadb](https://github.com/VocaDB/vocadb) (2026-02-10T04:37:41Z)
-- Opened issue [#2083](https://github.com/VocaDB/vocadb/issues/2083) on [VocaDB/vocadb](https://github.com/VocaDB/vocadb) (2026-02-10T04:37:41Z)
-- Created comment on issue/PR [#2082](https://github.com/VocaDB/vocadb/issues/2082) on [VocaDB/vocadb](https://github.com/VocaDB/vocadb) (2026-02-10T04:07:16Z)
-- Opened pull request [#2082](https://github.com/VocaDB/vocadb/issues/2082) on [VocaDB/vocadb](https://github.com/VocaDB/vocadb) (2026-02-10T04:02:49Z)
-- Deleted branch `patch-1` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-02-09T07:29:12Z)
-- Deleted branch `patch-2` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-02-09T07:29:01Z)
+- Created comment on issue/PR [#318](https://github.com/ScratchAddons/contributors/issues/318) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:27:40Z)
+- Closed pull request [#318](https://github.com/ScratchAddons/contributors/issues/318) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2025-11-27T00:23:17Z)
+- Closed issue [#322](https://github.com/ScratchAddons/contributors/issues/322) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:25:38Z)
+- Created comment on issue/PR [#322](https://github.com/ScratchAddons/contributors/issues/322) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:25:36Z)
+- Deleted branch `all-contributors/add-RedPandaGuy1234` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:23:33Z)
+- Created review on PR [#323](https://github.com/ScratchAddons/contributors/issues/323) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:23:23Z)
+- Deleted branch `dependabot/npm_and_yarn/fs-extra-11.3.3` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:20:54Z)
+- Created comment on issue/PR [#321](https://github.com/ScratchAddons/contributors/issues/321) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:20:24Z)
+- Deleted branch `dependabot/github_actions/actions/setup-node-6` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:20:22Z)
+- Created comment on issue/PR [#320](https://github.com/ScratchAddons/contributors/issues/320) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:19:50Z)
 
 ### Activity graph (beta)
 
@@ -57,20 +57,23 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-▄                                                                                
-█                                                                                
-█                                                                                
-█                                                           ▄                    
-█                                                           █                    
-█               ▄                            █              █                    
-█               █                   ▄        █              █                    
-█               █                   █        █              █                    
-█               █                   █        █              █  █                 
-█               █                   █        █        ▄   █▄█  █▄                
-█               █                   █   ▄    █        █   ███  ██           █   ▄
+                                                                                ▄
+                                                                                █
+                                                                                █
+                                                                                █
+                                                                                █
+                                                                                █
+                                                            ▄                   █
+                                                            █                   █
+                ▄                            █              █                   █
+                █                   ▄        █              █                   █
+                █                   █        █              █                   █
+                █                   █        █              █  █                █
+                █                   █        █        ▄   █▄█  █▄               █
+█               █                   █   ▄    █        █   ███  ██           █   █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 17/01/2026          25/01/2026          01/02/2026          09/02/2026          Now
-17:01               04:01               15:02               03:02               
+17:01               05:01               16:02               04:02               
 ```
 
 ### lowlighter/metrics (beta)
@@ -79,7 +82,7 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 16/02/2026, 14:45:05 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 16/02/2026, 15:44:18 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`f633044`](https://github.com/Hans5958/Hans5958/commit/f6330448f7b0a7eca9c6a12b74b263696ea12b19
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
