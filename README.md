@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -40,16 +40,16 @@ FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten events
 
+- Started [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches) (2026-02-17T14:50:16Z
+- Started [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) (2026-02-17T14:50:14Z
+- Started [Jman-Github/Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) (2026-02-17T14:50:10Z
+- Started [anddea/revanced-patches](https://github.com/anddea/revanced-patches) (2026-02-17T14:49:27Z
 - Created comment on issue/PR [#714](https://github.com/crimera/piko/issues/714) on [crimera/piko](https://github.com/crimera/piko) (2026-02-16T17:50:56Z)
 - Created comment on issue/PR [#318](https://github.com/ScratchAddons/contributors/issues/318) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:27:40Z)
 - Closed pull request [#318](https://github.com/ScratchAddons/contributors/issues/318) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2025-11-27T00:23:17Z)
 - Closed issue [#322](https://github.com/ScratchAddons/contributors/issues/322) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:25:38Z)
 - Created comment on issue/PR [#322](https://github.com/ScratchAddons/contributors/issues/322) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:25:36Z)
 - Deleted branch `all-contributors/add-RedPandaGuy1234` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:23:33Z)
-- Created review on PR [#323](https://github.com/ScratchAddons/contributors/issues/323) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:23:23Z)
-- Deleted branch `dependabot/npm_and_yarn/fs-extra-11.3.3` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:20:54Z)
-- Created comment on issue/PR [#321](https://github.com/ScratchAddons/contributors/issues/321) on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:20:24Z)
-- Deleted branch `dependabot/github_actions/actions/setup-node-6` on [ScratchAddons/contributors](https://github.com/ScratchAddons/contributors) (2026-02-16T15:20:22Z)
 
 ### Activity graph (beta)
 
@@ -63,17 +63,17 @@ FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  <img src="https://im
                                                                              █   
                                                                              █   
                                                                              █   
-                                                                             █   
-                                                                             █   
-▄                                  █                                         █   
-█                                  █                  █                      █   
-█                                  █                  █                      █   
-█                       █          █                 ▄█ █                    █   
-█                       █▄         █          ▄    █▄██ █ ▄                  █   
-█                       ██   ▄     █          █    ████ █ █             █    █   
+                                                     ▄                       █   
+                                                     █                       █   
+                                   █                 █                       █   
+                        ▄          █                 █                       █   
+█                       █          █                 █                       █   
+█                       █          █               █ █  █                    █   
+█                       █          █          ▄    █ █  █ ▄                  █  █
+█                       █    ▄     █          █    █▄█  █ █             █    █  █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 23/01/2026          29/01/2026          05/02/2026          11/02/2026          Now
-16:01               21:01               02:02               07:02               
+16:01               21:01               03:02               09:02               
 ```
 
 ### lowlighter/metrics (beta)
@@ -82,7 +82,7 @@ FYI: It is **20:xx** (**8pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 17/02/2026, 13:12:12 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 17/02/2026, 14:51:15 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`f633044`](https://github.com/Hans5958/Hans5958/commit/f6330448f7b0a7eca9c6a12b74b263696ea12b19
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
