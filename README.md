@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **03:xx** (**3am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -57,17 +57,23 @@ FYI: It is **03:xx** (**3am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-                                            ▄                   █                
-                                            █                   █                
-                             █              █                  ██                
-                             █              █                  ██                
-                             █              █                  ██                
-                   █         █            █ █ █                ██    ▄           
-▄                  █▄        █        ▄   █ █ █ ▄              ██ █  █           
-█                  ██   ▄    █        █   █▄█ █ █           █  ██ █  █           
+                                                               ▄                 
+                                                               █                 
+                                                               █                 
+                                                               █                 
+                                                               █                 
+                                                               █                 
+                                            ▄                  █                 
+                                            █                  █                 
+                             █              █                  █                 
+                             █              █                  █                 
+                             █              █                  █                 
+                   █         █            █ █ █                █     ▄           
+▄                  █▄        █        ▄   █ █ █▄               █  █  █           
+█                  ██   ▄    █        █   █▄█ ██            █  █▄ █  █           
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 23/01/2026          31/01/2026          07/02/2026          15/02/2026          Now
-17:01               05:01               18:02               07:02               
+17:01               06:01               19:02               08:02               
 ```
 
 ### lowlighter/metrics (beta)
@@ -76,7 +82,7 @@ FYI: It is **03:xx** (**3am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 22/02/2026, 20:31:39 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 22/02/2026, 21:28:36 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`f633044`](https://github.com/Hans5958/Hans5958/commit/f6330448f7b0a7eca9c6a12b74b263696ea12b19
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
