@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -32,9 +32,6 @@ FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`5de9543`](https://github.com/ScratchAddons/website-v2/commit/5de95432d89f1485d571f332c58b35dc1194f362) Remove folders feedback presend warning ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`b2f73cb`](https://github.com/ScratchAddons/website-v2/commit/b2f73cbf1cba6807e28f2f5da7a0db598823ca55) Remove analytics code ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
 - [`652672e`](https://github.com/ScratchAddons/website-v2/commit/652672e6f2b6c9cdcb7e479ae5b2b5342ac11537) Bump Hugo to 0.151.2, add version note on README ([ScratchAddons/website-v2](https://github.com/ScratchAddons/website-v2), [master](https://github.com/ScratchAddons/website-v2/tree/master))
-- [`1fa71c5`](https://github.com/Hans5958/VocaDB-Wiki/commit/1fa71c58f31b51b6d4c1607a25b8a5f251f3093c) Format code ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/no-default-avatars](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/no-default-avatars))
-- [`8cb74d6`](https://github.com/Hans5958/VocaDB-Wiki/commit/8cb74d692b00e131c7a55df9d32d9ba9c3d60936) Increase Pagefind weight for RuleEmbed outside rule pages ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/pagefind-weighting](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/pagefind-weighting))
-- [`9cab873`](https://github.com/Hans5958/VocaDB-Wiki/commit/9cab873ab0e53d2d22fde89a4a3f3ef6865d0d98) Clarify voicebank credit rules ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/voicebank-credit](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/voicebank-credit))
 
 ### Last ten events
 
@@ -55,23 +52,22 @@ FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-                █                                                                
-                █                                                                
-                █                                                                
-                █                                                                
-                █                                                                
-                █                                                                
-                █                                                                
-                █                                                                
-                █                                                                
-                █                                                                
-                █                                                                
-                █    ▄                                                           
-▄               █ █  █                            ▄                              
-█           █   █ █  █                     ▄      █                              
+     █                                                                           
+     █                                                                           
+     █                                                                           
+     █                                                                           
+     █                                                                           
+     █                                                                           
+     █                                                                           
+     █                                                                           
+     █                                                                           
+     █                                                                           
+     █     ▄                                                                     
+     █  █  █                                 ▄                                   
+█   ██  █  █                         ▄       █                                   
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-10/02/2026          18/02/2026          25/02/2026          05/03/2026          Now
-14:02               04:02               18:02               07:03               
+15/02/2026          21/02/2026          28/02/2026          06/03/2026          Now
+04:02               14:02               01:02               11:03               
 ```
 
 ### lowlighter/metrics (beta)
@@ -80,7 +76,7 @@ FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 12/03/2026, 21:37:09 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 12/03/2026, 22:30:39 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`0f6d696`](https://github.com/Hans5958/Hans5958/commit/0f6d696f3e5feb2e12cb997cd424fc3160ce5211
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
