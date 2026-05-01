@@ -11,7 +11,7 @@
     "author": "Hans5958",
     "license": "MIT",
     "dependencies": {
-        "@actions/core": "^3.0.0",
+        "@actions/core": "^3.0.1",
         "@octokit/rest": "^22.0.1",
         "dayjs": "^1.11.20",
         "promisify-child-process": "^5.0.1"
