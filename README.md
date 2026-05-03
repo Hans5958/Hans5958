@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -27,6 +27,7 @@ FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`6e89c55`](https://github.com/Hans5958/VocaDB-Wiki/commit/6e89c55acc857929dd588786a5ec098f62b0260a) Clarify "Cover unifiers" rule 2 ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/cover-unifiers](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/cover-unifiers))
 - [`eaf2907`](https://github.com/Hans5958/VocaDB-Wiki/commit/eaf2907ffa903942e02aa58f405fae4bc069edab) Clarify "Matching original language title fields" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/matching-original-language-title-fields](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/matching-original-language-title-fields))
 - [`c765fab`](https://github.com/Hans5958/VocaDB-Wiki/commit/c765fab9d63a809c2761872831a4dc634ca9e3b4) Split quick links into two columns ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/index](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/index))
 - [`da3c99b`](https://github.com/Hans5958/VocaDB-Wiki/commit/da3c99b559bae279441a99294f622fa741e4aa58) Clarify "Specify original" and adjacent OoS rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/specify-original](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/specify-original))
@@ -36,10 +37,10 @@ FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`59c59a5`](https://github.com/Hans5958/VocaDB-Wiki/commit/59c59a53242bfd53aa65927267b5a9b0c0ffa185) Clarify "Correct YouTube link" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/correct-youtube-link](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/correct-youtube-link))
 - [`96e4fc9`](https://github.com/Hans5958/VocaDB-Wiki/commit/96e4fc9c6b757e4860cbd295ad6be827d9b06d6e) Clarify "Clean title" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/clean-title](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/clean-title))
 - [`9f73ed2`](https://github.com/Hans5958/VocaDB-Wiki/commit/9f73ed2b41c4de13fd9e082c7bc61327d6ac3795) Clarify "Clean title" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/clean-title](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/clean-title))
-- [`adbacc2`](https://github.com/Hans5958/VocaDB-Wiki/commit/adbacc25942f6ad3efdf209d359fd85476cc46f0) Clarify "Correct YouTube link" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/correct-youtube-link](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/correct-youtube-link))
 
 ### Last ten events
 
+- Created comment on issue/PR [#126](https://github.com/VocaDB/Wiki/issues/126) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-03T09:24:23Z)
 - Created comment on issue/PR [#129](https://github.com/VocaDB/Wiki/issues/129) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-03T01:50:50Z)
 - Merged pull request [#127](https://github.com/VocaDB/Wiki/issues/127) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-02T15:18:17Z)
 - Created comment on issue/PR [#130](https://github.com/VocaDB/Wiki/issues/130) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-02T15:03:12Z)
@@ -49,7 +50,6 @@ FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - Created branch `layout/index` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-05-01T12:22:52Z)
 - Opened pull request [#128](https://github.com/VocaDB/Wiki/issues/128) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-01T12:10:37Z)
 - Opened pull request [#127](https://github.com/VocaDB/Wiki/issues/127) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-01T11:47:55Z)
-- Created branch `clarifications/specify-original` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-05-01T11:47:28Z)
 
 ### Activity graph (beta)
 
@@ -57,17 +57,15 @@ FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-                                                                         ▄       
-                                                                         █       
                                                                          █     ▄ 
-                                                              ▄          █     █ 
-                                                              █  ▄       █     █ 
+                                                                         █     █ 
+                                                              ▄  ▄       █     █ 
 █                                                             █  █       █     █ 
-█                                                             █  █    █  █     █ 
-█                          █                                  █  █ █  █  █   █ █ 
+█                                                             █  █    █ ▄█     █ 
+█                          █                                 ██  █ █  █ ██   █ ██
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 12/04/2026          17/04/2026          22/04/2026          28/04/2026          Now
-09:04               14:04               20:04               02:04               
+09:04               15:04               21:04               03:04               
 ```
 
 ### lowlighter/metrics (beta)
@@ -76,7 +74,7 @@ FYI: It is **15:xx** (**3pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 03/05/2026, 08:48:40 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 03/05/2026, 10:08:14 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`719b15a`](https://github.com/Hans5958/Hans5958/commit/719b15ae5922f98768a4411f067241b53dd2b8de
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
