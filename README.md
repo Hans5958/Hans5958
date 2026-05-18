@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **23:xx** (**11pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -27,6 +27,7 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`7b05ccf`](https://github.com/Hans5958/vocadb/commit/7b05ccf269ff3121ac24428dad1b017e2129c402) Remove filtering when dumping PVs ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [patch-3](https://github.com/Hans5958/vocadb/tree/patch-3))
 - [`158fa54`](https://github.com/Hans5958/VocaDB-Wiki/commit/158fa549aac0690e5b0ba28b1d105836136068ea) Clarify "Specify original" and adjacent OoS rule 2 ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/specify-original](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/specify-original))
 - [`f09752a`](https://github.com/Hans5958/VocaDB-Wiki/commit/f09752ae67bffe959ddbfc6546d184bb0664697a) Add build test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
 - [`371eb9f`](https://github.com/Hans5958/VocaDB-Wiki/commit/371eb9fae97f651da862fd153001c8645841239a) Add build test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
@@ -36,10 +37,10 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`9256ff1`](https://github.com/Hans5958/VocaDB-Wiki/commit/9256ff127b397d05bd8850d957e053e367c53bf4) Adjust forbidden artists pages to be clearer ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/forbidden-artists](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/forbidden-artists))
 - [`6e89c55`](https://github.com/Hans5958/VocaDB-Wiki/commit/6e89c55acc857929dd588786a5ec098f62b0260a) Clarify "Cover unifiers" rule 2 ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/cover-unifiers](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/cover-unifiers))
 - [`eaf2907`](https://github.com/Hans5958/VocaDB-Wiki/commit/eaf2907ffa903942e02aa58f405fae4bc069edab) Clarify "Matching original language title fields" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/matching-original-language-title-fields](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/matching-original-language-title-fields))
-- [`c765fab`](https://github.com/Hans5958/VocaDB-Wiki/commit/c765fab9d63a809c2761872831a4dc634ca9e3b4) Split quick links into two columns ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/index](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/index))
 
 ### Last ten events
 
+- Opened pull request [#2166](https://github.com/VocaDB/vocadb/issues/2166) on [VocaDB/vocadb](https://github.com/VocaDB/vocadb) (2026-05-18T14:04:26Z)
 - Created comment on issue/PR [#130](https://github.com/VocaDB/Wiki/issues/130) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-06T09:59:13Z)
 - Created comment on issue/PR [#126](https://github.com/VocaDB/Wiki/issues/126) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-06T09:47:33Z)
 - Created comment on issue/PR [#128](https://github.com/VocaDB/Wiki/issues/128) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-06T09:44:36Z)
@@ -49,7 +50,6 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - Merged pull request [#102](https://github.com/VocaDB/Wiki/issues/102) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-06T01:33:59Z)
 - Merged pull request [#133](https://github.com/VocaDB/Wiki/issues/133) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-03T13:18:38Z)
 - Opened pull request [#133](https://github.com/VocaDB/Wiki/issues/133) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-03T13:03:46Z)
-- Opened pull request [#132](https://github.com/VocaDB/Wiki/issues/132) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-03T12:36:51Z)
 
 ### Activity graph (beta)
 
@@ -57,16 +57,16 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-                                      ▄▄                                         
-                                 █    ██                                         
-                         ▄       █    ██                                         
-                         █  ▄    █    ██                                         
-                         █  █    █    ██                                         
-                         █  █  █ █▄   ██      ██                                 
-█                        █  ██ █ ██ █ ██      ██                                 
+                                 ▄     ▄                                         
+                                 █     █                                         
+                         ▄       █     █                                         
+                         █ ▄     █   ▄ █                                         
+                         █ █     █   ███      █                                  
+                         █ █   █ █   ███      █                                  
+█                        █ █ █ █ ██ ████      ██                                █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-19/04/2026          26/04/2026          03/05/2026          11/05/2026          Now
-08:04               15:04               22:05               05:05               
+19/04/2026          26/04/2026          04/05/2026          11/05/2026          Now
+08:04               16:04               00:05               08:05               
 ```
 
 ### lowlighter/metrics (beta)
@@ -75,7 +75,7 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 18/05/2026, 12:35:01 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 18/05/2026, 16:26:28 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`719b15a`](https://github.com/Hans5958/Hans5958/commit/719b15ae5922f98768a4411f067241b53dd2b8de
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
