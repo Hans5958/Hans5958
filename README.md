@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
 
@@ -36,7 +36,6 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`5b64c0b`](https://github.com/Hans5958/VocaDB-Wiki/commit/5b64c0b3abba2200e0eed10c967d0b8e4a455f0d) Adjust forbidden artists pages to be clearer ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/forbidden-artists](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/forbidden-artists))
 - [`9cd64c8`](https://github.com/Hans5958/VocaDB-Wiki/commit/9cd64c84522faf13bf09d348c563256e5bc94214) Clarify "Simultaneous uploads" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [main](https://github.com/Hans5958/VocaDB-Wiki/tree/main))
 - [`9256ff1`](https://github.com/Hans5958/VocaDB-Wiki/commit/9256ff127b397d05bd8850d957e053e367c53bf4) Adjust forbidden artists pages to be clearer ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/forbidden-artists](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/forbidden-artists))
-- [`6e89c55`](https://github.com/Hans5958/VocaDB-Wiki/commit/6e89c55acc857929dd588786a5ec098f62b0260a) Clarify "Cover unifiers" rule 2 ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/cover-unifiers](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/cover-unifiers))
 
 ### Last ten events
 
@@ -62,12 +61,11 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 █                                                                                
 █                                                                                
 █                                                                                
-█                                                                                
 █      ██                                                                        
-█      ██                               █                                       █
+█      ██                               █                                      █ 
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-03/05/2026          10/05/2026          18/05/2026          26/05/2026          Now
-09:05               22:05               11:05               00:05               
+03/05/2026          11/05/2026          18/05/2026          26/05/2026          Now
+12:05               01:05               15:05               05:05               
 ```
 
 ### lowlighter/metrics (beta)
@@ -76,7 +74,7 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 02/06/2026, 14:06:06 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 02/06/2026, 18:41:51 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`719b15a`](https://github.com/Hans5958/Hans5958/commit/719b15ae5922f98768a4411f067241b53dd2b8de
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
