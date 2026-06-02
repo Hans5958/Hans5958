@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -30,12 +30,6 @@ FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`cae469f`](https://github.com/Hans5958/VocaDB-Wiki/commit/cae469f32d91095b43be1621b8581f9c3330e571) Remove OKISO from Forbidden artist (AI-generated songs) ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-1](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-1))
 - [`7b05ccf`](https://github.com/Hans5958/vocadb/commit/7b05ccf269ff3121ac24428dad1b017e2129c402) Remove filtering when dumping PVs ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [patch-3](https://github.com/Hans5958/vocadb/tree/patch-3))
 - [`158fa54`](https://github.com/Hans5958/VocaDB-Wiki/commit/158fa549aac0690e5b0ba28b1d105836136068ea) Clarify "Specify original" and adjacent OoS rule 2 ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/specify-original](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/specify-original))
-- [`f09752a`](https://github.com/Hans5958/VocaDB-Wiki/commit/f09752ae67bffe959ddbfc6546d184bb0664697a) Add build test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
-- [`371eb9f`](https://github.com/Hans5958/VocaDB-Wiki/commit/371eb9fae97f651da862fd153001c8645841239a) Add build test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
-- [`ca9986e`](https://github.com/Hans5958/VocaDB-Wiki/commit/ca9986e3b6d216628e7ebe0e1e0c48a695e5648b) Add building test ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
-- [`5b64c0b`](https://github.com/Hans5958/VocaDB-Wiki/commit/5b64c0b3abba2200e0eed10c967d0b8e4a455f0d) Adjust forbidden artists pages to be clearer ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/forbidden-artists](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/forbidden-artists))
-- [`9cd64c8`](https://github.com/Hans5958/VocaDB-Wiki/commit/9cd64c84522faf13bf09d348c563256e5bc94214) Clarify "Simultaneous uploads" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [main](https://github.com/Hans5958/VocaDB-Wiki/tree/main))
-- [`9256ff1`](https://github.com/Hans5958/VocaDB-Wiki/commit/9256ff127b397d05bd8850d957e053e367c53bf4) Adjust forbidden artists pages to be clearer ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/forbidden-artists](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/forbidden-artists))
 
 ### Last ten events
 
@@ -48,7 +42,6 @@ FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://im
 - Merged pull request [#131](https://github.com/VocaDB/Wiki/issues/131) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-06T01:34:13Z)
 - Merged pull request [#132](https://github.com/VocaDB/Wiki/issues/132) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-06T01:34:09Z)
 - Merged pull request [#102](https://github.com/VocaDB/Wiki/issues/102) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-06T01:33:59Z)
-- Merged pull request [#133](https://github.com/VocaDB/Wiki/issues/133) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-05-03T13:18:38Z)
 
 ### Activity graph (beta)
 
@@ -56,16 +49,11 @@ FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-▄                                                                                
-█                                                                                
-█                                                                                
-█                                                                                
-█                                                                                
-█      ██                                                                        
-█      ██                               █                                      █ 
+██                                                                               
+██                                  █                                          █ 
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-03/05/2026          11/05/2026          18/05/2026          26/05/2026          Now
-12:05               01:05               15:05               05:05               
+06/05/2026          13/05/2026          19/05/2026          26/05/2026          Now
+01:05               00:05               23:05               22:05               
 ```
 
 ### lowlighter/metrics (beta)
@@ -74,7 +62,7 @@ FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 02/06/2026, 18:41:51 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 02/06/2026, 21:50:17 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`719b15a`](https://github.com/Hans5958/Hans5958/commit/719b15ae5922f98768a4411f067241b53dd2b8de
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
