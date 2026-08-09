@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **02:xx** (**2am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **03:xx** (**3am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.github.io/#about>Read about me:</a></summary>
@@ -28,7 +28,6 @@ FYI: It is **02:xx** (**2am**) in Jakarta. :crescent_moon:  <img src="https://im
 ### Last ten commits
 
 - [`4fd2c00`](https://github.com/Hans5958/Black-MIDI-Meta/commit/4fd2c00692182b832de49e9f3d1f5b4de1e0d1ff) Update copyright notice ([Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta), [master](https://github.com/Hans5958/Black-MIDI-Meta/tree/master))
-- [`dc44b15`](https://github.com/Hans5958/vocadb/commit/dc44b15a16b799cd24a9c483c7a94ad62f78faf6) Add support for Niconico Shorts ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [nnd-shorts](https://github.com/Hans5958/vocadb/tree/nnd-shorts))
 
 ### Last ten events
 
@@ -37,8 +36,6 @@ FYI: It is **02:xx** (**2am**) in Jakarta. :crescent_moon:  <img src="https://im
 - Created comment on issue/PR [#75](https://github.com/Hans5958/HKBP-Guidebook/issues/75) on [Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook) (2026-08-08T09:02:37Z)
 - Created comment on issue/PR [#78](https://github.com/Hans5958/Black-MIDI-Meta/issues/78) on [Hans5958/Black-MIDI-Meta](https://github.com/Hans5958/Black-MIDI-Meta) (2026-08-08T09:02:30Z)
 - Created comment on issue/PR [#9127](https://github.com/ScratchAddons/ScratchAddons/issues/9127) on [ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) (2026-07-29T11:13:05Z)
-- Opened pull request [#2176](https://github.com/VocaDB/vocadb/issues/2176) on [VocaDB/vocadb](https://github.com/VocaDB/vocadb) (2026-07-10T13:20:30Z)
-- Created branch `nnd-shorts` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-07-10T13:04:02Z)
 
 ### Activity graph (beta)
 
@@ -46,15 +43,15 @@ FYI: It is **02:xx** (**2am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-█                                                                           ██   
-█                                                 ▄                         ██   
+                                                                      █          
+                                                                      █          
+                                                                      █          
+                                                                      █          
+                                                                      ██         
+▄                                                                     ██         
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-10/07/2026          18/07/2026          25/07/2026          02/08/2026          Now
-13:07               02:07               16:07               05:08               
+29/07/2026          01/08/2026          04/08/2026          07/08/2026          Now
+11:07               07:08               03:08               00:08               
 ```
 
 ### lowlighter/metrics (beta)
@@ -63,7 +60,7 @@ FYI: It is **02:xx** (**2am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 09/08/2026, 19:35:17 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 09/08/2026, 20:35:29 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`3ec5af1`](https://github.com/Hans5958/Hans5958/commit/3ec5af1570502d8adc4ea019c720337695576768
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
