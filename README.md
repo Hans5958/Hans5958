@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **01:xx** (**1am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.id/#about>Read about me:</a></summary>
 
@@ -27,6 +27,8 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`a0b21a1`](https://github.com/Hans5958/hans5958.github.io/commit/a0b21a1024efa5279a3556b43c5fbb67af67063c) Fix blog inclusion on index page ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
+- [`96c896f`](https://github.com/Hans5958/hans5958.github.io/commit/96c896ff950563a5bfedc2f8eb79ca01e74d3a48) Fix repository link ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`3931d5f`](https://github.com/Hans5958/Hans5958/commit/3931d5fd249d10c60f409143e9a07328b572c6d4) Update websites to new domain ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
 - [`fac6e85`](https://github.com/Hans5958/Hans5958/commit/fac6e85c817e981f3da0c8694faafe7124ee57c1) Update websites to new domain ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [master](https://github.com/Hans5958/Hans5958/tree/master))
 - [`dc24a7e`](https://github.com/Hans5958/blog/commit/dc24a7e55251a77630f1235e35305aa394189d3a) Use blog.hans5958.id as domain 2 ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
@@ -35,8 +37,6 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`3721efb`](https://github.com/Hans5958/blog/commit/3721efbc3d08be904081cbeac6a7d6f4a5d8a5eb) Use blog.hans5958.id as domain ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
 - [`913e117`](https://github.com/Hans5958/hans5958.github.io/commit/913e1178bc37f3735265e2c3b33abbb166f9d62d) Update Discord verification ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`2b7438d`](https://github.com/Hans5958/hans5958.github.io/commit/2b7438d38a707f61327a0123422be9f6f7692845) Use hans5958.id 2 ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
-- [`2bb1a99`](https://github.com/Hans5958/hans5958.github.io/commit/2bb1a995e9215522115cf0d373e72ed717123aad) Bump dependencies ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
-- [`6760285`](https://github.com/Hans5958/hans5958.github.io/commit/6760285d660e4726dc589b4d6e0cbed196bb436d) Bump dependencies ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 
 ### Last ten events
 
@@ -48,13 +48,14 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-                                                                                ▄
-                                                                                █
-                                                                               ▄█
+                                                                               █ 
+                                                                               █ 
+                                                                               █ 
+                                                                               █ 
 ▄                                                                              ██
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 06/09/2026          10/09/2026          13/09/2026          17/09/2026          Now
-14:09               02:09               14:09               02:09               
+14:09               03:09               16:09               05:09               
 ```
 
 ### lowlighter/metrics (beta)
@@ -63,7 +64,7 @@ FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 20/09/2026, 14:36:28 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 20/09/2026, 18:05:36 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`3931d5f`](https://github.com/Hans5958/Hans5958/commit/3931d5fd249d10c60f409143e9a07328b572c6d4
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
