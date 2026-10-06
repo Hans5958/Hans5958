@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **21:xx** (**9pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.id/#about>Read about me:</a></summary>
@@ -27,19 +27,21 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`8c5c504`](https://github.com/Hans5958/VocaDB-Wiki/commit/8c5c5046294496ff71ab4b07856d86bd5a57f272) Clarify "Skip original artist credits for derived songs" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-4](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-4))
+- [`c930303`](https://github.com/Hans5958/VocaDB-Wiki/commit/c930303e5d5ad48581bc4e222f837651dc41ad9b) Fix links to rules on Forbidden artists ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-2](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-2))
+- [`635da73`](https://github.com/Hans5958/VocaDB-Wiki/commit/635da73530282d111c739f8ad00e2a34011d6dec) Clarify "Skip original artist credits for derived songs" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-4](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-4))
+- [`35175d4`](https://github.com/Hans5958/VocaDB-Wiki/commit/35175d416cde981ecfb761a4125b8050e8f8a023) Fix lint issue ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/lint-ci](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/lint-ci))
+- [`1bff086`](https://github.com/Hans5958/VocaDB-Wiki/commit/1bff086bfe8d6320ec7ed1aed98771ebf2462161) Clarify "Skip original artist credits for derived songs" ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-4](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-4))
 - [`134b45b`](https://github.com/Hans5958/hans5958.github.io/commit/134b45bed45b323903e2f017aada8e63bde90129) Add avatar as favicon and meta images ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`d3adf94`](https://github.com/Hans5958/hans5958.github.io/commit/d3adf94a2a1a4f2a3d752be51919da4e236bb4a6) Fix blog image being cropped 2 ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`118678c`](https://github.com/Hans5958/hans5958.github.io/commit/118678c156b57a074a22e0e796ac4c73af9dba93) Adjust latest blog post section lead ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`a0b21a1`](https://github.com/Hans5958/hans5958.github.io/commit/a0b21a1024efa5279a3556b43c5fbb67af67063c) Fix blog inclusion on index page ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`96c896f`](https://github.com/Hans5958/hans5958.github.io/commit/96c896ff950563a5bfedc2f8eb79ca01e74d3a48) Fix repository link ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
-- [`3931d5f`](https://github.com/Hans5958/Hans5958/commit/3931d5fd249d10c60f409143e9a07328b572c6d4) Update websites to new domain ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [dev](https://github.com/Hans5958/Hans5958/tree/dev))
-- [`fac6e85`](https://github.com/Hans5958/Hans5958/commit/fac6e85c817e981f3da0c8694faafe7124ee57c1) Update websites to new domain ([Hans5958/Hans5958](https://github.com/Hans5958/Hans5958), [master](https://github.com/Hans5958/Hans5958/tree/master))
-- [`dc24a7e`](https://github.com/Hans5958/blog/commit/dc24a7e55251a77630f1235e35305aa394189d3a) Use blog.hans5958.id as domain 2 ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
-- [`30beda2`](https://github.com/Hans5958/blog/commit/30beda2c633e391dfde1128321c138fb0edd4d50) Use pnpm, update dependencies, adjust for compatibility with dep updates 2 ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
-- [`d6c4ce2`](https://github.com/Hans5958/blog/commit/d6c4ce2a62b7aa2611522c1b09de46acd1be4be4) Update GitHub Actions dependencies ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
 
 ### Last ten events
 
+- Opened pull request [#147](https://github.com/VocaDB/Wiki/issues/147) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-10-06T09:06:23Z)
+- Opened pull request [#146](https://github.com/VocaDB/Wiki/issues/146) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-10-06T08:48:56Z)
 - Created comment on issue/PR [#50](https://github.com/Hans5958/hans5958.github.io/issues/50) on [Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io) (2026-09-21T13:26:18Z)
 - Closed issue [#50](https://github.com/Hans5958/hans5958.github.io/issues/50) on [Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io) (2026-09-21T13:26:19Z)
 
@@ -49,14 +51,14 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-                                      ▄                                          
-                                      █                                          
-                                      █ ▄                                        
-                                     ▄█ █                                        
-▄                                    ██ █                                        
+                                     █                                           
+                                     █                                         ▄ 
+                                     █  ▄                                      █ 
+                                     █  █                                      █ 
+▄                                    ██ █                                      █ 
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-06/09/2026          14/09/2026          21/09/2026          28/09/2026          Now
-14:09               00:09               10:09               21:09               
+06/09/2026          14/09/2026          21/09/2026          29/09/2026          Now
+14:09               02:09               14:09               02:09               
 ```
 
 ### lowlighter/metrics (beta)
@@ -65,7 +67,7 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 06/10/2026, 07:19:57 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 06/10/2026, 14:52:39 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`3931d5f`](https://github.com/Hans5958/Hans5958/commit/3931d5fd249d10c60f409143e9a07328b572c6d4
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
