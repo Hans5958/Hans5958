@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.id/#about>Read about me:</a></summary>
 
@@ -40,6 +40,7 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten events
 
+- Created comment on issue/PR [#41](https://github.com/Hans5958/mini-htmls/issues/41) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-10-13T12:29:23Z)
 - Created comment on issue/PR [#43](https://github.com/Hans5958/mini-htmls/issues/43) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-10-12T15:07:01Z)
 - Merged pull request [#2176](https://github.com/VocaDB/vocadb/issues/2176) on [VocaDB/vocadb](https://github.com/VocaDB/vocadb) (2026-10-12T14:10:35Z)
 - Labeled issue [#26](https://github.com/Hans5958/mini-htmls/issues/26) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-10-12T15:08:22Z)
@@ -49,7 +50,6 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 - Labeled issue [#43](https://github.com/Hans5958/mini-htmls/issues/43) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-10-12T15:07:08Z)
 - Closed issue [#43](https://github.com/Hans5958/mini-htmls/issues/43) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-10-12T15:07:01Z)
 - Created comment on issue/PR [#42](https://github.com/Hans5958/mini-htmls/issues/42) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-10-07T00:26:24Z)
-- Closed issue [#42](https://github.com/Hans5958/mini-htmls/issues/42) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-10-07T00:26:25Z)
 
 ### Activity graph (beta)
 
@@ -58,13 +58,13 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 ```
                                                                                  
 █                                                                                
-█                                                       █                     ▄  
-█                                                       █                     █  
-█   █                                                   █                     █  
-██ ▄█                                                   █ █                  ▄█  
+█                                                      █                    █    
+█                                                      █                    █    
+█   ▄                                                  █                    █    
+██ ██                                                  █ █                  █   ▄
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-20/09/2026          26/09/2026          01/10/2026          07/10/2026          Now
-11:09               04:09               21:10               14:10               
+20/09/2026          26/09/2026          02/10/2026          07/10/2026          Now
+11:09               06:09               01:10               20:10               
 ```
 
 ### lowlighter/metrics (beta)
@@ -73,7 +73,7 @@ FYI: It is **14:xx** (**2pm**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 13/10/2026, 07:28:11 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 13/10/2026, 15:41:14 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`3931d5f`](https://github.com/Hans5958/Hans5958/commit/3931d5fd249d10c60f409143e9a07328b572c6d4
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
