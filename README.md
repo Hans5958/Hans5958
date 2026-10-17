@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **02:xx** (**2am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.id/#about>Read about me:</a></summary>
@@ -27,6 +27,7 @@ FYI: It is **02:xx** (**2am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`5dd8acc`](https://github.com/Hans5958/blog/commit/5dd8acc1d8beebaaecbafad058c1aee4f01308d3) Add ATProto meta tags ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
 - [`fd7052a`](https://github.com/Hans5958/mini-htmls/commit/fd7052a8b5aa0c98c4e5e503bc52c00f15dd1450) Add ATProto meta tags ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`f07b95a`](https://github.com/Hans5958/hans5958.github.io/commit/f07b95a3131e718a519b5c4170b70b9b7be8dff8) Add Bluesky meta tag ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
 - [`98ab19a`](https://github.com/Hans5958/mini-htmls/commit/98ab19aa6902532368f6a5af7e37f17186001fbe) Fix analytics ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
@@ -36,7 +37,6 @@ FYI: It is **02:xx** (**2am**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`7039814`](https://github.com/Hans5958/mini-htmls/commit/703981427687cc28e4ccf9c443019f4f2834ba4a) Update dependencies ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`8c5c504`](https://github.com/Hans5958/VocaDB-Wiki/commit/8c5c5046294496ff71ab4b07856d86bd5a57f272) Clarify "Skip original artist credits for derived songs" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-4](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-4))
 - [`c930303`](https://github.com/Hans5958/VocaDB-Wiki/commit/c930303e5d5ad48581bc4e222f837651dc41ad9b) Fix links to rules on Forbidden artists ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-2](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-2))
-- [`635da73`](https://github.com/Hans5958/VocaDB-Wiki/commit/635da73530282d111c739f8ad00e2a34011d6dec) Clarify "Skip original artist credits for derived songs" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-4](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-4))
 
 ### Last ten events
 
@@ -57,14 +57,14 @@ FYI: It is **02:xx** (**2am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-█                                                                                
-█                                              █                 █             █ 
-█  ▄                                           █                 █           ▄ █ 
-█  █                                           █                 █           █ ██
-██ █                                           ██                █ █▄        █ ██
+█                                                                              █ 
+█                                             █                  ▄             █ 
+█  ▄                                          █                  █          █  █ 
+█  █                                          █                  █          █  █ 
+██ █                                          █ █               ▄█ █▄       █ ██ 
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-20/09/2026          27/09/2026          04/10/2026          10/10/2026          Now
-11:09               07:09               03:10               23:10               
+20/09/2026          27/09/2026          04/10/2026          11/10/2026          Now
+11:09               08:09               04:10               01:10               
 ```
 
 ### lowlighter/metrics (beta)
@@ -73,7 +73,7 @@ FYI: It is **02:xx** (**2am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 17/10/2026, 19:04:53 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 17/10/2026, 22:01:18 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`3931d5f`](https://github.com/Hans5958/Hans5958/commit/3931d5fd249d10c60f409143e9a07328b572c6d4
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
