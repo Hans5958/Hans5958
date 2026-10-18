@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **17:xx** (**5pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.id/#about>Read about me:</a></summary>
@@ -27,29 +27,29 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten commits
 
+- [`cef695a`](https://github.com/Hans5958/Domino-English-Translation/commit/cef695afc78b19979bfe4c148d6e80ee87b7bd54) Update README ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
+- [`510c8b7`](https://github.com/Hans5958/Domino-English-Translation/commit/510c8b7c69f69426d99d578a2acbc98f344d4714) Update release notes for manual nightly deployment ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
+- [`5765ba5`](https://github.com/Hans5958/Domino-English-Translation/commit/5765ba563c279f322bb4e3aa8ce3aae9b9228e76) Merge branch 'support-1.45' ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
+- [`ba02eac`](https://github.com/Hans5958/Domino-English-Translation/commit/ba02eacb7dc08a096c931becddad37a0da181fad) Check changes from last nightly deployment ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
+- [`777fd1d`](https://github.com/Hans5958/Domino-English-Translation/commit/777fd1d26112ec6b2c2db07a01e715ef0640aa1d) Merge branch 'master' into support-1.45 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`f8fbd2b`](https://github.com/Hans5958/Domino-English-Translation/commit/f8fbd2b9fef57cdde3715be6a95ff62603ed0c64) Update dependencies ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
+- [`7d5d6e8`](https://github.com/Hans5958/mini-htmls/commit/7d5d6e86c5c530cd6081f81b01a069a28a8c0fc0) TextureAtlas Extractor: Reduce crashes on mobile devices ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`5dd8acc`](https://github.com/Hans5958/blog/commit/5dd8acc1d8beebaaecbafad058c1aee4f01308d3) Add ATProto meta tags ([Hans5958/blog](https://github.com/Hans5958/blog), [master](https://github.com/Hans5958/blog/tree/master))
 - [`fd7052a`](https://github.com/Hans5958/mini-htmls/commit/fd7052a8b5aa0c98c4e5e503bc52c00f15dd1450) Add ATProto meta tags ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`f07b95a`](https://github.com/Hans5958/hans5958.github.io/commit/f07b95a3131e718a519b5c4170b70b9b7be8dff8) Add Bluesky meta tag ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
-- [`98ab19a`](https://github.com/Hans5958/mini-htmls/commit/98ab19aa6902532368f6a5af7e37f17186001fbe) Fix analytics ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
-- [`832db94`](https://github.com/Hans5958/hans5958.github.io/commit/832db94db66a72bbeb53fbb92cb8b59fb5c4899d) Add ATProto meta tags ([Hans5958/hans5958.github.io](https://github.com/Hans5958/hans5958.github.io), [master](https://github.com/Hans5958/hans5958.github.io/tree/master))
-- [`63f8e38`](https://github.com/Hans5958/mini-htmls/commit/63f8e3890bf85cdd529e959ae8265e51e51c62bf) Add ATProto meta tags ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
-- [`d4bccc2`](https://github.com/Hans5958/mini-htmls/commit/d4bccc27265034534d283747196df7e19cfb9fef) Update some config ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
-- [`7039814`](https://github.com/Hans5958/mini-htmls/commit/703981427687cc28e4ccf9c443019f4f2834ba4a) Update dependencies ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
-- [`8c5c504`](https://github.com/Hans5958/VocaDB-Wiki/commit/8c5c5046294496ff71ab4b07856d86bd5a57f272) Clarify "Skip original artist credits for derived songs" rule ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-4](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-4))
-- [`c930303`](https://github.com/Hans5958/VocaDB-Wiki/commit/c930303e5d5ad48581bc4e222f837651dc41ad9b) Fix links to rules on Forbidden artists ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [patch-2](https://github.com/Hans5958/VocaDB-Wiki/tree/patch-2))
 
 ### Last ten events
 
+- Updated wiki on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2026-10-18T05:51:54Z)
+- Updated wiki on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2026-10-18T05:51:20Z)
+- Updated wiki on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2026-10-18T05:47:45Z)
+- Updated wiki on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2026-10-18T05:39:44Z)
 - Created comment on issue/PR [#45](https://github.com/Hans5958/Domino-English-Translation/issues/45) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2026-10-17T16:40:57Z)
 - Created comment on issue/PR [#49](https://github.com/Hans5958/Domino-English-Translation/issues/49) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2026-10-17T16:40:51Z)
 - Closed issue [#11](https://github.com/Hans5958/Domino-English-Translation/issues/11) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2026-10-17T16:33:19Z)
 - Merged pull request [#17](https://github.com/Hans5958/Domino-English-Translation/issues/17) on [Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation) (2026-10-17T16:33:17Z)
 - Created comment on issue/PR [#28](https://github.com/Hans5958/mini-htmls/issues/28) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-10-17T12:06:12Z)
 - Created comment on issue/PR [#44](https://github.com/Hans5958/mini-htmls/issues/44) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-10-17T11:57:31Z)
-- Created comment on issue/PR [#44](https://github.com/Hans5958/mini-htmls/issues/44) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-10-17T11:39:44Z)
-- Closed issue [#44](https://github.com/Hans5958/mini-htmls/issues/44) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-10-17T11:39:44Z)
-- Closed issue [#28](https://github.com/Hans5958/mini-htmls/issues/28) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-10-17T11:37:20Z)
-- Closed issue [#18](https://github.com/Hans5958/mini-htmls/issues/18) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-10-17T11:37:20Z)
 
 ### Activity graph (beta)
 
@@ -57,14 +57,14 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ```
                                                                                  
-█                                                                             █  
-█                                             █                 █             █  
-█  ▄                                          █                 █             █  
-█  █                                          █                 █          ▄▄ █  
-██ █                                          █ █               █ █▄       ████  
+█                                                                            ▄   
+█                                            █                 █             █▄▄ 
+█  ▄                                         █                 █           █ ███ 
+█  █                                         █                 █  ▄        █ ███ 
+██ █                                         █ █               █  █        █ ███ 
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 20/09/2026          27/09/2026          04/10/2026          11/10/2026          Now
-11:09               10:09               08:10               07:10               
+11:09               11:09               11:10               10:10               
 ```
 
 ### lowlighter/metrics (beta)
@@ -73,7 +73,7 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 18/10/2026, 05:31:30 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 18/10/2026, 10:36:42 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`3931d5f`](https://github.com/Hans5958/Hans5958/commit/3931d5fd249d10c60f409143e9a07328b572c6d4
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
