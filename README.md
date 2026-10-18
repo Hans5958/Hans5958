@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **03:xx** (**3am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **05:xx** (**5am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.id/#about>Read about me:</a></summary>
@@ -27,6 +27,8 @@ FYI: It is **03:xx** (**3am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`f6f8f21`](https://github.com/Hans5958/Domino-English-Translation/commit/f6f8f21ae05738157c773dbc34fa70eabeb4cd72) Heading changes based on checklist ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
+- [`c32dc5d`](https://github.com/Hans5958/Domino-English-Translation/commit/c32dc5dd7e29e07fd4387888314986917022c741) More consistency check ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`fd6a413`](https://github.com/Hans5958/mini-htmls/commit/fd6a413d0b502a795561bee78d5312a9afafe4c3) TextureAtlas Extractor: Add update notice/alert ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`48fca75`](https://github.com/Hans5958/Domino-English-Translation/commit/48fca75e115e72a6704643471de00ffb9d319d7a) Check changes from last nightly deployment ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`798b603`](https://github.com/Hans5958/Domino-English-Translation/commit/798b60344b5c05b4147ddc0ea85e5962b1b3b58a) Update dependencies 2 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
@@ -35,8 +37,6 @@ FYI: It is **03:xx** (**3am**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`5765ba5`](https://github.com/Hans5958/Domino-English-Translation/commit/5765ba563c279f322bb4e3aa8ce3aae9b9228e76) Merge branch 'support-1.45' ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`ba02eac`](https://github.com/Hans5958/Domino-English-Translation/commit/ba02eacb7dc08a096c931becddad37a0da181fad) Check changes from last nightly deployment ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`777fd1d`](https://github.com/Hans5958/Domino-English-Translation/commit/777fd1d26112ec6b2c2db07a01e715ef0640aa1d) Merge branch 'master' into support-1.45 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`f8fbd2b`](https://github.com/Hans5958/Domino-English-Translation/commit/f8fbd2b9fef57cdde3715be6a95ff62603ed0c64) Update dependencies ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
-- [`7d5d6e8`](https://github.com/Hans5958/mini-htmls/commit/7d5d6e86c5c530cd6081f81b01a069a28a8c0fc0) TextureAtlas Extractor: Reduce crashes on mobile devices ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 
 ### Last ten events
 
@@ -57,14 +57,17 @@ FYI: It is **03:xx** (**3am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-█                                                                           ▄ ▄  
-█                                            █                █             ███  
-█  ▄                                         █                █           █ ███  
-█  █                                         █                █  ▄        █ ███  
-██ █                                         █ █              █  █        █ ███  
+                                                                            ▄    
+                                                                            █    
+                                                                            █    
+█                                                                           █ ▄  
+█                                            █                █             █ █  
+█  ▄                                         █                █           █ █ █  
+█  █                                         █                █  ▄        █ █ █  
+██ █                                         ██               █  █        █████  
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 20/09/2026          27/09/2026          04/10/2026          11/10/2026          Now
-11:09               14:09               16:10               18:10               
+11:09               14:09               17:10               20:10               
 ```
 
 ### lowlighter/metrics (beta)
@@ -73,7 +76,7 @@ FYI: It is **03:xx** (**3am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 18/10/2026, 20:18:05 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 18/10/2026, 22:52:05 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`3931d5f`](https://github.com/Hans5958/Hans5958/commit/3931d5fd249d10c60f409143e9a07328b572c6d4
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
