@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **02:xx** (**2am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.id/#about>Read about me:</a></summary>
 
@@ -27,6 +27,7 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`93e9ab6`](https://github.com/Hans5958/Domino-English-Translation/commit/93e9ab68ca477549bc15af3d11764933c7877d68) Translate the rest of the Manual ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`f6f8f21`](https://github.com/Hans5958/Domino-English-Translation/commit/f6f8f21ae05738157c773dbc34fa70eabeb4cd72) Heading changes based on checklist ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`c32dc5d`](https://github.com/Hans5958/Domino-English-Translation/commit/c32dc5dd7e29e07fd4387888314986917022c741) More consistency check ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`fd6a413`](https://github.com/Hans5958/mini-htmls/commit/fd6a413d0b502a795561bee78d5312a9afafe4c3) TextureAtlas Extractor: Add update notice/alert ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
@@ -36,7 +37,6 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 - [`510c8b7`](https://github.com/Hans5958/Domino-English-Translation/commit/510c8b7c69f69426d99d578a2acbc98f344d4714) Update release notes for manual nightly deployment ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`5765ba5`](https://github.com/Hans5958/Domino-English-Translation/commit/5765ba563c279f322bb4e3aa8ce3aae9b9228e76) Merge branch 'support-1.45' ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`ba02eac`](https://github.com/Hans5958/Domino-English-Translation/commit/ba02eacb7dc08a096c931becddad37a0da181fad) Check changes from last nightly deployment ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
-- [`777fd1d`](https://github.com/Hans5958/Domino-English-Translation/commit/777fd1d26112ec6b2c2db07a01e715ef0640aa1d) Merge branch 'master' into support-1.45 ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [support-1.45](https://github.com/Hans5958/Domino-English-Translation/tree/support-1.45))
 
 ### Last ten events
 
@@ -57,15 +57,17 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-                                                                            ▄    
-█                                                                         ▄ █    
-█                                           █                █            ███    
-█  ▄                                        █                █          █ ███    
-█  █                                        █                █          █ ███    
-██ █                                        █ █              █ █▄       █ ███    
+                                                                          █      
+                                                                          █      
+▄                                                                         █      
+█                                                                         █      
+█                                          █                █             █ █    
+█  ▄                                       █                █          ▄  █ █    
+█  █                                       █                █  ▄       █  █▄█    
+█▄ █                                       █ █              █  █       █▄████    
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 20/09/2026          27/09/2026          05/10/2026          12/10/2026          Now
-11:09               18:09               00:10               06:10               
+11:09               19:09               03:10               11:10               
 ```
 
 ### lowlighter/metrics (beta)
@@ -74,7 +76,7 @@ FYI: It is **19:xx** (**7pm**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 19/10/2026, 12:33:29 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 19/10/2026, 19:07:43 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`3931d5f`](https://github.com/Hans5958/Hans5958/commit/3931d5fd249d10c60f409143e9a07328b572c6d4
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
