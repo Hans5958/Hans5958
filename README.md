@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **07:xx** (**7am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I will be online in a few hours or so.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **13:xx** (**1pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.id/#about>Read about me:</a></summary>
 
@@ -27,6 +27,7 @@ FYI: It is **07:xx** (**7am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ### Last ten commits
 
+- [`296426d`](https://github.com/Hans5958/vocadb/commit/296426da749279e318691bfb92602b063ab48c2d) Migrate from AppVeyor to GitHub Actions ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [github-actions](https://github.com/Hans5958/vocadb/tree/github-actions))
 - [`3cd2039`](https://github.com/Hans5958/VocaDB-Wiki/commit/3cd2039c39d68f4bd160b41fec73d784501b6c5b) Rename "human original" tag to "original by human" ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/specify-original](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/specify-original))
 - [`e8e6685`](https://github.com/Hans5958/VocaDB-Wiki/commit/e8e6685d92b64db54befc8dd7ac142526033158a) Defer hydration, use NavContents directly ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/simplify-out](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/simplify-out))
 - [`45df193`](https://github.com/Hans5958/HKBP-Guidebook/commit/45df1932dd8ac9d6c81ef1f294eab5e0e28af80b) Gunakan subtitle, rapikan front matter ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
@@ -36,20 +37,19 @@ FYI: It is **07:xx** (**7am**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`93e9ab6`](https://github.com/Hans5958/Domino-English-Translation/commit/93e9ab68ca477549bc15af3d11764933c7877d68) Translate the rest of the Manual ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`f6f8f21`](https://github.com/Hans5958/Domino-English-Translation/commit/f6f8f21ae05738157c773dbc34fa70eabeb4cd72) Heading changes based on checklist ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 - [`c32dc5d`](https://github.com/Hans5958/Domino-English-Translation/commit/c32dc5dd7e29e07fd4387888314986917022c741) More consistency check ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
-- [`fd6a413`](https://github.com/Hans5958/mini-htmls/commit/fd6a413d0b502a795561bee78d5312a9afafe4c3) TextureAtlas Extractor: Add update notice/alert ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 
 ### Last ten events
 
-- Created branch `bilibili-matcher-lang` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-05T14:45:25Z)
-- Merged pull request [#149](https://github.com/VocaDB/Wiki/issues/149) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-11-06T17:06:50Z)
-- Merged pull request [#148](https://github.com/VocaDB/Wiki/issues/148) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-11-06T17:06:37Z)
-- Merged pull request [#116](https://github.com/VocaDB/Wiki/issues/116) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-11-06T17:01:38Z)
-- Deleted branch `patch-3` on [Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki) (2026-11-05T15:15:19Z)
-- Created comment on issue/PR [#90](https://github.com/VocaDB/Wiki/issues/90) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-11-05T15:17:55Z)
-- Opened pull request [#149](https://github.com/VocaDB/Wiki/issues/149) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-11-05T15:27:13Z)
-- Opened pull request [#148](https://github.com/VocaDB/Wiki/issues/148) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-11-05T15:16:14Z)
-- Created comment on issue/PR [#142](https://github.com/VocaDB/Wiki/issues/142) on [VocaDB/Wiki](https://github.com/VocaDB/Wiki) (2026-11-05T15:15:00Z)
-- Opened pull request [#2211](https://github.com/VocaDB/vocadb/issues/2211) on [VocaDB/vocadb](https://github.com/VocaDB/vocadb) (2026-11-05T14:52:29Z)
+- Deleted branch `old/feat/163-update-url-on-search-page-3` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:28:21Z)
+- Deleted branch `feat/163-update-url-on-search-page-fix` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:28:00Z)
+- Deleted branch `dependabot/nuget/VocaDbModel/HtmlSanitizer-8.0.723` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:27:39Z)
+- Deleted branch `dependabot/npm_and_yarn/VocaDbWeb/vite-6.4.1` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:27:36Z)
+- Deleted branch `dependabot/npm_and_yarn/VocaDbWeb/node-forge-1.3.3` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:27:28Z)
+- Deleted branch `revert-1307-add-permission-tokens` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:26:24Z)
+- Deleted branch `responsive-layout` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:26:18Z)
+- Deleted branch `pv-strongly-typed-url` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:25:41Z)
+- Deleted branch `fix-translations` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:25:06Z)
+- Deleted branch `196-name-variance` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:24:39Z)
 
 ### Activity graph (beta)
 
@@ -57,17 +57,17 @@ FYI: It is **07:xx** (**7am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █ ▄                                                       ▄       
-█              █ █                                                       █       
-█           █  █ █                                                    ▄  █       
-█  ▄        █  █ █                 ▄                                  █  █  ▄    
-█  █        █ ████         █  ▄    █▄                                 █  █  █    
+               █                                                                ▄
+               █                                                                █
+               █                                                                █
+               █                                                        ▄       █
+█              █ █                                                      █       █
+█           █  █ █                                                   ▄  █       █
+█  ▄        █  █▄█                 ▄                                 █  █  ▄    █
+█  █        █ ████         █  ▄    █▄                                █  █  █    █
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
 12/10/2026          19/10/2026          25/10/2026          01/11/2026          Now
-15:10               05:10               19:10               09:11               
+15:10               07:10               23:10               15:11               
 ```
 
 ### lowlighter/metrics (beta)
@@ -76,7 +76,7 @@ FYI: It is **07:xx** (**7am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 08/11/2026, 00:16:30 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 08/11/2026, 06:59:37 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`6aedd95`](https://github.com/Hans5958/Hans5958/commit/6aedd952926299ffb7d67c73008fa58ae89bf2e6
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
