@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **22:xx** (**10pm**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, but only if I'm on a weekend, or there's nothing to do tommorow morning.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.id/#about>Read about me:</a></summary>
 
@@ -27,6 +27,7 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ### Last ten commits
 
+- [`99c6df8`](https://github.com/Hans5958/vocadb/commit/99c6df8148fdc1451c83d4fa36eeef1d3246f799) Update Bilibili tests with live URLs ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [bilibili-matcher-lang](https://github.com/Hans5958/vocadb/tree/bilibili-matcher-lang))
 - [`420113b`](https://github.com/Hans5958/vocadb/commit/420113bb42b954d1ab3bf075fce17e3524b4ba38) Adjust Bilibili link matcher to support different langs 2 ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [bilibili-matcher-lang](https://github.com/Hans5958/vocadb/tree/bilibili-matcher-lang))
 - [`3b52481`](https://github.com/Hans5958/vocadb/commit/3b5248109d21b9b42ca5a44f0f268e156590cda8) Update Bilibili tests with live URLs ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [bilibili-matcher-lang](https://github.com/Hans5958/vocadb/tree/bilibili-matcher-lang))
 - [`66f7023`](https://github.com/Hans5958/vocadb/commit/66f70230dfcd7b0c9e2b3cdf7999a5d7fb702464) Adjust Bilibili link matcher to support different langs 3 ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [bilibili-matcher-lang](https://github.com/Hans5958/vocadb/tree/bilibili-matcher-lang))
@@ -36,20 +37,19 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 - [`45df193`](https://github.com/Hans5958/HKBP-Guidebook/commit/45df1932dd8ac9d6c81ef1f294eab5e0e28af80b) Gunakan subtitle, rapikan front matter ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`35ccc52`](https://github.com/Hans5958/HKBP-Guidebook/commit/35ccc52af7b72806d991d0b1a299e466a718a409) Update to MaterialX, remove Google Analytics ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
 - [`8b7c383`](https://github.com/Hans5958/HKBP-Guidebook/commit/8b7c3836253ce18ebf50bbd8be21cbed19192ff2) Update to MaterialX, remove Google Analytics ([Hans5958/HKBP-Guidebook](https://github.com/Hans5958/HKBP-Guidebook), [master](https://github.com/Hans5958/HKBP-Guidebook/tree/master))
-- [`2874ca0`](https://github.com/Hans5958/Domino-English-Translation/commit/2874ca0eff9965a40e6d3d39a5ce59df9581026e) Convert scripts from Bash (`.sh`) to PowerShell (`.ps1`) ([Hans5958/Domino-English-Translation](https://github.com/Hans5958/Domino-English-Translation), [master](https://github.com/Hans5958/Domino-English-Translation/tree/master))
 
 ### Last ten events
 
+- Deleted branch `react-client-side-routing` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:25:55Z)
+- Deleted branch `add-ability-to-toggle-mini-player-and-bottom-bar` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:24:51Z)
+- Deleted branch `462-out-of-scope-tag` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:24:48Z)
+- Deleted branch `70-album-reviews` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:24:36Z)
 - Deleted branch `feat/976-fix-reverting-song-entry` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:28:19Z)
 - Deleted branch `dependabot/npm_and_yarn/VocaDbWeb/multi-d74e9e8b49` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:27:25Z)
 - Deleted branch `stores` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:26:29Z)
 - Deleted branch `relationship-stats` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:26:15Z)
 - Deleted branch `refactor` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:26:10Z)
 - Deleted branch `patch-3` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:25:38Z)
-- Deleted branch `377-ssl-refactor` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:24:45Z)
-- Deleted branch `feat/737-new-artist-type-for-cover-artists` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:28:16Z)
-- Deleted branch `feat/305-song-creation-form` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:28:03Z)
-- Deleted branch `feat/1174-add-xml-serializer-formatters` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:27:57Z)
 
 ### Activity graph (beta)
 
@@ -57,44 +57,46 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 ```
                                                                                  
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                            █    
-                                                                   ▄        █    
-                                                                   █        █    
-                                                                ▄  █        █    
-                                                                █  █   ▄    █    
-██           █   ▄    ██                                        █  █   █    █    
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                                          █      
+                                                               ▄          █      
+                                                               █          █      
+                                                           ▄   █          █      
+                                                           █   █    ▄     █      
+█    ▄     ██                                              █   █    █    ▄█      
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-18/10/2026          23/10/2026          29/10/2026          03/11/2026          Now
-00:10               14:10               03:10               16:11               
+21/10/2026          26/10/2026          31/10/2026          04/11/2026          Now
+13:10               07:10               02:10               21:11               
 ```
 
 ### lowlighter/metrics (beta)
@@ -103,7 +105,7 @@ FYI: It is **12:xx** (**12pm**) in Jakarta. :sunny:  <img src="https://img.shiel
 
 </details>
 
-*Last updated: 09/11/2026, 05:21:15 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 09/11/2026, 15:36:55 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`6aedd95`](https://github.com/Hans5958/Hans5958/commit/6aedd952926299ffb7d67c73008fa58ae89bf2e6
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
