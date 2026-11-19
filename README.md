@@ -10,8 +10,8 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
-*There is a great chance that I'm offline, so I'm sorry that I can't respond to you currently.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
+FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+*I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.id/#about>Read about me:</a></summary>
 
@@ -27,6 +27,7 @@ FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ### Last ten commits
 
+- [`aa3cd44`](https://github.com/Hans5958/mini-htmls/commit/aa3cd44de10e1e494ef1cac93bf723a49d7fb6eb) Update domain etc on config and README ([Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls), [master](https://github.com/Hans5958/mini-htmls/tree/master))
 - [`99c6df8`](https://github.com/Hans5958/vocadb/commit/99c6df8148fdc1451c83d4fa36eeef1d3246f799) Update Bilibili tests with live URLs ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [bilibili-matcher-lang](https://github.com/Hans5958/vocadb/tree/bilibili-matcher-lang))
 - [`420113b`](https://github.com/Hans5958/vocadb/commit/420113bb42b954d1ab3bf075fce17e3524b4ba38) Adjust Bilibili link matcher to support different langs 2 ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [bilibili-matcher-lang](https://github.com/Hans5958/vocadb/tree/bilibili-matcher-lang))
 - [`3b52481`](https://github.com/Hans5958/vocadb/commit/3b5248109d21b9b42ca5a44f0f268e156590cda8) Update Bilibili tests with live URLs ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [bilibili-matcher-lang](https://github.com/Hans5958/vocadb/tree/bilibili-matcher-lang))
@@ -54,7 +55,6 @@ FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 ```
                                                                                  
-               ▄                                                                 
                █                                                                 
                █                                                                 
                █                                                                 
@@ -95,12 +95,12 @@ FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://im
                █                                                                 
                █                                                                 
                █                                                                 
-█              █                                                                 
-█     ▄        █                                                                 
-█     █        █                                                    ▄        █   
+▄              █                                                                 
+█     ▄        █                                                            ▄    
+█     █       ▄█                                                   ▄        █    
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-05/11/2026          08/11/2026          12/11/2026          15/11/2026          Now
-15:11               22:11               06:11               13:11               
+05/11/2026          09/11/2026          12/11/2026          15/11/2026          Now
+15:11               00:11               09:11               18:11               
 ```
 
 ### lowlighter/metrics (beta)
@@ -109,7 +109,7 @@ FYI: It is **04:xx** (**4am**) in Jakarta. :crescent_moon:  <img src="https://im
 
 </details>
 
-*Last updated: 18/11/2026, 21:09:41 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 19/11/2026, 02:58:26 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`6aedd95`](https://github.com/Hans5958/Hans5958/commit/6aedd952926299ffb7d67c73008fa58ae89bf2e6
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
