@@ -10,7 +10,7 @@
 [![Reddit: Hans5958_]](https://reddit.com/u/Hans5958_) 
 [![Lemmy: Hans5958@lemmy.world]](https://lemmy.world/u/Hans5958) 
 
-FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
+FYI: It is **18:xx** (**6pm**) in Jakarta. :sunny:  <img src="https://img.shields.io/badge/dynamic/json?label=time&query=time&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">  
 *I'm online, doing stuff, and is able to respond to inquiries.* <img src="https://img.shields.io/badge/dynamic/json?label=date&query=date&url=https%3A%2F%2Fwww.timeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FJakarta&style=flat-square" align="right">
 
 <details><summary><a href=https://hans5958.id/#about>Read about me:</a></summary>
@@ -34,10 +34,10 @@ FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  <img src="https://img.shield
 - [`66f7023`](https://github.com/Hans5958/vocadb/commit/66f70230dfcd7b0c9e2b3cdf7999a5d7fb702464) Adjust Bilibili link matcher to support different langs 3 ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [bilibili-matcher-lang](https://github.com/Hans5958/vocadb/tree/bilibili-matcher-lang))
 - [`296426d`](https://github.com/Hans5958/vocadb/commit/296426da749279e318691bfb92602b063ab48c2d) Migrate from AppVeyor to GitHub Actions ([Hans5958/vocadb](https://github.com/Hans5958/vocadb), [github-actions](https://github.com/Hans5958/vocadb/tree/github-actions))
 - [`3cd2039`](https://github.com/Hans5958/VocaDB-Wiki/commit/3cd2039c39d68f4bd160b41fec73d784501b6c5b) Rename "human original" tag to "original by human" ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [clarifications/specify-original](https://github.com/Hans5958/VocaDB-Wiki/tree/clarifications/specify-original))
-- [`e8e6685`](https://github.com/Hans5958/VocaDB-Wiki/commit/e8e6685d92b64db54befc8dd7ac142526033158a) Defer hydration, use NavContents directly ([Hans5958/VocaDB-Wiki](https://github.com/Hans5958/VocaDB-Wiki), [layout/simplify-out](https://github.com/Hans5958/VocaDB-Wiki/tree/layout/simplify-out))
 
 ### Last ten events
 
+- Created comment on issue/PR [#45](https://github.com/Hans5958/mini-htmls/issues/45) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-11-19T09:41:55Z)
 - Closed issue [#45](https://github.com/Hans5958/mini-htmls/issues/45) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-11-18T11:03:59Z)
 - Created comment on issue/PR [#45](https://github.com/Hans5958/mini-htmls/issues/45) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-11-18T11:03:49Z)
 - Created comment on issue/PR [#45](https://github.com/Hans5958/mini-htmls/issues/45) on [Hans5958/mini-htmls](https://github.com/Hans5958/mini-htmls) (2026-11-16T22:51:33Z)
@@ -47,7 +47,6 @@ FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  <img src="https://img.shield
 - Deleted branch `react-client-side-routing-reaction` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:25:58Z)
 - Deleted branch `notification-entry-subtype` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:25:23Z)
 - Deleted branch `issue-366` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:25:17Z)
-- Deleted branch `275-event-venues` on [Hans5958/vocadb](https://github.com/Hans5958/vocadb) (2026-11-08T03:24:42Z)
 
 ### Activity graph (beta)
 
@@ -55,52 +54,51 @@ FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 ```
                                                                                  
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-               █                                                                 
-▄              █                                                                 
-█     ▄        █                                                            ▄    
-█     █       ▄█                                                   ▄        █    
+              ▄                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+              █                                                                  
+█     ▄       ██                                                          ▄      
+█     █       ██                                                 ▄        █     ▄
 ├───────────────────┼───────────────────┼───────────────────┼───────────────────┤
-05/11/2026          09/11/2026          12/11/2026          15/11/2026          Now
-15:11               00:11               09:11               18:11               
+05/11/2026          09/11/2026          12/11/2026          16/11/2026          Now
+15:11               02:11               13:11               00:11               
 ```
 
 ### lowlighter/metrics (beta)
@@ -109,7 +107,7 @@ FYI: It is **09:xx** (**9am**) in Jakarta. :sunny:  <img src="https://img.shield
 
 </details>
 
-*Last updated: 19/11/2026, 02:58:26 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
+*Last updated: 19/11/2026, 11:26:45 UTC* <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FHans5958%2FGitHub-Readme%2Fup&style=flat-square" align="right">  
 *Commit hash:* [`6aedd95`](https://github.com/Hans5958/Hans5958/commit/6aedd952926299ffb7d67c73008fa58ae89bf2e6
 ) <a href="https://github.com/Hans5958/Hans5958/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/actions/workflow/status/Hans5958/Hans5958/Build.yml?style=flat-square" align="right" style="margin-left:0.2rem"></a>
 
